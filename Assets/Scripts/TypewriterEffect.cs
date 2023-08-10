@@ -5,23 +5,35 @@ using TMPro;
 
 public class TypewriterEffect : MonoBehaviour
 {
-    TMP_Text txt;
-    public float typingSpeed = 0.05f;
+    public TMP_Text txt;
+    [SerializeField] float typingSpeed = 0.05f;
+    [SerializeField] bool allowSkip = false;
     
     // Start is called before the first frame update
     void Start()
     {
         txt = GetComponent<TMP_Text>();
-        StartCoroutine(TypeText(txt.text));
+        //StartCoroutine(TypeText(txt.text));
     }
 
-    IEnumerator TypeText(string content)
+    public IEnumerator TypeText(string content)
     {
         txt.text = "";
+
         foreach (char c in content)
         {
-            txt.text += c;
-            yield return new WaitForSeconds(typingSpeed);
+            if (allowSkip == true && Input.GetKeyDown(KeyCode.Space))
+            {
+                txt.text = content;
+                break;
+            }
+            else
+            {
+                txt.text += c;
+                yield return new WaitForSeconds(typingSpeed);
+            }
         }
+
+        yield return new WaitForSeconds(1f);
     }
 }
