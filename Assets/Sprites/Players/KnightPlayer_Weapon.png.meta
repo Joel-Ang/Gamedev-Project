@@ -1,0 +1,4391 @@
+fileFormatVersion: 2
+guid: 3bd6733043d0cd3489c7235198b275e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9221718707183249105
+    second: KnightPlayer_Weapon_0
+  - first:
+      213: 7978413708574163414
+    second: KnightPlayer_Weapon_1
+  - first:
+      213: -8564040387973710319
+    second: KnightPlayer_Weapon_2
+  - first:
+      213: 1036097041855354491
+    second: KnightPlayer_Weapon_3
+  - first:
+      213: -7187030989411965630
+    second: KnightPlayer_Weapon_4
+  - first:
+      213: 472702431411003336
+    second: KnightPlayer_Weapon_5
+  - first:
+      213: 7065846203888054082
+    second: KnightPlayer_Weapon_6
+  - first:
+      213: -7949749434410849210
+    second: KnightPlayer_Weapon_7
+  - first:
+      213: 6416371819156304851
+    second: KnightPlayer_Weapon_8
+  - first:
+      213: 1648581571904055410
+    second: KnightPlayer_Weapon_9
+  - first:
+      213: -2983135316984567214
+    second: KnightPlayer_Weapon_10
+  - first:
+      213: -9042658219705695814
+    second: KnightPlayer_Weapon_11
+  - first:
+      213: 1745675949632759171
+    second: KnightPlayer_Weapon_12
+  - first:
+      213: 627022747213025545
+    second: KnightPlayer_Weapon_13
+  - first:
+      213: 8033090164456961953
+    second: KnightPlayer_Weapon_14
+  - first:
+      213: 3880799767093400718
+    second: KnightPlayer_Weapon_15
+  - first:
+      213: 5398856566324343720
+    second: KnightPlayer_Weapon_16
+  - first:
+      213: 7821879441629140553
+    second: KnightPlayer_Weapon_17
+  - first:
+      213: -8329439318716584986
+    second: KnightPlayer_Weapon_18
+  - first:
+      213: 4413582494147012643
+    second: KnightPlayer_Weapon_19
+  - first:
+      213: -7781062953045705631
+    second: KnightPlayer_Weapon_20
+  - first:
+      213: -5732591316216772002
+    second: KnightPlayer_Weapon_21
+  - first:
+      213: 367451075561541891
+    second: KnightPlayer_Weapon_22
+  - first:
+      213: 3303526884409894742
+    second: KnightPlayer_Weapon_23
+  - first:
+      213: 7814029663859339576
+    second: KnightPlayer_Weapon_24
+  - first:
+      213: -3989434061505736342
+    second: KnightPlayer_Weapon_25
+  - first:
+      213: -7779326956163453426
+    second: KnightPlayer_Weapon_26
+  - first:
+      213: -780038304102405788
+    second: KnightPlayer_Weapon_27
+  - first:
+      213: -6994396088642706761
+    second: KnightPlayer_Weapon_28
+  - first:
+      213: -5761435338801398466
+    second: KnightPlayer_Weapon_29
+  - first:
+      213: -9201644012223508577
+    second: KnightPlayer_Weapon_30
+  - first:
+      213: 8491745476552992502
+    second: KnightPlayer_Weapon_31
+  - first:
+      213: -1055697456112563920
+    second: KnightPlayer_Weapon_32
+  - first:
+      213: 4274430369068494414
+    second: KnightPlayer_Weapon_33
+  - first:
+      213: 3360784161208441278
+    second: KnightPlayer_Weapon_34
+  - first:
+      213: -7468958935979458834
+    second: KnightPlayer_Weapon_35
+  - first:
+      213: 3648097026320493111
+    second: KnightPlayer_Weapon_36
+  - first:
+      213: -1406064556227435302
+    second: KnightPlayer_Weapon_37
+  - first:
+      213: 1019100295963323420
+    second: KnightPlayer_Weapon_38
+  - first:
+      213: -1573030071431746170
+    second: KnightPlayer_Weapon_39
+  - first:
+      213: 2343619015986094836
+    second: KnightPlayer_Weapon_40
+  - first:
+      213: 386628771738618230
+    second: KnightPlayer_Weapon_41
+  - first:
+      213: 4690748451527414301
+    second: KnightPlayer_Weapon_42
+  - first:
+      213: -9103454030397350260
+    second: KnightPlayer_Weapon_43
+  - first:
+      213: 179915420547218802
+    second: KnightPlayer_Weapon_44
+  - first:
+      213: -5360165219299883410
+    second: KnightPlayer_Weapon_45
+  - first:
+      213: 3773049241708424286
+    second: KnightPlayer_Weapon_46
+  - first:
+      213: -3836908525614236841
+    second: KnightPlayer_Weapon_47
+  - first:
+      213: 6498129191657582805
+    second: KnightPlayer_Weapon_48
+  - first:
+      213: -2378428863459738714
+    second: KnightPlayer_Weapon_49
+  - first:
+      213: -5532570972359792776
+    second: KnightPlayer_Weapon_50
+  - first:
+      213: -3439609743997318320
+    second: KnightPlayer_Weapon_51
+  - first:
+      213: 8764465265477428010
+    second: KnightPlayer_Weapon_52
+  - first:
+      213: 4398947341078672741
+    second: KnightPlayer_Weapon_53
+  - first:
+      213: 7740798028239539125
+    second: KnightPlayer_Weapon_54
+  - first:
+      213: 82044290347544625
+    second: KnightPlayer_Weapon_55
+  - first:
+      213: -3041828264901360627
+    second: KnightPlayer_Weapon_56
+  - first:
+      213: 6566916576696108074
+    second: KnightPlayer_Weapon_57
+  - first:
+      213: -2676860007090742559
+    second: KnightPlayer_Weapon_58
+  - first:
+      213: -8871663354906198819
+    second: KnightPlayer_Weapon_59
+  - first:
+      213: 2723848558849775187
+    second: KnightPlayer_Weapon_60
+  - first:
+      213: 8468292278588753314
+    second: KnightPlayer_Weapon_61
+  - first:
+      213: -7510599179921750889
+    second: KnightPlayer_Weapon_62
+  - first:
+      213: 8111267220312979365
+    second: KnightPlayer_Weapon_63
+  - first:
+      213: 285769920423823075
+    second: KnightPlayer_Weapon_64
+  - first:
+      213: -9019317390981810335
+    second: KnightPlayer_Weapon_65
+  - first:
+      213: -4937601024356419142
+    second: KnightPlayer_Weapon_66
+  - first:
+      213: -1155179552019476854
+    second: KnightPlayer_Weapon_67
+  - first:
+      213: 7555683681797140833
+    second: KnightPlayer_Weapon_68
+  - first:
+      213: 7201665554247138072
+    second: KnightPlayer_Weapon_69
+  - first:
+      213: 232447929384526478
+    second: KnightPlayer_Weapon_70
+  - first:
+      213: 4100960125287373185
+    second: KnightPlayer_Weapon_71
+  - first:
+      213: 5743289169842235256
+    second: KnightPlayer_Weapon_72
+  - first:
+      213: -4325098652555375466
+    second: KnightPlayer_Weapon_73
+  - first:
+      213: -7388252839544620733
+    second: KnightPlayer_Weapon_74
+  - first:
+      213: 358026609071793808
+    second: KnightPlayer_Weapon_75
+  - first:
+      213: -8420086251562133958
+    second: KnightPlayer_Weapon_76
+  - first:
+      213: 7555507374118248498
+    second: KnightPlayer_Weapon_77
+  - first:
+      213: 8282067652546914958
+    second: KnightPlayer_Weapon_78
+  - first:
+      213: -4560203682851220106
+    second: KnightPlayer_Weapon_79
+  - first:
+      213: -2288833800866479303
+    second: KnightPlayer_Weapon_80
+  - first:
+      213: 5485548253349072973
+    second: KnightPlayer_Weapon_81
+  - first:
+      213: -2086275382672892353
+    second: KnightPlayer_Weapon_82
+  - first:
+      213: -6234787925638111069
+    second: KnightPlayer_Weapon_83
+  - first:
+      213: 6052663335891200303
+    second: KnightPlayer_Weapon_84
+  - first:
+      213: -7293107934521972847
+    second: KnightPlayer_Weapon_85
+  - first:
+      213: 6897583878697732864
+    second: KnightPlayer_Weapon_86
+  - first:
+      213: -6800748139105352338
+    second: KnightPlayer_Weapon_87
+  - first:
+      213: -3314349536384327380
+    second: KnightPlayer_Weapon_88
+  - first:
+      213: -3399512118444867203
+    second: KnightPlayer_Weapon_89
+  - first:
+      213: 8719212335966832287
+    second: KnightPlayer_Weapon_90
+  - first:
+      213: 7831325145379194237
+    second: KnightPlayer_Weapon_91
+  - first:
+      213: 8040184044919114835
+    second: KnightPlayer_Weapon_92
+  - first:
+      213: -8207555485100020018
+    second: KnightPlayer_Weapon_93
+  - first:
+      213: -794412741140106058
+    second: KnightPlayer_Weapon_94
+  - first:
+      213: 2439394695691765870
+    second: KnightPlayer_Weapon_95
+  - first:
+      213: -1957838262580658940
+    second: KnightPlayer_Weapon_96
+  - first:
+      213: 2511322234776623999
+    second: KnightPlayer_Weapon_97
+  - first:
+      213: 2744683416833277882
+    second: KnightPlayer_Weapon_98
+  - first:
+      213: 7359254044373347830
+    second: KnightPlayer_Weapon_99
+  - first:
+      213: 1472801458492911604
+    second: KnightPlayer_Weapon_100
+  - first:
+      213: 3410530336992165282
+    second: KnightPlayer_Weapon_101
+  - first:
+      213: -1989830545099199694
+    second: KnightPlayer_Weapon_102
+  - first:
+      213: 1196866038768778296
+    second: KnightPlayer_Weapon_103
+  - first:
+      213: 6443706177683814467
+    second: KnightPlayer_Weapon_104
+  - first:
+      213: 4971191297690394989
+    second: KnightPlayer_Weapon_105
+  - first:
+      213: -845910956215350010
+    second: KnightPlayer_Weapon_106
+  - first:
+      213: 6961562381397421492
+    second: KnightPlayer_Weapon_107
+  - first:
+      213: 4404454798290911934
+    second: KnightPlayer_Weapon_108
+  - first:
+      213: 5616012730528882682
+    second: KnightPlayer_Weapon_109
+  - first:
+      213: 175906980683565811
+    second: KnightPlayer_Weapon_110
+  - first:
+      213: 7127348637107192232
+    second: KnightPlayer_Weapon_111
+  - first:
+      213: 5337572874793830061
+    second: KnightPlayer_Weapon_112
+  - first:
+      213: 6014266126301499268
+    second: KnightPlayer_Weapon_113
+  - first:
+      213: -6189985822157040710
+    second: KnightPlayer_Weapon_114
+  - first:
+      213: -8721518437500367935
+    second: KnightPlayer_Weapon_115
+  - first:
+      213: -5605121683755732441
+    second: KnightPlayer_Weapon_116
+  - first:
+      213: 2457305585752503201
+    second: KnightPlayer_Weapon_117
+  - first:
+      213: 4453104632464060464
+    second: KnightPlayer_Weapon_118
+  - first:
+      213: -6316921934010887843
+    second: KnightPlayer_Weapon_119
+  - first:
+      213: -5486791224458146580
+    second: KnightPlayer_Weapon_120
+  - first:
+      213: -1692328880946255912
+    second: KnightPlayer_Weapon_121
+  - first:
+      213: 4024518531324421929
+    second: KnightPlayer_Weapon_122
+  - first:
+      213: 6026935196210296400
+    second: KnightPlayer_Weapon_123
+  - first:
+      213: 3559118415034184774
+    second: KnightPlayer_Weapon_124
+  - first:
+      213: -1582232848462510902
+    second: KnightPlayer_Weapon_125
+  - first:
+      213: 2026457220459830202
+    second: KnightPlayer_Weapon_126
+  - first:
+      213: -496913971207275375
+    second: KnightPlayer_Weapon_127
+  - first:
+      213: -8555396277695981776
+    second: KnightPlayer_Weapon_128
+  - first:
+      213: 3010773274605893608
+    second: KnightPlayer_Weapon_129
+  - first:
+      213: -463316684762123860
+    second: KnightPlayer_Weapon_130
+  - first:
+      213: 4905900512042200729
+    second: KnightPlayer_Weapon_131
+  - first:
+      213: 1202383411580631619
+    second: KnightPlayer_Weapon_132
+  - first:
+      213: -5106597409840677401
+    second: KnightPlayer_Weapon_133
+  - first:
+      213: 1608704511744041530
+    second: KnightPlayer_Weapon_134
+  - first:
+      213: -5309019268073875371
+    second: KnightPlayer_Weapon_135
+  - first:
+      213: -775447733448599089
+    second: KnightPlayer_Weapon_136
+  - first:
+      213: -2967808116637006541
+    second: KnightPlayer_Weapon_137
+  - first:
+      213: -3163631936143659471
+    second: KnightPlayer_Weapon_138
+  - first:
+      213: -8658878365865615072
+    second: KnightPlayer_Weapon_139
+  - first:
+      213: -9140533921509309765
+    second: KnightPlayer_Weapon_140
+  - first:
+      213: 3327102088727594394
+    second: KnightPlayer_Weapon_141
+  - first:
+      213: 5962469024690737372
+    second: KnightPlayer_Weapon_142
+  - first:
+      213: -8808423989465534962
+    second: KnightPlayer_Weapon_143
+  - first:
+      213: 14383683739051203
+    second: KnightPlayer_Weapon_144
+  - first:
+      213: -7326599955497948191
+    second: KnightPlayer_Weapon_145
+  - first:
+      213: 5218967284809663032
+    second: KnightPlayer_Weapon_146
+  - first:
+      213: -6755255308877064599
+    second: KnightPlayer_Weapon_147
+  - first:
+      213: -4175414033044346699
+    second: KnightPlayer_Weapon_148
+  - first:
+      213: -8181628817927831347
+    second: KnightPlayer_Weapon_149
+  - first:
+      213: -8697325238781670855
+    second: KnightPlayer_Weapon_150
+  - first:
+      213: -3080942360944987887
+    second: KnightPlayer_Weapon_151
+  - first:
+      213: -1137755192934499211
+    second: KnightPlayer_Weapon_152
+  - first:
+      213: 4732432739785254564
+    second: KnightPlayer_Weapon_153
+  - first:
+      213: -3822421136271918443
+    second: KnightPlayer_Weapon_154
+  - first:
+      213: -3784672485099529749
+    second: KnightPlayer_Weapon_155
+  - first:
+      213: -5747515381895103989
+    second: KnightPlayer_Weapon_156
+  - first:
+      213: -7491645012764036217
+    second: KnightPlayer_Weapon_157
+  - first:
+      213: 6136355526185600721
+    second: KnightPlayer_Weapon_158
+  - first:
+      213: -7426572999233060346
+    second: KnightPlayer_Weapon_159
+  - first:
+      213: 3749114701923428518
+    second: KnightPlayer_Weapon_160
+  - first:
+      213: 3664447141289255211
+    second: KnightPlayer_Weapon_161
+  - first:
+      213: 6058360486561725338
+    second: KnightPlayer_Weapon_162
+  - first:
+      213: 5903880771263027085
+    second: KnightPlayer_Weapon_163
+  - first:
+      213: 1975837910728594866
+    second: KnightPlayer_Weapon_164
+  - first:
+      213: 1934466435323366548
+    second: KnightPlayer_Weapon_165
+  - first:
+      213: -4975908092425580070
+    second: KnightPlayer_Weapon_166
+  - first:
+      213: -1672058037503784250
+    second: KnightPlayer_Weapon_167
+  - first:
+      213: -4273508979804236193
+    second: KnightPlayer_Weapon_168
+  - first:
+      213: 5845892765532929488
+    second: KnightPlayer_Weapon_169
+  - first:
+      213: 7805350060453861705
+    second: KnightPlayer_Weapon_170
+  - first:
+      213: -4090722435623306519
+    second: KnightPlayer_Weapon_171
+  - first:
+      213: -4455747580662596836
+    second: KnightPlayer_Weapon_172
+  - first:
+      213: 1204395221357135474
+    second: KnightPlayer_Weapon_173
+  - first:
+      213: 4542864921353401771
+    second: KnightPlayer_Weapon_174
+  - first:
+      213: 8457418644914288243
+    second: KnightPlayer_Weapon_175
+  - first:
+      213: 1760088752802383420
+    second: KnightPlayer_Weapon_176
+  - first:
+      213: -6170539853647218713
+    second: KnightPlayer_Weapon_177
+  - first:
+      213: 2961963557163495846
+    second: KnightPlayer_Weapon_178
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2994cfc1bfd50080800000000000000
+      internalID: -9221718707183249105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1282
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d18baa1ff409be60800000000000000
+      internalID: 7978413708574163414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e7ab034aa662980800000000000000
+      internalID: -8564040387973710319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b761f9425c4f06e00800000000000000
+      internalID: 1036097041855354491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452066c469824c90800000000000000
+      internalID: -7187030989411965630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf57bc5b506f8600800000000000000
+      internalID: 472702431411003336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f2a4c9fadee0260800000000000000
+      internalID: 7065846203888054082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d373a39c288b0950800000000000000
+      internalID: 6416371819156304851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1217
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278a8908430f0e610800000000000000
+      internalID: 1648581571904055410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1217
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a663a0c36c996d0800000000000000
+      internalID: -2983135316984567214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1217
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab10d2d5246028280800000000000000
+      internalID: -9042658219705695814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385adc6f603e93810800000000000000
+      internalID: 1745675949632759171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901d8b1ddd1a3b800800000000000000
+      internalID: 627022747213025545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1217
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7342581f44b7f60800000000000000
+      internalID: 8033090164456961953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84550aa3de5bd530800000000000000
+      internalID: 3880799767093400718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a33c0551779cea40800000000000000
+      internalID: 5398856566324343720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9465c3af8e5ec8c60800000000000000
+      internalID: 7821879441629140553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1152
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe9b52213e76c80800000000000000
+      internalID: -8329439318716584986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1152
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328e38ee4e1304d30800000000000000
+      internalID: 4413582494147012643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1152
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c32c4587c140490800000000000000
+      internalID: -7781062953045705631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1152
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a096a029eb170b0800000000000000
+      internalID: -5732591316216772002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3015e2f6ec2791500800000000000000
+      internalID: 367451075561541891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1089
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576433d23c78dd20800000000000000
+      internalID: 3303526884409894742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83173ba2492017c60800000000000000
+      internalID: 7814029663859339576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a615b15abdea2a8c0800000000000000
+      internalID: -3989434061505736342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea14a99574a0490800000000000000
+      internalID: -7779326956163453426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46927c49b4fbc25f0800000000000000
+      internalID: -780038304102405788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1089
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e116b0d9eeee90800000000000000
+      internalID: -6994396088642706761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1026
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d3c52b5154b00b0800000000000000
+      internalID: -5761435338801398466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1024
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f41d5f5813d4080800000000000000
+      internalID: -9201644012223508577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1024
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6a8fc058db8d570800000000000000
+      internalID: 8491745476552992502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039802ac1c86951f0800000000000000
+      internalID: -1055697456112563920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1024
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e287516c3d15b30800000000000000
+      internalID: 4274430369068494414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1024
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9969f6367e3ae20800000000000000
+      internalID: 3360784161208441278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_35
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1024
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef6f28b6de85890800000000000000
+      internalID: -7468958935979458834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aedffbae4a0a230800000000000000
+      internalID: 3648097026320493111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 961
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ebca5cb7ac7ce0800000000000000
+      internalID: -1406064556227435302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 961
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ca36bd152942e00800000000000000
+      internalID: 1019100295963323420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 961
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dad4bfb797b2ae0800000000000000
+      internalID: -1573030071431746170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 960
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a3b8f315368020800000000000000
+      internalID: 2343619015986094836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 960
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6790d67c1d49d5500800000000000000
+      internalID: 386628771738618230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 960
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1251003dd2e81140800000000000000
+      internalID: 4690748451527414301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 960
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e5111aac80aa180800000000000000
+      internalID: -9103454030397350260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_44
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 960
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27df45b2f103f7200800000000000000
+      internalID: 179915420547218802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 896
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e660a36e12edc95b0800000000000000
+      internalID: -5360165219299883410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 897
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c661c7b409c5430800000000000000
+      internalID: 3773049241708424286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 897
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b7817560090cac0800000000000000
+      internalID: -3836908525614236841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 897
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b85d321efd2a50800000000000000
+      internalID: 6498129191657582805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 897
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab32f5dc8f1efed0800000000000000
+      internalID: -2378428863459738714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8776bd1730c5833b0800000000000000
+      internalID: -5532570972359792776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 897
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b4113692d0440d0800000000000000
+      internalID: -3439609743997318320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 897
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23280b09b2a1a970800000000000000
+      internalID: 8764465265477428010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 833
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565b4a2dc433c0d30800000000000000
+      internalID: 4398947341078672741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_54
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 833
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb034f4bc6dc6b60800000000000000
+      internalID: 7740798028239539125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_55
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 833
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130b30ee8da732100800000000000000
+      internalID: 82044290347544625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 832
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04cfc23f4149c5d0800000000000000
+      internalID: -3041828264901360627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 832
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24889f55df522b50800000000000000
+      internalID: 6566916576696108074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 832
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea18e39102e9dad0800000000000000
+      internalID: -2676860007090742559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 832
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc37fbce2581e480800000000000000
+      internalID: -8871663354906198819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_60
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 832
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356533c25dd0dc520800000000000000
+      internalID: 2723848558849775187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 771
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5477fd5fa658570800000000000000
+      internalID: 8468292278588753314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 771
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7948c66b6ddf4c790800000000000000
+      internalID: -7510599179921750889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 770
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77601cf82019070800000000000000
+      internalID: 8111267220312979365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 769
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e68a528a3247f300800000000000000
+      internalID: 285769920423823075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 770
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167b60a8e92f4d280800000000000000
+      internalID: -9019317390981810335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_66
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 771
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab971a4670e1a7bb0800000000000000
+      internalID: -4937601024356419142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_67
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 770
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e851e515af7ffe0800000000000000
+      internalID: -1155179552019476854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 769
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161fbb0e64e2bd860800000000000000
+      internalID: 7555683681797140833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_69
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 770
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b31106aa471f360800000000000000
+      internalID: 7201665554247138072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_70
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 705
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e826db30922d93300800000000000000
+      internalID: 232447929384526478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 706
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899bc1918989e830800000000000000
+      internalID: 4100960125287373185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8776bca121344bf40800000000000000
+      internalID: 5743289169842235256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 707
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8aebd0b92af3c0800000000000000
+      internalID: -4325098652555375466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_74
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 706
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349fb24ef27a77990800000000000000
+      internalID: -7388252839544620733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096acd5dd47f7f400800000000000000
+      internalID: 358026609071793808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 706
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361d7d6a28d52b80800000000000000
+      internalID: -8420086251562133958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 706
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a92c0ded8ad860800000000000000
+      internalID: 7555507374118248498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 706
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aefc356a0dfe270800000000000000
+      internalID: 8282067652546914958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_79
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 640
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675993459e6e6b0c0800000000000000
+      internalID: -4560203682851220106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 640
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933427de8cd6c30e0800000000000000
+      internalID: -2288833800866479303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 641
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40d22f9215902c40800000000000000
+      internalID: 5485548253349072973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 641
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ed320d79f0c03e0800000000000000
+      internalID: -2086275382672892353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_83
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 640
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0227a3a659979a0800000000000000
+      internalID: -6234787925638111069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_84
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 640
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2963d05c316ff350800000000000000
+      internalID: 6052663335891200303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_85
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 641
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972c3e59fca9ca90800000000000000
+      internalID: -7293107934521972847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_86
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 641
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b4d322ef329bf50800000000000000
+      internalID: 6897583878697732864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_87
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 640
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e650ab17993ee91a0800000000000000
+      internalID: -6800748139105352338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_88
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 577
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e45628a01102d0800000000000000
+      internalID: -3314349536384327380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_89
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 578
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71457a5db182d0d0800000000000000
+      internalID: -3399512118444867203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 579
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c1865c6dd00970800000000000000
+      internalID: 8719212335966832287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_91
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 579
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7549e24ab47eac60800000000000000
+      internalID: 7831325145379194237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_92
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 578
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cca264ac8749f60800000000000000
+      internalID: 8040184044919114835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_93
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 578
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceed4495c7e81e80800000000000000
+      internalID: -8207555485100020018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_94
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 578
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4bc4722dda9f4f0800000000000000
+      internalID: -794412741140106058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_95
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 578
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680eaf1d887ad120800000000000000
+      internalID: 2439394695691765870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_96
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 578
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d3637297c54d4e0800000000000000
+      internalID: -1957838262580658940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 514
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b966854420ad220800000000000000
+      internalID: 2511322234776623999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_98
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 513
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfb0419603171620800000000000000
+      internalID: 2744683416833277882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_99
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 513
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdeab6ff82512660800000000000000
+      internalID: 7359254044373347830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_100
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 513
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffa52e8f11707410800000000000000
+      internalID: 1472801458492911604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_101
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 513
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad7c109543a45f20800000000000000
+      internalID: 3410530336992165282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_102
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 513
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23be32c69a3b264e0800000000000000
+      internalID: -1989830545099199694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_103
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 449
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cba8c225f1c9010800000000000000
+      internalID: 1196866038768778296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 448
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34875ddd0a4ac6950800000000000000
+      internalID: 6443706177683814467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61695195283df440800000000000000
+      internalID: 4971191297690394989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d4c279778b244f0800000000000000
+      internalID: -845910956215350010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd6ae81a107c9060800000000000000
+      internalID: 6961562381397421492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_108
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb20561ad44cf1d30800000000000000
+      internalID: 4404454798290911934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_109
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 384
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affde31d2d510fd40800000000000000
+      internalID: 5616012730528882682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 384
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac7298772f07200800000000000000
+      internalID: 175906980683565811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_111
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 384
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a18329b2dd69e260800000000000000
+      internalID: 7127348637107192232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_112
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 385
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6c8dcff3ed21a40800000000000000
+      internalID: 5337572874793830061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_113
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 385
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8dda4d27f67350800000000000000
+      internalID: 6014266126301499268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_114
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 385
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab310a1d0b0c81aa0800000000000000
+      internalID: -6189985822157040710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_115
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 321
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb45ce8031f6f680800000000000000
+      internalID: -8721518437500367935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_116
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72276ec968b9632b0800000000000000
+      internalID: -5605121683755732441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_117
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 320
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a37c5f296a1a1220800000000000000
+      internalID: 2457305585752503201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_118
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 320
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030baa5d11b9ccd30800000000000000
+      internalID: 4453104632464060464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_119
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 320
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51586138f8c558a0800000000000000
+      internalID: -6316921934010887843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_120
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 320
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec017d93700bd3b0800000000000000
+      internalID: -5486791224458146580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7601069d3a388e0800000000000000
+      internalID: -1692328880946255912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_122
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927a19b0846f9d730800000000000000
+      internalID: 4024518531324421929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_123
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056f96ef0a9f3a350800000000000000
+      internalID: 6026935196210296400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_124
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644f9a96757846130800000000000000
+      internalID: 3559118415034184774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_125
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4007b7b97ca0ae0800000000000000
+      internalID: -1582232848462510902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_126
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 256
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb980afa1c6f1c10800000000000000
+      internalID: 2026457220459830202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_127
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 256
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cf24e306b9a19f0800000000000000
+      internalID: -496913971207275375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_128
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 256
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0375b33f960254980800000000000000
+      internalID: -8555396277695981776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_129
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 256
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7bf1c675a68c920800000000000000
+      internalID: 3010773274605893608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_130
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 256
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1fd321ee7f199f0800000000000000
+      internalID: -463316684762123860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_131
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eaeabe582451440800000000000000
+      internalID: 4905900512042200729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_132
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af513a759bfa010800000000000000
+      internalID: 1202383411580631619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_133
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed348f26b8b129b0800000000000000
+      internalID: -5106597409840677401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 193
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32621bea34435610800000000000000
+      internalID: 1608704511744041530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 193
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55890c4aa139256b0800000000000000
+      internalID: -5309019268073875371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_136
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 193
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc91ae9156e0d35f0800000000000000
+      internalID: -775447733448599089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_137
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3358456fd3a30d6d0800000000000000
+      internalID: -2967808116637006541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e631604858814d0800000000000000
+      internalID: -3163631936143659471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_139
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e341c00c75d780800000000000000
+      internalID: -8658878365865615072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb28707b3dc462180800000000000000
+      internalID: -9140533921509309765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_141
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 192
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a958112d8bd3c2e20800000000000000
+      internalID: 3327102088727594394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_142
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 192
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd016f8ccf1feb250800000000000000
+      internalID: 5962469024690737372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_143
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea0e4fc0132c580800000000000000
+      internalID: -8808423989465534962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_144
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e3d752e9133000800000000000000
+      internalID: 14383683739051203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_145
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebe6219820b25a90800000000000000
+      internalID: -7326599955497948191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_146
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320771281f7d6840800000000000000
+      internalID: 5218967284809663032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_147
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9669f4366138042a0800000000000000
+      internalID: -6755255308877064599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_148
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 129
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e53a2f03fd06c0800000000000000
+      internalID: -4175414033044346699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0005f20f3057e80800000000000000
+      internalID: -8181628817927831347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a016696c4ec4780800000000000000
+      internalID: -8697325238781670855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_151
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111bb6a0f3b4e35d0800000000000000
+      internalID: -3080942360944987887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c78cb1ea1e530f0800000000000000
+      internalID: -1137755192934499211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_153
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6245ad08afca140800000000000000
+      internalID: 4732432739785254564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a31968a3804fac0800000000000000
+      internalID: -3822421136271918443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be992764d642a7bc0800000000000000
+      internalID: -3784672485099529749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a7c093639bc30b0800000000000000
+      internalID: -5747515381895103989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_157
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7837fd6ad84580890800000000000000
+      internalID: -7491645012764036217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_158
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d64cc9d6d6b82550800000000000000
+      internalID: 6136355526185600721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602c43274338fe890800000000000000
+      internalID: -7426572999233060346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_160
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8275e25f7870430800000000000000
+      internalID: 3749114701923428518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_161
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21edba824bbad230800000000000000
+      internalID: 3664447141289255211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_162
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b36c293ce931450800000000000000
+      internalID: 6058360486561725338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d875467084ccee150800000000000000
+      internalID: 5903880771263027085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b55ab28c169b6b10800000000000000
+      internalID: 1975837910728594866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_165
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 64
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c8d5349fa98da10800000000000000
+      internalID: 1934466435323366548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_166
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad15bf314f502fab0800000000000000
+      internalID: -4975908092425580070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_167
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca00c6e218abc8e0800000000000000
+      internalID: -1672058037503784250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_168
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 64
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f569352993271b4c0800000000000000
+      internalID: -4273508979804236193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_169
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddbd945f78c02150800000000000000
+      internalID: 5845892765532929488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_170
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9491de4868c225c60800000000000000
+      internalID: 7805350060453861705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_171
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 64
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab3fd4e95da37c0800000000000000
+      internalID: -4090722435623306519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_172
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bbcc5de210a22c0800000000000000
+      internalID: -4455747580662596836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2768b2a921fd6b010800000000000000
+      internalID: 1204395221357135474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_174
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53adba39f7b0f30800000000000000
+      internalID: 4542864921353401771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_175
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376b1eeb279ce5570800000000000000
+      internalID: 8457418644914288243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_176
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3642f335671d6810800000000000000
+      internalID: 1760088752802383420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_177
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e777fe22b6dd5aa0800000000000000
+      internalID: -6170539853647218713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_Weapon_178
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1f16e79220b1920800000000000000
+      internalID: 2961963557163495846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
