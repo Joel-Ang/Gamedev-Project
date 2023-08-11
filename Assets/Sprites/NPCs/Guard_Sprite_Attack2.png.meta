@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: 1419ab58ccca04247abcf4cc5fe7c23b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3335062700386342024
+    second: Guard_Sprite_Attack2_0
+  - first:
+      213: 6978656107909799467
+    second: Guard_Sprite_Attack2_1
+  - first:
+      213: 4597021142481173779
+    second: Guard_Sprite_Attack2_2
+  - first:
+      213: -8661186369228021984
+    second: Guard_Sprite_Attack2_3
+  - first:
+      213: -3021205164345207885
+    second: Guard_Sprite_Attack2_4
+  - first:
+      213: 2714616895851869490
+    second: Guard_Sprite_Attack2_5
+  - first:
+      213: -5697632890984958228
+    second: Guard_Sprite_Attack2_6
+  - first:
+      213: 976163907482373393
+    second: Guard_Sprite_Attack2_7
+  - first:
+      213: 6860800753636700325
+    second: Guard_Sprite_Attack2_8
+  - first:
+      213: 5179470322004623478
+    second: Guard_Sprite_Attack2_9
+  - first:
+      213: 7993161468796241355
+    second: Guard_Sprite_Attack2_10
+  - first:
+      213: -180927350657151320
+    second: Guard_Sprite_Attack2_11
+  - first:
+      213: 505193012902356310
+    second: Guard_Sprite_Attack2_12
+  - first:
+      213: 8415209902001950823
+    second: Guard_Sprite_Attack2_13
+  - first:
+      213: -2728335213847878788
+    second: Guard_Sprite_Attack2_14
+  - first:
+      213: -2529136103410775285
+    second: Guard_Sprite_Attack2_15
+  - first:
+      213: 953360306217715910
+    second: Guard_Sprite_Attack2_16
+  - first:
+      213: -8934228269846838195
+    second: Guard_Sprite_Attack2_17
+  - first:
+      213: -3159656561427975936
+    second: Guard_Sprite_Attack2_18
+  - first:
+      213: -1096520773526421377
+    second: Guard_Sprite_Attack2_19
+  - first:
+      213: -8096317424808995949
+    second: Guard_Sprite_Attack2_20
+  - first:
+      213: -626652788259947908
+    second: Guard_Sprite_Attack2_21
+  - first:
+      213: -3637413138359289946
+    second: Guard_Sprite_Attack2_22
+  - first:
+      213: 6143929162660682065
+    second: Guard_Sprite_Attack2_23
+  - first:
+      213: -2185619197770188080
+    second: Guard_Sprite_Attack2_24
+  - first:
+      213: 3669492209285684593
+    second: Guard_Sprite_Attack2_25
+  - first:
+      213: -550458975289650002
+    second: Guard_Sprite_Attack2_26
+  - first:
+      213: -8514831366462852134
+    second: Guard_Sprite_Attack2_27
+  - first:
+      213: -1686185028796002599
+    second: Guard_Sprite_Attack2_28
+  - first:
+      213: -7368641370414507184
+    second: Guard_Sprite_Attack2_29
+  - first:
+      213: 1750654941626555673
+    second: Guard_Sprite_Attack2_30
+  - first:
+      213: 6971951049553642717
+    second: Guard_Sprite_Attack2_31
+  - first:
+      213: 2959374160655750350
+    second: Guard_Sprite_Attack2_32
+  - first:
+      213: -8717096850894194909
+    second: Guard_Sprite_Attack2_33
+  - first:
+      213: -9144867261202054612
+    second: Guard_Sprite_Attack2_34
+  - first:
+      213: -864119118137491939
+    second: Guard_Sprite_Attack2_35
+  - first:
+      213: -3011991151818253825
+    second: Guard_Sprite_Attack2_36
+  - first:
+      213: 6436211100030825458
+    second: Guard_Sprite_Attack2_37
+  - first:
+      213: 8056284731838895119
+    second: Guard_Sprite_Attack2_38
+  - first:
+      213: 9221279083627370771
+    second: Guard_Sprite_Attack2_39
+  - first:
+      213: -3206957332959234075
+    second: Guard_Sprite_Attack2_40
+  - first:
+      213: 4604961870858017101
+    second: Guard_Sprite_Attack2_41
+  - first:
+      213: 7052471095584657733
+    second: Guard_Sprite_Attack2_42
+  - first:
+      213: -6838009328735769474
+    second: Guard_Sprite_Attack2_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 998
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884de282bd5884e20800000000000000
+      internalID: 3335062700386342024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 998
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed29171ca29d060800000000000000
+      internalID: 6978656107909799467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 998
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dfc8e7f56ebcf30800000000000000
+      internalID: 4597021142481173779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_3
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 995
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f55b8d2e84dc780800000000000000
+      internalID: -8661186369228021984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_4
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 997
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d0a9f8e58216d0800000000000000
+      internalID: -3021205164345207885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_5
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 996
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23536822fa14ca520800000000000000
+      internalID: 2714616895851869490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 805
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce67240b211fde0b0800000000000000
+      internalID: -5697632890984958228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 805
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d4b04e6e70c8d00800000000000000
+      internalID: 976163907482373393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 805
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a07f337fe5763f50800000000000000
+      internalID: 6860800753636700325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 805
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67083cbd0dc21e740800000000000000
+      internalID: 5179470322004623478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_10
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 805
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc580fb910a6dee60800000000000000
+      internalID: 7993161468796241355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_11
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 805
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8ded78873d7df0800000000000000
+      internalID: -180927350657151320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655ed0d5e5ec20700800000000000000
+      internalID: 505193012902356310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 613
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7601d27f1d4d8c470800000000000000
+      internalID: 8415209902001950823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 613
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73686e0491032ad0800000000000000
+      internalID: -2728335213847878788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 613
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc5972d14b6ecd0800000000000000
+      internalID: -2529136103410775285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_16
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 613
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8801bb5240b3d00800000000000000
+      internalID: 953360306217715910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_17
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 613
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c68169be330480800000000000000
+      internalID: -8934228269846838195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_18
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 613
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017ad31915a624d0800000000000000
+      internalID: -3159656561427975936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_19
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 613
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f700f158a2068c0f0800000000000000
+      internalID: -1096520773526421377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 421
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3935471c23a14af80800000000000000
+      internalID: -8096317424808995949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 422
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af146fb9ead47f0800000000000000
+      internalID: -626652788259947908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_22
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 422
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a771c2c500558dc0800000000000000
+      internalID: -3637413138359289946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_23
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 421
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1599d81850f934550800000000000000
+      internalID: 6143929162660682065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_24
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 421
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da32a66bee1ba1e0800000000000000
+      internalID: -2185619197770188080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_25
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 421
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d5988f8b7ace230800000000000000
+      internalID: 3669492209285684593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_26
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 421
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea45f6a7a706c58f0800000000000000
+      internalID: -550458975289650002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_27
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 421
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3b0a75cfd35d980800000000000000
+      internalID: -8514831366462852134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 229
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de480d66a77998e0800000000000000
+      internalID: -1686185028796002599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 230
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b123fd6b35db990800000000000000
+      internalID: -7368641370414507184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_30
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 230
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ddeefd4639b4810800000000000000
+      internalID: 1750654941626555673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_31
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 229
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd48e046a8851c060800000000000000
+      internalID: 6971951049553642717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_32
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 216
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec41b53ae1fc11920800000000000000
+      internalID: 2959374160655750350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_33
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 205
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32776c96996a60780800000000000000
+      internalID: -8717096850894194909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_34
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 216
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22c3f17da7e61180800000000000000
+      internalID: -9144867261202054612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_35
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 229
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7ac78d380204f0800000000000000
+      internalID: -864119118137491939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 37
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9d04171024336d0800000000000000
+      internalID: -3011991151818253825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 38
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f373cc15e3025950800000000000000
+      internalID: 6436211100030825458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_38
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 38
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0419a2974cadcf60800000000000000
+      internalID: 8056284731838895119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_39
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 37
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319595a587098ff70800000000000000
+      internalID: 9221279083627370771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_40
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 37
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7712ffb499e73d0800000000000000
+      internalID: -3206957332959234075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_41
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 37
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49d5b46c6c18ef30800000000000000
+      internalID: 4604961870858017101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_42
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 37
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541980988196fd160800000000000000
+      internalID: 7052471095584657733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Sprite_Attack2_43
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 37
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ca5edaeb28a11a0800000000000000
+      internalID: -6838009328735769474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

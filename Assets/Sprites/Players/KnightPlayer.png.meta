@@ -1,0 +1,4391 @@
+fileFormatVersion: 2
+guid: 2b19076e0e952be4a93369a1e7759269
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6880694844787424158
+    second: KnightPlayer_0
+  - first:
+      213: 2938879808963218200
+    second: KnightPlayer_1
+  - first:
+      213: -7005398190508545832
+    second: KnightPlayer_2
+  - first:
+      213: 2246687694398855705
+    second: KnightPlayer_3
+  - first:
+      213: 1432021550947593811
+    second: KnightPlayer_4
+  - first:
+      213: -3585245767076978854
+    second: KnightPlayer_5
+  - first:
+      213: -5073550839573468590
+    second: KnightPlayer_6
+  - first:
+      213: 7985011769150425102
+    second: KnightPlayer_7
+  - first:
+      213: 7094578930533849620
+    second: KnightPlayer_8
+  - first:
+      213: 3051661449947630783
+    second: KnightPlayer_9
+  - first:
+      213: 2952827925845509360
+    second: KnightPlayer_10
+  - first:
+      213: -3818936863272339838
+    second: KnightPlayer_11
+  - first:
+      213: -4981563554612674887
+    second: KnightPlayer_12
+  - first:
+      213: 7881622596342461731
+    second: KnightPlayer_13
+  - first:
+      213: -5640829522950837056
+    second: KnightPlayer_14
+  - first:
+      213: 4973830484996810171
+    second: KnightPlayer_15
+  - first:
+      213: 7431808731568375091
+    second: KnightPlayer_16
+  - first:
+      213: -6489146139459871336
+    second: KnightPlayer_17
+  - first:
+      213: 4263184507853712494
+    second: KnightPlayer_18
+  - first:
+      213: 7328834644929959189
+    second: KnightPlayer_19
+  - first:
+      213: -6133159173787116923
+    second: KnightPlayer_20
+  - first:
+      213: 4147119849213861229
+    second: KnightPlayer_21
+  - first:
+      213: -7834108901797574754
+    second: KnightPlayer_22
+  - first:
+      213: -3088570796495659518
+    second: KnightPlayer_23
+  - first:
+      213: 7488125368619372438
+    second: KnightPlayer_24
+  - first:
+      213: 6464035268030377374
+    second: KnightPlayer_25
+  - first:
+      213: -1936396778913650125
+    second: KnightPlayer_26
+  - first:
+      213: -4847586998540061858
+    second: KnightPlayer_27
+  - first:
+      213: -4978288770858401154
+    second: KnightPlayer_28
+  - first:
+      213: 8781411199559279102
+    second: KnightPlayer_29
+  - first:
+      213: -353335965546627780
+    second: KnightPlayer_30
+  - first:
+      213: 45855743181360083
+    second: KnightPlayer_31
+  - first:
+      213: -2713008959398854467
+    second: KnightPlayer_32
+  - first:
+      213: 2365462321911342982
+    second: KnightPlayer_33
+  - first:
+      213: -3080878652848434393
+    second: KnightPlayer_34
+  - first:
+      213: 1444630661232433604
+    second: KnightPlayer_35
+  - first:
+      213: 547308138967062708
+    second: KnightPlayer_36
+  - first:
+      213: 8772424631742207151
+    second: KnightPlayer_37
+  - first:
+      213: 2312915354102085934
+    second: KnightPlayer_38
+  - first:
+      213: 2987089083731132451
+    second: KnightPlayer_39
+  - first:
+      213: 5958388417920347767
+    second: KnightPlayer_40
+  - first:
+      213: 2957518448531223443
+    second: KnightPlayer_41
+  - first:
+      213: -6503079527572081340
+    second: KnightPlayer_42
+  - first:
+      213: -5939322439725278643
+    second: KnightPlayer_43
+  - first:
+      213: -4179005437566778732
+    second: KnightPlayer_44
+  - first:
+      213: -7209713742932635528
+    second: KnightPlayer_45
+  - first:
+      213: -2239905028720973433
+    second: KnightPlayer_46
+  - first:
+      213: -1565439709553052811
+    second: KnightPlayer_47
+  - first:
+      213: 2644045945161811826
+    second: KnightPlayer_48
+  - first:
+      213: -8983189281728507193
+    second: KnightPlayer_49
+  - first:
+      213: -5544993724311620993
+    second: KnightPlayer_50
+  - first:
+      213: 4481968382125442026
+    second: KnightPlayer_51
+  - first:
+      213: -8643737141594087391
+    second: KnightPlayer_52
+  - first:
+      213: 6566728202757161039
+    second: KnightPlayer_53
+  - first:
+      213: -9158575379613842803
+    second: KnightPlayer_54
+  - first:
+      213: -6954581901957283629
+    second: KnightPlayer_55
+  - first:
+      213: -357214101215303536
+    second: KnightPlayer_56
+  - first:
+      213: -7078267136343337471
+    second: KnightPlayer_57
+  - first:
+      213: 6225020071448747591
+    second: KnightPlayer_58
+  - first:
+      213: 238114142587989262
+    second: KnightPlayer_59
+  - first:
+      213: -1373935333942589622
+    second: KnightPlayer_60
+  - first:
+      213: 5278108756501992047
+    second: KnightPlayer_61
+  - first:
+      213: -8266016198839229005
+    second: KnightPlayer_62
+  - first:
+      213: -7517023728250143432
+    second: KnightPlayer_63
+  - first:
+      213: -3432139912411144413
+    second: KnightPlayer_64
+  - first:
+      213: -3819428968522719674
+    second: KnightPlayer_65
+  - first:
+      213: 5998124161275205473
+    second: KnightPlayer_66
+  - first:
+      213: -3154780735504291273
+    second: KnightPlayer_67
+  - first:
+      213: -2128810844571766557
+    second: KnightPlayer_68
+  - first:
+      213: -8951308633776766051
+    second: KnightPlayer_69
+  - first:
+      213: 1175276144493361475
+    second: KnightPlayer_70
+  - first:
+      213: -3244291286220210831
+    second: KnightPlayer_71
+  - first:
+      213: 4584695023808413820
+    second: KnightPlayer_72
+  - first:
+      213: -7722736888354680440
+    second: KnightPlayer_73
+  - first:
+      213: -8437813097385700195
+    second: KnightPlayer_74
+  - first:
+      213: -8244152665297993715
+    second: KnightPlayer_75
+  - first:
+      213: 1656128849908376451
+    second: KnightPlayer_76
+  - first:
+      213: -969497384019554564
+    second: KnightPlayer_77
+  - first:
+      213: 6785505821079450725
+    second: KnightPlayer_78
+  - first:
+      213: -2331693881926273152
+    second: KnightPlayer_79
+  - first:
+      213: 4593316249310010840
+    second: KnightPlayer_80
+  - first:
+      213: -8499882885099671167
+    second: KnightPlayer_81
+  - first:
+      213: -9015562935954502757
+    second: KnightPlayer_82
+  - first:
+      213: -8563249318053669988
+    second: KnightPlayer_83
+  - first:
+      213: 1916210635017084228
+    second: KnightPlayer_84
+  - first:
+      213: 1606113578647463503
+    second: KnightPlayer_85
+  - first:
+      213: 6708311876470647316
+    second: KnightPlayer_86
+  - first:
+      213: -5348554872257667661
+    second: KnightPlayer_87
+  - first:
+      213: -4213684560384186288
+    second: KnightPlayer_88
+  - first:
+      213: 2936607554108573668
+    second: KnightPlayer_89
+  - first:
+      213: 7384632891271885728
+    second: KnightPlayer_90
+  - first:
+      213: -6508298565580278109
+    second: KnightPlayer_91
+  - first:
+      213: 553488333892485087
+    second: KnightPlayer_92
+  - first:
+      213: -1415568087238195117
+    second: KnightPlayer_93
+  - first:
+      213: -984445885198598786
+    second: KnightPlayer_94
+  - first:
+      213: -8167451371938242546
+    second: KnightPlayer_95
+  - first:
+      213: 4804815874232727032
+    second: KnightPlayer_96
+  - first:
+      213: -6950067625733534239
+    second: KnightPlayer_97
+  - first:
+      213: 2871129758147704752
+    second: KnightPlayer_98
+  - first:
+      213: 4342168271703614954
+    second: KnightPlayer_99
+  - first:
+      213: 4118787002899654103
+    second: KnightPlayer_100
+  - first:
+      213: 5317892214903971008
+    second: KnightPlayer_101
+  - first:
+      213: -145696891108513158
+    second: KnightPlayer_102
+  - first:
+      213: -8069844400825740078
+    second: KnightPlayer_103
+  - first:
+      213: -6707875508679589622
+    second: KnightPlayer_104
+  - first:
+      213: -6183455301354641203
+    second: KnightPlayer_105
+  - first:
+      213: -3826125019226091126
+    second: KnightPlayer_106
+  - first:
+      213: -561536702150912721
+    second: KnightPlayer_107
+  - first:
+      213: -6723282975033545444
+    second: KnightPlayer_108
+  - first:
+      213: 7680940755691648988
+    second: KnightPlayer_109
+  - first:
+      213: 7594169241596098707
+    second: KnightPlayer_110
+  - first:
+      213: -6856787429154469008
+    second: KnightPlayer_111
+  - first:
+      213: -4071983052110491160
+    second: KnightPlayer_112
+  - first:
+      213: -9054729395138533613
+    second: KnightPlayer_113
+  - first:
+      213: 2250836378605128330
+    second: KnightPlayer_114
+  - first:
+      213: -5269854468772788169
+    second: KnightPlayer_115
+  - first:
+      213: 367665203804947989
+    second: KnightPlayer_116
+  - first:
+      213: -4922860953248360365
+    second: KnightPlayer_117
+  - first:
+      213: 2754980695926860808
+    second: KnightPlayer_118
+  - first:
+      213: -8392690934475347245
+    second: KnightPlayer_119
+  - first:
+      213: -1497506861573663175
+    second: KnightPlayer_120
+  - first:
+      213: 7480823113587621163
+    second: KnightPlayer_121
+  - first:
+      213: 5021000458425394251
+    second: KnightPlayer_122
+  - first:
+      213: 5809689960403047364
+    second: KnightPlayer_123
+  - first:
+      213: -4086153838123732324
+    second: KnightPlayer_124
+  - first:
+      213: -7603149334879380601
+    second: KnightPlayer_125
+  - first:
+      213: 174314836328927589
+    second: KnightPlayer_126
+  - first:
+      213: 1111275218470818213
+    second: KnightPlayer_127
+  - first:
+      213: -1636197549699629520
+    second: KnightPlayer_128
+  - first:
+      213: -3191731319752703773
+    second: KnightPlayer_129
+  - first:
+      213: -4167040454894148408
+    second: KnightPlayer_130
+  - first:
+      213: -6739869222881755382
+    second: KnightPlayer_131
+  - first:
+      213: 8296623691058455072
+    second: KnightPlayer_132
+  - first:
+      213: -3503209483715749700
+    second: KnightPlayer_133
+  - first:
+      213: 941275124510492507
+    second: KnightPlayer_134
+  - first:
+      213: -2029150284168261946
+    second: KnightPlayer_135
+  - first:
+      213: -166467276573366508
+    second: KnightPlayer_136
+  - first:
+      213: -5053719918825342882
+    second: KnightPlayer_137
+  - first:
+      213: 3081852932059186769
+    second: KnightPlayer_138
+  - first:
+      213: 7708496330513555250
+    second: KnightPlayer_139
+  - first:
+      213: 2369503588910530083
+    second: KnightPlayer_140
+  - first:
+      213: -8225206998887729115
+    second: KnightPlayer_141
+  - first:
+      213: 9079813976678809137
+    second: KnightPlayer_142
+  - first:
+      213: 7038380073334245506
+    second: KnightPlayer_143
+  - first:
+      213: 526999502358393180
+    second: KnightPlayer_144
+  - first:
+      213: -3591011689602017074
+    second: KnightPlayer_145
+  - first:
+      213: -8061215593340059036
+    second: KnightPlayer_146
+  - first:
+      213: -5837421994915114453
+    second: KnightPlayer_147
+  - first:
+      213: -60480941197901330
+    second: KnightPlayer_148
+  - first:
+      213: -4142994010849589919
+    second: KnightPlayer_149
+  - first:
+      213: -2410704924451571063
+    second: KnightPlayer_150
+  - first:
+      213: 8063552376930493956
+    second: KnightPlayer_151
+  - first:
+      213: -7665145377215731941
+    second: KnightPlayer_152
+  - first:
+      213: -6199128582777511273
+    second: KnightPlayer_153
+  - first:
+      213: -6239988969727978571
+    second: KnightPlayer_154
+  - first:
+      213: -813929174146462996
+    second: KnightPlayer_155
+  - first:
+      213: -1442670570329591005
+    second: KnightPlayer_156
+  - first:
+      213: 6960510803975086240
+    second: KnightPlayer_157
+  - first:
+      213: -4943103983398749598
+    second: KnightPlayer_158
+  - first:
+      213: 1687516445429266418
+    second: KnightPlayer_159
+  - first:
+      213: -1294603915701634687
+    second: KnightPlayer_160
+  - first:
+      213: 5336960818166574585
+    second: KnightPlayer_161
+  - first:
+      213: -8401174699716680739
+    second: KnightPlayer_162
+  - first:
+      213: 7008189123007537937
+    second: KnightPlayer_163
+  - first:
+      213: 8054419902996031047
+    second: KnightPlayer_164
+  - first:
+      213: 1414228280077030584
+    second: KnightPlayer_165
+  - first:
+      213: 1010412389933815189
+    second: KnightPlayer_166
+  - first:
+      213: -8064736410246628958
+    second: KnightPlayer_167
+  - first:
+      213: -1248838875212950206
+    second: KnightPlayer_168
+  - first:
+      213: 5719946126552048925
+    second: KnightPlayer_169
+  - first:
+      213: 992086751905752978
+    second: KnightPlayer_170
+  - first:
+      213: -6824635457980022425
+    second: KnightPlayer_171
+  - first:
+      213: -1539424203212186482
+    second: KnightPlayer_172
+  - first:
+      213: -8399508485937541147
+    second: KnightPlayer_173
+  - first:
+      213: 1341584130333980028
+    second: KnightPlayer_174
+  - first:
+      213: 7866442431837138712
+    second: KnightPlayer_175
+  - first:
+      213: -1535261839062546820
+    second: KnightPlayer_176
+  - first:
+      213: -2621666441046578940
+    second: KnightPlayer_177
+  - first:
+      213: 5931571365493489652
+    second: KnightPlayer_178
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightPlayer_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b7a6f71832d7f50800000000000000
+      internalID: 6880694844787424158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1282
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b02da8d9ff8c820800000000000000
+      internalID: 2938879808963218200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8e2904673d7ce90800000000000000
+      internalID: -7005398190508545832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a92e9fd86dd2f10800000000000000
+      internalID: 2246687694398855705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e6fee63009fd310800000000000000
+      internalID: 1432021550947593811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f57e468f5ae3ec0800000000000000
+      internalID: -3585245767076978854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa65964602799b0800000000000000
+      internalID: -5073550839573468590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad079d2f1057260800000000000000
+      internalID: 7094578930533849620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1217
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcc1ea9beda95a20800000000000000
+      internalID: 3051661449947630783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1217
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f400e29a5d8af820800000000000000
+      internalID: 2952827925845509360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1217
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286f10d0829600bc0800000000000000
+      internalID: -3818936863272339838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be774d275eeddab0800000000000000
+      internalID: -4981563554612674887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1217
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3253fa42ef5216d60800000000000000
+      internalID: 7881622596342461731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1217
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccaafd6f6fb7b1b0800000000000000
+      internalID: -5640829522950837056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb56e3f3978960540800000000000000
+      internalID: 4973830484996810171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33587cb7aa6132760800000000000000
+      internalID: 7431808731568375091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d95e597fbe1f5a0800000000000000
+      internalID: -6489146139459871336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1152
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ca19af8bfd92b30800000000000000
+      internalID: 4263184507853712494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1152
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51550ac974045b560800000000000000
+      internalID: 7328834644929959189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1152
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9d7fe934a2eaa0800000000000000
+      internalID: -6133159173787116923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1152
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d1d5dc7878d8930800000000000000
+      internalID: 4147119849213861229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9741a0f577a74390800000000000000
+      internalID: -7834108901797574754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1089
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1b3b79313325d0800000000000000
+      internalID: -3088570796495659518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f0626595a2be760800000000000000
+      internalID: 7488125368619372438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d2c8e04ddd4b950800000000000000
+      internalID: 6464035268030377374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a24a893698025e0800000000000000
+      internalID: -1936396778913650125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53b736fe49e9bcb0800000000000000
+      internalID: -4847586998540061858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1089
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e724baf2db099eab0800000000000000
+      internalID: -4978288770858401154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1026
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef12e58c5f6ddd970800000000000000
+      internalID: 8781411199559279102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1024
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d3937bfc2b81bf0800000000000000
+      internalID: -353335965546627780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1024
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db8c333e89e2a000800000000000000
+      internalID: 45855743181360083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1024
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0449eb9b4795ad0800000000000000
+      internalID: -2713008959398854467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1024
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a813f27fc3d020800000000000000
+      internalID: 2365462321911342982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1024
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72392ec30358e35d0800000000000000
+      internalID: -3080878652848434393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1024
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c99562beeb5c0410800000000000000
+      internalID: 1444630661232433604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1024
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8dfc54add689700800000000000000
+      internalID: 547308138967062708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 961
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa491e969b9edb970800000000000000
+      internalID: 8772424631742207151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 961
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e293dcc9240291020800000000000000
+      internalID: 2312915354102085934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 961
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320cd3402b5447920800000000000000
+      internalID: 2987089083731132451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 960
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ea1fb72b270b250800000000000000
+      internalID: 5958388417920347767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 960
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3933e5dfb573b0920800000000000000
+      internalID: 2957518448531223443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 960
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44573fcdf9b60c5a0800000000000000
+      internalID: -6503079527572081340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 960
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a1bad75b9439da0800000000000000
+      internalID: -5939322439725278643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_44
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 960
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492086322b03106c0800000000000000
+      internalID: -4179005437566778732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 896
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8709f3cac83f1fb90800000000000000
+      internalID: -7209713742932635528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789a9707e324ae0e0800000000000000
+      internalID: -2239905028720973433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573bcc2d0e0764ae0800000000000000
+      internalID: -1565439709553052811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2778e2347c981b420800000000000000
+      internalID: 2644045945161811826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 897
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2d97871fc455380800000000000000
+      internalID: -8983189281728507193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b2ac16993c03b0800000000000000
+      internalID: -5544993724311620993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 897
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae38e1f3f76233e30800000000000000
+      internalID: 4481968382125442026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1202f6fbdd64b0880800000000000000
+      internalID: -8643737141594087391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4041e52284b12b50800000000000000
+      internalID: 6566728202757161039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 833
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d828a79673436e080800000000000000
+      internalID: -9158575379613842803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 833
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0c97c6b9c5c7f90800000000000000
+      internalID: -6954581901957283629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 832
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0982d44eaabea0bf0800000000000000
+      internalID: -357214101215303536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_57
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 832
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1061fe0ba81f4cd90800000000000000
+      internalID: -7078267136343337471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 832
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e116ef5c6b36650800000000000000
+      internalID: 6225020071448747591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 832
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d24f41d83fd4300800000000000000
+      internalID: 238114142587989262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_60
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 832
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a478efbd71dceece0800000000000000
+      internalID: -1373935333942589622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f621e2d03fb9f3940800000000000000
+      internalID: 5278108756501992047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b52098ff06394d80800000000000000
+      internalID: -8266016198839229005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db77dfeba2ea790800000000000000
+      internalID: -7517023728250143432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f1b451fe69e50d0800000000000000
+      internalID: -3432139912411144413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_65
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64edd5ed699aefac0800000000000000
+      internalID: -3819428968522719674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_66
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1671f7f252e9d3350800000000000000
+      internalID: 5998124161275205473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_67
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a6504c2a7f734d0800000000000000
+      internalID: -3154780735504291273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_68
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0fc47d0d1f472e0800000000000000
+      internalID: -2128810844571766557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_69
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9349d0493096c380800000000000000
+      internalID: -8951308633776766051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_70
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 705
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34974813d6b6f4010800000000000000
+      internalID: 1175276144493361475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 706
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df2f0a346f9f2d0800000000000000
+      internalID: -3244291286220210831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c700a9955db10af30800000000000000
+      internalID: 4584695023808413820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 707
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88150d387b353d490800000000000000
+      internalID: -7722736888354680440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_74
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 706
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94df2181bdd6ea80800000000000000
+      internalID: -8437813097385700195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00c2de84d2e69d80800000000000000
+      internalID: -8244152665297993715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 706
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a0191a60cbf610800000000000000
+      internalID: 1656128849908376451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 706
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe08de0447ab82f0800000000000000
+      internalID: -969497384019554564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 706
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56439c6d795fa2e50800000000000000
+      internalID: 6785505821079450725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08735daa4c824afd0800000000000000
+      internalID: -2331693881926273152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1725daccbebf30800000000000000
+      internalID: 4593316249310010840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1813631ec895a0a80800000000000000
+      internalID: -8499882885099671167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0148b64942e280800000000000000
+      internalID: -9015562935954502757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_83
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c931e428d1a392980800000000000000
+      internalID: -8563249318053669988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd4078b6fb79a10800000000000000
+      internalID: 1916210635017084228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_85
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46a63c4acf0a4610800000000000000
+      internalID: 1606113578647463503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_86
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a21970c16b81d50800000000000000
+      internalID: 6708311876470647316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_87
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 640
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd95697ead16c5b0800000000000000
+      internalID: -5348554872257667661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_88
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 577
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058a0c6a73cf585c0800000000000000
+      internalID: -4213684560384186288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_89
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 578
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7ce5bf20de0c820800000000000000
+      internalID: 2936607554108573668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_90
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 579
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33de83d7c7b7660800000000000000
+      internalID: 7384632891271885728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_91
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63762efe0eda5a0800000000000000
+      internalID: -6508298565580278109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_92
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdffbf805b26ea700800000000000000
+      internalID: 553488333892485087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_93
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358c9cc1354ea5ce0800000000000000
+      internalID: -1415568087238195117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_94
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d7428eeab8652f0800000000000000
+      internalID: -984445885198598786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_95
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00285f004267ae80800000000000000
+      internalID: -8167451371938242546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_96
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5bcc2a4922ea240800000000000000
+      internalID: 4804815874232727032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edc53341566c8f90800000000000000
+      internalID: -6950067625733534239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_98
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7727a9d4d48d720800000000000000
+      internalID: 2871129758147704752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_99
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 513
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5addd890b724c30800000000000000
+      internalID: 4342168271703614954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_100
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 513
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d56455f4fed82930800000000000000
+      internalID: 4118787002899654103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_101
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc9a274bc2fcc940800000000000000
+      internalID: 5317892214903971008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_102
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a299013716afdf0800000000000000
+      internalID: -145696891108513158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_103
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 449
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d45b18f547220090800000000000000
+      internalID: -8069844400825740078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 448
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a014c93c3c6d8e2a0800000000000000
+      internalID: -6707875508679589622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 448
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8204e2a24ff2aa0800000000000000
+      internalID: -6183455301354641203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815bc2119fd6eac0800000000000000
+      internalID: -3826125019226091126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2553f338550538f0800000000000000
+      internalID: -561536702150912721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_108
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1da1b471c912b2a0800000000000000
+      internalID: -6723282975033545444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 384
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd732d30cee289a60800000000000000
+      internalID: 7680940755691648988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 384
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398788980b8e36960800000000000000
+      internalID: 7594169241596098707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_111
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 384
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b42e8792cc7d0a0800000000000000
+      internalID: -6856787429154469008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_112
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 385
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11b870df86d77c0800000000000000
+      internalID: -4071983052110491160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_113
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 385
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ea71d693275280800000000000000
+      internalID: -9054729395138533613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_114
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 385
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a094ac2c39c3f10800000000000000
+      internalID: 2250836378605128330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_115
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7380bc21847bdd6b0800000000000000
+      internalID: -5269854468772788169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_116
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 320
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516c01d0e853a1500800000000000000
+      internalID: 367665203804947989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_117
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 320
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589df2ab0c7eabb0800000000000000
+      internalID: -4922860953248360365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_118
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c67cfa858ab3620800000000000000
+      internalID: 2754980695926860808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_119
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daa4fcbf0c278b80800000000000000
+      internalID: -8392690934475347245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_120
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936113b8179c73be0800000000000000
+      internalID: -1497506861573663175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dfbe89cf831d760800000000000000
+      internalID: 7480823113587621163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_122
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e485805d2ea540800000000000000
+      internalID: 5021000458425394251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_123
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c31af8ec3a20a050800000000000000
+      internalID: 5809689960403047364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_124
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92390dcbb01b47c0800000000000000
+      internalID: -4086153838123732324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_125
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b544096ff2c7690800000000000000
+      internalID: -7603149334879380601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_126
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 256
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561577a8b6a4b6200800000000000000
+      internalID: 174314836328927589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_127
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 256
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d5a46cea0c6f00800000000000000
+      internalID: 1111275218470818213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_128
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 256
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ef9cb5ffe0b49e0800000000000000
+      internalID: -1636197549699629520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_129
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 256
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0c6a37641b4b3d0800000000000000
+      internalID: -3191731319752703773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_130
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 256
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c42a51c8c2bb26c0800000000000000
+      internalID: -4167040454894148408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_131
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f7b81b6ac2772a0800000000000000
+      internalID: -6739869222881755382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_132
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02221a42a47832370800000000000000
+      internalID: 8296623691058455072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_133
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8d75d0989126fc0800000000000000
+      internalID: -3503209483715749700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 193
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b570c581db4101d00800000000000000
+      internalID: 941275124510492507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 193
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce8444419207d3e0800000000000000
+      internalID: -2029150284168261946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_136
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 193
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172e19d4e690bdf0800000000000000
+      internalID: -166467276573366508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_137
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58791472849dd9b0800000000000000
+      internalID: -5053719918825342882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1564261d9e0f4ca20800000000000000
+      internalID: 3081852932059186769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_139
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f99ac32941afa60800000000000000
+      internalID: 7708496330513555250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e760fb5fa22e020800000000000000
+      internalID: 2369503588910530083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_141
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 192
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5287d3340d13add80800000000000000
+      internalID: -8225206998887729115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_142
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 192
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e319274baf10e70800000000000000
+      internalID: 9079813976678809137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_143
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 192
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888641c2695da160800000000000000
+      internalID: 7038380073334245506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_144
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5131e65147405700800000000000000
+      internalID: 526999502358393180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_145
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec81ff0f4e92a2ec0800000000000000
+      internalID: -3591011689602017074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_146
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4624025c02fc02090800000000000000
+      internalID: -8061215593340059036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_147
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b225805af9f4dfea0800000000000000
+      internalID: -5837421994915114453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_148
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 129
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1c73887e0292ff0800000000000000
+      internalID: -60480941197901330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1654dbcc5e02186c0800000000000000
+      internalID: -4142994010849589919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a77c7c4a47b8ed0800000000000000
+      internalID: -2410704924451571063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_151
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e2be0a2e77ef60800000000000000
+      internalID: 8063552376930493956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17245f14eeef9590800000000000000
+      internalID: -7665145377215731941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_153
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792639af56548f9a0800000000000000
+      internalID: -6199128582777511273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b31209c71b1769a0800000000000000
+      internalID: -6239988969727978571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea4cae7ab754b4f0800000000000000
+      internalID: -813929174146462996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323389782ca9afbe0800000000000000
+      internalID: -1442670570329591005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_157
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a02436a2b3b89060800000000000000
+      internalID: 6960510803975086240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_158
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26af2b5ed11966bb0800000000000000
+      internalID: -4943103983398749598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 128
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f07a24434b6710800000000000000
+      internalID: 1687516445429266418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_160
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18936c70994a80ee0800000000000000
+      internalID: -1294603915701634687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_161
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd2ff27691b01a40800000000000000
+      internalID: 5336960818166574585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_162
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd363673f18096b80800000000000000
+      internalID: -8401174699716680739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ee9b50e6124160800000000000000
+      internalID: 7008189123007537937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7462ae54a3c07cf60800000000000000
+      internalID: 8054419902996031047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_165
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 64
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b49d49b02950a310800000000000000
+      internalID: 1414228280077030584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_166
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59598aa17b4b50e00800000000000000
+      internalID: 1010412389933815189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_167
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a93714b6fc441090800000000000000
+      internalID: -8064736410246628958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_168
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 64
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245db3dd8ab3baee0800000000000000
+      internalID: -1248838875212950206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_169
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15a18f42b4516f40800000000000000
+      internalID: 5719946126552048925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_170
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a6b105a994cd00800000000000000
+      internalID: 992086751905752978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_171
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 64
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761c09d95360a41a0800000000000000
+      internalID: -6824635457980022425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_172
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c16e8e7ddd2aae0800000000000000
+      internalID: -1539424203212186482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef40d7d883fe6b80800000000000000
+      internalID: -8399508485937541147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_174
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75bbd498a34e9210800000000000000
+      internalID: 1341584130333980028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_175
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f66bba6b73b2d60800000000000000
+      internalID: 7866442431837138712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_176
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c675dd77a1bae0800000000000000
+      internalID: -1535261839062546820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_177
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4092bd51348fd9bd0800000000000000
+      internalID: -2621666441046578940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightPlayer_178
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3e18eabc215250800000000000000
+      internalID: 5931571365493489652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

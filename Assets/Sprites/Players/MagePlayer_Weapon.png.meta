@@ -1,0 +1,4391 @@
+fileFormatVersion: 2
+guid: 9c73549669735334c867d3a6fdb51d06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4586802330460225152
+    second: MagePlayer_Weapon_0
+  - first:
+      213: 8313145354037457842
+    second: MagePlayer_Weapon_1
+  - first:
+      213: 6783511694677093135
+    second: MagePlayer_Weapon_2
+  - first:
+      213: 6906284664134844885
+    second: MagePlayer_Weapon_3
+  - first:
+      213: -2535134382342908366
+    second: MagePlayer_Weapon_4
+  - first:
+      213: -5518591184486909819
+    second: MagePlayer_Weapon_5
+  - first:
+      213: 6768410268791480065
+    second: MagePlayer_Weapon_6
+  - first:
+      213: -3980880088408782056
+    second: MagePlayer_Weapon_7
+  - first:
+      213: -9208058425268551822
+    second: MagePlayer_Weapon_8
+  - first:
+      213: 2702998334827977243
+    second: MagePlayer_Weapon_9
+  - first:
+      213: -5201959661398304829
+    second: MagePlayer_Weapon_10
+  - first:
+      213: 4351225419926211179
+    second: MagePlayer_Weapon_11
+  - first:
+      213: -2310152676718093702
+    second: MagePlayer_Weapon_12
+  - first:
+      213: 366539606219207724
+    second: MagePlayer_Weapon_13
+  - first:
+      213: 3240544123757570045
+    second: MagePlayer_Weapon_14
+  - first:
+      213: -3757312058614377126
+    second: MagePlayer_Weapon_15
+  - first:
+      213: 6350869525600523733
+    second: MagePlayer_Weapon_16
+  - first:
+      213: -1557883790417170363
+    second: MagePlayer_Weapon_17
+  - first:
+      213: -862481338090628783
+    second: MagePlayer_Weapon_18
+  - first:
+      213: -1594163747967623610
+    second: MagePlayer_Weapon_19
+  - first:
+      213: -3277178655042835483
+    second: MagePlayer_Weapon_20
+  - first:
+      213: -2027294941351897528
+    second: MagePlayer_Weapon_21
+  - first:
+      213: -358925714046025185
+    second: MagePlayer_Weapon_22
+  - first:
+      213: 8775998621096292579
+    second: MagePlayer_Weapon_23
+  - first:
+      213: 4037397284312952051
+    second: MagePlayer_Weapon_24
+  - first:
+      213: 3071011628256388697
+    second: MagePlayer_Weapon_25
+  - first:
+      213: 1015837475556098572
+    second: MagePlayer_Weapon_26
+  - first:
+      213: 7719737392236092573
+    second: MagePlayer_Weapon_27
+  - first:
+      213: -3063192610889412779
+    second: MagePlayer_Weapon_28
+  - first:
+      213: -6470808630187892260
+    second: MagePlayer_Weapon_29
+  - first:
+      213: 3257563157965680371
+    second: MagePlayer_Weapon_30
+  - first:
+      213: 4520708399827125932
+    second: MagePlayer_Weapon_31
+  - first:
+      213: -5742716080787331282
+    second: MagePlayer_Weapon_32
+  - first:
+      213: 1462745559190409326
+    second: MagePlayer_Weapon_33
+  - first:
+      213: -6970150921176217152
+    second: MagePlayer_Weapon_34
+  - first:
+      213: 8800156064598994463
+    second: MagePlayer_Weapon_35
+  - first:
+      213: 299433516213226810
+    second: MagePlayer_Weapon_36
+  - first:
+      213: 1973077354881634583
+    second: MagePlayer_Weapon_37
+  - first:
+      213: -1405928255751935172
+    second: MagePlayer_Weapon_38
+  - first:
+      213: 7792877863214501225
+    second: MagePlayer_Weapon_39
+  - first:
+      213: -5758770727377320553
+    second: MagePlayer_Weapon_40
+  - first:
+      213: -3571021560304726804
+    second: MagePlayer_Weapon_41
+  - first:
+      213: 856161194309735965
+    second: MagePlayer_Weapon_42
+  - first:
+      213: -8856589149354505034
+    second: MagePlayer_Weapon_43
+  - first:
+      213: -2476465631192020950
+    second: MagePlayer_Weapon_44
+  - first:
+      213: 3846947309757555824
+    second: MagePlayer_Weapon_45
+  - first:
+      213: 2735068641124931231
+    second: MagePlayer_Weapon_46
+  - first:
+      213: -1168131916631912499
+    second: MagePlayer_Weapon_47
+  - first:
+      213: -271284811000450783
+    second: MagePlayer_Weapon_48
+  - first:
+      213: -6529788831412542289
+    second: MagePlayer_Weapon_49
+  - first:
+      213: -1476652944699369618
+    second: MagePlayer_Weapon_50
+  - first:
+      213: 9147351541728002769
+    second: MagePlayer_Weapon_51
+  - first:
+      213: -8877095985438364586
+    second: MagePlayer_Weapon_52
+  - first:
+      213: -8113908435925726307
+    second: MagePlayer_Weapon_53
+  - first:
+      213: 9131973933051298962
+    second: MagePlayer_Weapon_54
+  - first:
+      213: 1575624752268542105
+    second: MagePlayer_Weapon_55
+  - first:
+      213: -2780005933151011304
+    second: MagePlayer_Weapon_56
+  - first:
+      213: 6978773492264969612
+    second: MagePlayer_Weapon_57
+  - first:
+      213: -3292954921182590135
+    second: MagePlayer_Weapon_58
+  - first:
+      213: 8694855931068703357
+    second: MagePlayer_Weapon_59
+  - first:
+      213: 3144062926499411980
+    second: MagePlayer_Weapon_60
+  - first:
+      213: -2702096089349485159
+    second: MagePlayer_Weapon_61
+  - first:
+      213: -4239418269733272275
+    second: MagePlayer_Weapon_62
+  - first:
+      213: -3987574639413615808
+    second: MagePlayer_Weapon_63
+  - first:
+      213: 1660470848747091979
+    second: MagePlayer_Weapon_64
+  - first:
+      213: -1531379916789112957
+    second: MagePlayer_Weapon_65
+  - first:
+      213: -2020692904826796387
+    second: MagePlayer_Weapon_66
+  - first:
+      213: -4704248123584835759
+    second: MagePlayer_Weapon_67
+  - first:
+      213: 1895783662176477918
+    second: MagePlayer_Weapon_68
+  - first:
+      213: -891358956721513056
+    second: MagePlayer_Weapon_69
+  - first:
+      213: -8634603819946108003
+    second: MagePlayer_Weapon_70
+  - first:
+      213: -522694920167962720
+    second: MagePlayer_Weapon_71
+  - first:
+      213: 5218893657212375094
+    second: MagePlayer_Weapon_72
+  - first:
+      213: -1862130162261646950
+    second: MagePlayer_Weapon_73
+  - first:
+      213: 2877452810128966276
+    second: MagePlayer_Weapon_74
+  - first:
+      213: 1309210975067041049
+    second: MagePlayer_Weapon_75
+  - first:
+      213: 6788504254670910973
+    second: MagePlayer_Weapon_76
+  - first:
+      213: 5795939240243805770
+    second: MagePlayer_Weapon_77
+  - first:
+      213: 6618795845934576991
+    second: MagePlayer_Weapon_78
+  - first:
+      213: -2695039196420990542
+    second: MagePlayer_Weapon_79
+  - first:
+      213: -748314356626322754
+    second: MagePlayer_Weapon_80
+  - first:
+      213: 334695675796923048
+    second: MagePlayer_Weapon_81
+  - first:
+      213: -7536360716594243884
+    second: MagePlayer_Weapon_82
+  - first:
+      213: -1377028352489333772
+    second: MagePlayer_Weapon_83
+  - first:
+      213: 5557470044113494824
+    second: MagePlayer_Weapon_84
+  - first:
+      213: 6643931300244683900
+    second: MagePlayer_Weapon_85
+  - first:
+      213: 4901858383778231095
+    second: MagePlayer_Weapon_86
+  - first:
+      213: 1717135956027037070
+    second: MagePlayer_Weapon_87
+  - first:
+      213: -5430606152444494799
+    second: MagePlayer_Weapon_88
+  - first:
+      213: -3426700297903427939
+    second: MagePlayer_Weapon_89
+  - first:
+      213: -2214813134044221113
+    second: MagePlayer_Weapon_90
+  - first:
+      213: -509438960206938699
+    second: MagePlayer_Weapon_91
+  - first:
+      213: -8707089995296101751
+    second: MagePlayer_Weapon_92
+  - first:
+      213: 8279224789989696768
+    second: MagePlayer_Weapon_93
+  - first:
+      213: 1344700924457589216
+    second: MagePlayer_Weapon_94
+  - first:
+      213: -3523359511890265217
+    second: MagePlayer_Weapon_95
+  - first:
+      213: 7888448404361684786
+    second: MagePlayer_Weapon_96
+  - first:
+      213: 7559730687559714108
+    second: MagePlayer_Weapon_97
+  - first:
+      213: 8644374117506085776
+    second: MagePlayer_Weapon_98
+  - first:
+      213: -129622665504549162
+    second: MagePlayer_Weapon_99
+  - first:
+      213: 774465735989659117
+    second: MagePlayer_Weapon_100
+  - first:
+      213: 4433557447505631656
+    second: MagePlayer_Weapon_101
+  - first:
+      213: 2309274385202719267
+    second: MagePlayer_Weapon_102
+  - first:
+      213: -2320913226099991124
+    second: MagePlayer_Weapon_103
+  - first:
+      213: 2078580060426073927
+    second: MagePlayer_Weapon_104
+  - first:
+      213: -5954101490255377255
+    second: MagePlayer_Weapon_105
+  - first:
+      213: -677798841417434509
+    second: MagePlayer_Weapon_106
+  - first:
+      213: 4221338599747389468
+    second: MagePlayer_Weapon_107
+  - first:
+      213: 8706790101584958552
+    second: MagePlayer_Weapon_108
+  - first:
+      213: 6394693436445801606
+    second: MagePlayer_Weapon_109
+  - first:
+      213: -5844131468804290493
+    second: MagePlayer_Weapon_110
+  - first:
+      213: -2795144661474825826
+    second: MagePlayer_Weapon_111
+  - first:
+      213: 1888605775755842134
+    second: MagePlayer_Weapon_112
+  - first:
+      213: -6928081022689659913
+    second: MagePlayer_Weapon_113
+  - first:
+      213: 3864212313909480578
+    second: MagePlayer_Weapon_114
+  - first:
+      213: 4548945019177405229
+    second: MagePlayer_Weapon_115
+  - first:
+      213: 7268951305046558710
+    second: MagePlayer_Weapon_116
+  - first:
+      213: -3200355765484923030
+    second: MagePlayer_Weapon_117
+  - first:
+      213: -7810340162641639786
+    second: MagePlayer_Weapon_118
+  - first:
+      213: -898891612271750409
+    second: MagePlayer_Weapon_119
+  - first:
+      213: 6541239645167618231
+    second: MagePlayer_Weapon_120
+  - first:
+      213: 6174698675097588564
+    second: MagePlayer_Weapon_121
+  - first:
+      213: -745695754683528036
+    second: MagePlayer_Weapon_122
+  - first:
+      213: -3593417448288888706
+    second: MagePlayer_Weapon_123
+  - first:
+      213: 5704929782193741389
+    second: MagePlayer_Weapon_124
+  - first:
+      213: 1312610175861518565
+    second: MagePlayer_Weapon_125
+  - first:
+      213: -3795061514557450097
+    second: MagePlayer_Weapon_126
+  - first:
+      213: -2182068157055683239
+    second: MagePlayer_Weapon_127
+  - first:
+      213: 3202662662306873043
+    second: MagePlayer_Weapon_128
+  - first:
+      213: -225989646036532877
+    second: MagePlayer_Weapon_129
+  - first:
+      213: 3933453826286148968
+    second: MagePlayer_Weapon_130
+  - first:
+      213: 819335381995343428
+    second: MagePlayer_Weapon_131
+  - first:
+      213: 1278243522577271018
+    second: MagePlayer_Weapon_132
+  - first:
+      213: 7752986993107549600
+    second: MagePlayer_Weapon_133
+  - first:
+      213: 7414943499157807456
+    second: MagePlayer_Weapon_134
+  - first:
+      213: -849980889640298017
+    second: MagePlayer_Weapon_135
+  - first:
+      213: -8029042240349087980
+    second: MagePlayer_Weapon_136
+  - first:
+      213: 5154382954576498791
+    second: MagePlayer_Weapon_137
+  - first:
+      213: -8650345770727127534
+    second: MagePlayer_Weapon_138
+  - first:
+      213: -2379236319931093647
+    second: MagePlayer_Weapon_139
+  - first:
+      213: 146928357857384554
+    second: MagePlayer_Weapon_140
+  - first:
+      213: -689530585128968017
+    second: MagePlayer_Weapon_141
+  - first:
+      213: -6996266036270066966
+    second: MagePlayer_Weapon_142
+  - first:
+      213: -818841807787754556
+    second: MagePlayer_Weapon_143
+  - first:
+      213: 5206310437431256083
+    second: MagePlayer_Weapon_144
+  - first:
+      213: 8349293681256087340
+    second: MagePlayer_Weapon_145
+  - first:
+      213: 7143187781869085986
+    second: MagePlayer_Weapon_146
+  - first:
+      213: -7823043886426703456
+    second: MagePlayer_Weapon_147
+  - first:
+      213: 2537388826491752470
+    second: MagePlayer_Weapon_148
+  - first:
+      213: 3825626691515812649
+    second: MagePlayer_Weapon_149
+  - first:
+      213: 9129935681092481278
+    second: MagePlayer_Weapon_150
+  - first:
+      213: 5277233365868943414
+    second: MagePlayer_Weapon_151
+  - first:
+      213: -7174517140081560750
+    second: MagePlayer_Weapon_152
+  - first:
+      213: 6365677468555414457
+    second: MagePlayer_Weapon_153
+  - first:
+      213: -9018040738889334205
+    second: MagePlayer_Weapon_154
+  - first:
+      213: 3506915989977233787
+    second: MagePlayer_Weapon_155
+  - first:
+      213: 4057927681529605014
+    second: MagePlayer_Weapon_156
+  - first:
+      213: -6785837796244606165
+    second: MagePlayer_Weapon_157
+  - first:
+      213: 5525790950223386483
+    second: MagePlayer_Weapon_158
+  - first:
+      213: 3970695275375637646
+    second: MagePlayer_Weapon_159
+  - first:
+      213: -7548318938295964386
+    second: MagePlayer_Weapon_160
+  - first:
+      213: 825276605712025425
+    second: MagePlayer_Weapon_161
+  - first:
+      213: -2306526415680689518
+    second: MagePlayer_Weapon_162
+  - first:
+      213: 5617012864975485389
+    second: MagePlayer_Weapon_163
+  - first:
+      213: -4939356070956726686
+    second: MagePlayer_Weapon_164
+  - first:
+      213: -7890274306914627279
+    second: MagePlayer_Weapon_165
+  - first:
+      213: -1360833576464716201
+    second: MagePlayer_Weapon_166
+  - first:
+      213: 8615268001339008270
+    second: MagePlayer_Weapon_167
+  - first:
+      213: -2010110406669670382
+    second: MagePlayer_Weapon_168
+  - first:
+      213: -5359284965755116930
+    second: MagePlayer_Weapon_169
+  - first:
+      213: -295058440840855626
+    second: MagePlayer_Weapon_170
+  - first:
+      213: 3165927144855434834
+    second: MagePlayer_Weapon_171
+  - first:
+      213: -8102348003760691816
+    second: MagePlayer_Weapon_172
+  - first:
+      213: -758013533239305710
+    second: MagePlayer_Weapon_173
+  - first:
+      213: 7753420574177626536
+    second: MagePlayer_Weapon_174
+  - first:
+      213: -6047144626102375716
+    second: MagePlayer_Weapon_175
+  - first:
+      213: -5779424552762223839
+    second: MagePlayer_Weapon_176
+  - first:
+      213: 8223720807123051154
+    second: MagePlayer_Weapon_177
+  - first:
+      213: -2382139671344252587
+    second: MagePlayer_Weapon_178
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1282
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810cf515976850c0800000000000000
+      internalID: -4586802330460225152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1282
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3779197a93e5370800000000000000
+      internalID: 8313145354037457842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1282
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bafea12ffd32e50800000000000000
+      internalID: 6783511694677093135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1282
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d14c7b9f4d08df50800000000000000
+      internalID: 6906284664134844885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1282
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236529206b461dcd0800000000000000
+      internalID: -2535134382342908366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1282
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5883e047e860a63b0800000000000000
+      internalID: -5518591184486909819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1282
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f1c6567493eed50800000000000000
+      internalID: 6768410268791480065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1218
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f33da06a7663080800000000000000
+      internalID: -9208058425268551822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1218
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad4e71aaaf28520800000000000000
+      internalID: 2702998334827977243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1218
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c75176cf3deec7b0800000000000000
+      internalID: -5201959661398304829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1218
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a0a543778a26c30800000000000000
+      internalID: 4351225419926211179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1218
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7adc475160b0ffd0800000000000000
+      internalID: -2310152676718093702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1218
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24bec074d5361500800000000000000
+      internalID: 366539606219207724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1218
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7ac8f16b9b8fc20800000000000000
+      internalID: 3240544123757570045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a559ffbf6985bdbc0800000000000000
+      internalID: -3757312058614377126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1154
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5d5486f22d22850800000000000000
+      internalID: 6350869525600523733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1154
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54078d652f8416ae0800000000000000
+      internalID: -1557883790417170363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1154
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15954b9eac9d704f0800000000000000
+      internalID: -862481338090628783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1154
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e9598748460e9e0800000000000000
+      internalID: -1594163747967623610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1154
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebeda0606f1582d0800000000000000
+      internalID: -3277178655042835483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1154
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84616cdedf99dd3e0800000000000000
+      internalID: -2027294941351897528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1089
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128889f6f6d40bf0800000000000000
+      internalID: -358925714046025185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1090
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e033c7af3c9ac970800000000000000
+      internalID: 8775998621096292579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1090
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fca9946077b70830800000000000000
+      internalID: 4037397284312952051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1090
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956e0531ecc6e9a20800000000000000
+      internalID: 3071011628256388697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1090
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c020d084dcaf81e00800000000000000
+      internalID: 1015837475556098572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1090
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c588fd144022b60800000000000000
+      internalID: 7719737392236092573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fc555cc8a5d75d0800000000000000
+      internalID: -3063192610889412779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd16e1ca5d11336a0800000000000000
+      internalID: -6470808630187892260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1024
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea1ffce60353d20800000000000000
+      internalID: 3257563157965680371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1024
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca602d08658ccbe30800000000000000
+      internalID: 4520708399827125932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1024
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e276fb69626cd40b0800000000000000
+      internalID: -5742716080787331282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1024
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60135c0657bc4410800000000000000
+      internalID: 1462745559190409326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_34
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1024
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c90e68aaac054f90800000000000000
+      internalID: -6970150921176217152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1024
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e2c66c05f602a70800000000000000
+      internalID: 8800156064598994463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1024
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d4cbf423dc72400800000000000000
+      internalID: 299433516213226810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 962
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71156148667c16b10800000000000000
+      internalID: 1973077354881634583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_38
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 962
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ba83843b32d7ce0800000000000000
+      internalID: -1405928255751935172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 962
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dc7eec02dd52c60800000000000000
+      internalID: 7792877863214501225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 962
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c1c3e88cb410b0800000000000000
+      internalID: -5758770727377320553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 962
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec86cc9fce217ec0800000000000000
+      internalID: -3571021560304726804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_42
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 962
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d165e41f112b1eb00800000000000000
+      internalID: 856161194309735965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_43
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 962
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc4527c713171580800000000000000
+      internalID: -8856589149354505034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_44
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 962
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28065a11a3d1add0800000000000000
+      internalID: -2476465631192020950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 898
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0746ebb323a136530800000000000000
+      internalID: 3846947309757555824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 898
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96df86207ae4f520800000000000000
+      internalID: 2735068641124931231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfcb5af536f9cfe0800000000000000
+      internalID: -1168131916631912499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 899
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121fb57d6e33c3cf0800000000000000
+      internalID: -271284811000450783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 898
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a75577a78165a0800000000000000
+      internalID: -6529788831412542289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 897
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67d8ae68ffd18be0800000000000000
+      internalID: -1476652944699369618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_51
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 898
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2c15033cbe1fe70800000000000000
+      internalID: 9147351541728002769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 898
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c66eeeb383ec480800000000000000
+      internalID: -8877095985438364586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 834
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b0a90544b956f80800000000000000
+      internalID: -8113908435925726307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 834
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29446a9a8e94bbe70800000000000000
+      internalID: 9131973933051298962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 834
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990874a3d5ebdd510800000000000000
+      internalID: 1575624752268542105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 834
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3e09355f6b69d0800000000000000
+      internalID: -2780005933151011304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 834
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ad5e148599d060800000000000000
+      internalID: 6978773492264969612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 834
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b898d22f21d42d0800000000000000
+      internalID: -3292954921182590135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 834
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726c88e6655aa870800000000000000
+      internalID: 8694855931068703357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 834
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08f87dd294f1ab20800000000000000
+      internalID: 3144062926499411980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 771
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d0a5d4ce9308ad0800000000000000
+      internalID: -2702096089349485159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 770
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d254f3a8b8f8a25c0800000000000000
+      internalID: -4239418269733272275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 769
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04325661ef949a8c0800000000000000
+      internalID: -3987574639413615808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 768
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08367b707d2b0710800000000000000
+      internalID: 1660470848747091979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_65
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 769
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f1e9b44127fbae0800000000000000
+      internalID: -1531379916789112957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 770
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9685a7528e05f3e0800000000000000
+      internalID: -2020692904826796387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 769
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f8d6a714727beb0800000000000000
+      internalID: -4704248123584835759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_68
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 768
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2a40b423d2f4a10800000000000000
+      internalID: 1895783662176477918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_69
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 769
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad504160c141a3f0800000000000000
+      internalID: -891358956721513056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 705
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b91e7e299bb2880800000000000000
+      internalID: -8634603819946108003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 706
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7cc7d4db30fb8f0800000000000000
+      internalID: -522694920167962720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 705
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630deae512c3d6840800000000000000
+      internalID: 5218893657212375094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 707
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91aad0cb726826e0800000000000000
+      internalID: -1862130162261646950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 706
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482cfadd514cee720800000000000000
+      internalID: 2877452810128966276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_75
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 706
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91de9e002704b2210800000000000000
+      internalID: 1309210975067041049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 706
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df533ef07ac953e50800000000000000
+      internalID: 6788504254670910973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_77
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 706
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eba72e7005f6050800000000000000
+      internalID: 5795939240243805770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_78
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 705
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55f2c501cfaadb50800000000000000
+      internalID: 6618795845934576991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99299312c499ad0800000000000000
+      internalID: -2695039196420990542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba86f0be047d95f0800000000000000
+      internalID: -748314356626322754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a22cbf91f315a400800000000000000
+      internalID: 334695675796923048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 641
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6113c8bd7796790800000000000000
+      internalID: -7536360716594243884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_83
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5b3c5200d3ece0800000000000000
+      internalID: -1377028352489333772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82362457f89102d40800000000000000
+      internalID: 5557470044113494824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_85
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfe27015cf33c50800000000000000
+      internalID: 6643931300244683900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_86
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7333f589a36e60440800000000000000
+      internalID: 4901858383778231095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_87
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85da02ed0e74d710800000000000000
+      internalID: 1717135956027037070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 577
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cbe781a7c92a4b0800000000000000
+      internalID: -5430606152444494799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 578
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eadb70c3ae170d0800000000000000
+      internalID: -3426700297903427939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 577
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741bc6d60376341e0800000000000000
+      internalID: -2214813134044221113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_91
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 579
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdfe1ef6fb1ee8f0800000000000000
+      internalID: -509438960206938699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_92
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 578
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa40b08c33a2780800000000000000
+      internalID: -8707089995296101751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_93
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 578
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005a1fec417b5e270800000000000000
+      internalID: 8279224789989696768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_94
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 578
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e91f63cd5659a210800000000000000
+      internalID: 1344700924457589216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_95
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 578
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b79c501338a1fc0800000000000000
+      internalID: -3523359511890265217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_96
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 577
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a9fa6706697d60800000000000000
+      internalID: 7888448404361684786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 514
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35cd95d10f89e860800000000000000
+      internalID: 7559730687559714108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_98
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 513
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093f783c57cf6f770800000000000000
+      internalID: 8644374117506085776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_99
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d613cb5fdc733ef0800000000000000
+      internalID: -129622665504549162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_100
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 513
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5006ccb747fba00800000000000000
+      internalID: 774465735989659117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_101
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 513
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a95cdd2209278d30800000000000000
+      internalID: 4433557447505631656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_102
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 513
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aaaea71d03c0020800000000000000
+      internalID: 2309274385202719267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 449
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadddc3b7b57acfd0800000000000000
+      internalID: -2320913226099991124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_104
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 449
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f7ea5d8998dc10800000000000000
+      internalID: 2078580060426073927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_105
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 450
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c44b4ad38ce5da0800000000000000
+      internalID: -5954101490255377255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_106
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 450
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a742c7b89f796f0800000000000000
+      internalID: -677798841417434509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1886924715359a30800000000000000
+      internalID: 4221338599747389468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_108
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 450
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854dbd2877bb4d870800000000000000
+      internalID: 8706790101584958552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cbfd6ccc38eb850800000000000000
+      internalID: 6394693436445801606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 384
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3480d35846975eea0800000000000000
+      internalID: -5844131468804290493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_111
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 385
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a6fc5db6a539d0800000000000000
+      internalID: -2795144661474825826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_112
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 386
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6529da062fca53a10800000000000000
+      internalID: 1888605775755842134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 386
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3357334038adf90800000000000000
+      internalID: -6928081022689659913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_114
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 386
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cc34340a070a530800000000000000
+      internalID: 3864212313909480578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 321
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b0ad2c469112f30800000000000000
+      internalID: 4548945019177405229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f789ea03b080e460800000000000000
+      internalID: 7268951305046558710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 322
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d563336d0693d0800000000000000
+      internalID: -3200355765484923030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_118
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 322
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69647c6c0091c9390800000000000000
+      internalID: -7810340162641639786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_119
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 322
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d6f657de7683f0800000000000000
+      internalID: -898891612271750409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_120
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 322
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b80be0ecc627ca50800000000000000
+      internalID: 6541239645167618231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 258
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4535444eabfe0b550800000000000000
+      internalID: 6174698675097588564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_122
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 257
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c429779a1c6a5f0800000000000000
+      internalID: -745695754683528036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_123
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78dc099edd912ec0800000000000000
+      internalID: -3593417448288888706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_124
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 256
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e5430396bfb2f40800000000000000
+      internalID: 5704929782193741389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_125
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 256
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0f9cc1004573210800000000000000
+      internalID: 1312610175861518565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_126
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 256
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f881c0cd8ab355bc0800000000000000
+      internalID: -3795061514557450097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_127
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 256
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955310f729cb7b1e0800000000000000
+      internalID: -2182068157055683239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_128
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 256
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de353219b4227c20800000000000000
+      internalID: 3202662662306873043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_129
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 256
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37183114d9f1ddcf0800000000000000
+      internalID: -225989646036532877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_130
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 256
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ddf282a6f669630800000000000000
+      internalID: 3933453826286148968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_131
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 256
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ecdbb503dde5b00800000000000000
+      internalID: 819335381995343428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_132
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 256
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae889ab16bb3db110800000000000000
+      internalID: 1278243522577271018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_133
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 256
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad3668d794289b60800000000000000
+      internalID: 7752986993107549600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_134
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 194
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a4e093db27e660800000000000000
+      internalID: 7414943499157807456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_135
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 194
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd99e1f52e24434f0800000000000000
+      internalID: -849980889640298017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_136
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d2614f9c139090800000000000000
+      internalID: -8029042240349087980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_137
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7605cd3fcfb088740800000000000000
+      internalID: 5154382954576498791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c18f5a5cc3f780800000000000000
+      internalID: -8650345770727127534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_139
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dacc93c214bfed0800000000000000
+      internalID: -2379236319931093647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a685581209ef90200800000000000000
+      internalID: 146928357857384554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_141
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ee9b069b4e66f0800000000000000
+      internalID: -689530585128968017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_142
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae21ef99b1548ee90800000000000000
+      internalID: -6996266036270066966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_143
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb7297d6b3e2a4f0800000000000000
+      internalID: -818841807787754556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_144
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314af7532c7804840800000000000000
+      internalID: 5206310437431256083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_145
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fbeacdd56aed370800000000000000
+      internalID: 8349293681256087340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_146
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a73ef073b12360800000000000000
+      internalID: 7143187781869085986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_147
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9be379807fe6390800000000000000
+      internalID: -7823043886426703456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610161ca1bd963320800000000000000
+      internalID: 2537388826491752470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 131
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b8d07f43b571530800000000000000
+      internalID: 3825626691515812649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef07ea5212c04be70800000000000000
+      internalID: 9129935681092481278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638157949cf7c3940800000000000000
+      internalID: 5277233365868943414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_152
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253bc7e5caefe6c90800000000000000
+      internalID: -7174517140081560750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_153
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb04fb4eed675850800000000000000
+      internalID: 6365677468555414457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_154
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34200844abb79d280800000000000000
+      internalID: -9018040738889334205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79fabf23811ba030800000000000000
+      internalID: 3506915989977233787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_156
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bebcdf9b7a05830800000000000000
+      internalID: 4057927681529605014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_157
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23bb6b2a7cd3d1a0800000000000000
+      internalID: -6785837796244606165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_158
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3771223a79d8fac40800000000000000
+      internalID: 5525790950223386483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_159
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 130
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e843618b05eba1730800000000000000
+      internalID: 3970695275375637646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 66
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de3871bebfe3790800000000000000
+      internalID: -7548318938295964386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_161
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c7ec43b8f37b00800000000000000
+      internalID: 825276605712025425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_162
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a2c4802729dffd0800000000000000
+      internalID: -2306526415680689518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b9a3c073a3fd40800000000000000
+      internalID: 5617012864975485389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_164
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668473c2d1e37bb0800000000000000
+      internalID: -4939356070956726686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_165
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 66
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13156f3825d108290800000000000000
+      internalID: -7890274306914627279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_166
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 66
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e656c72195d1de0800000000000000
+      internalID: -1360833576464716201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_167
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05e9900a949f8770800000000000000
+      internalID: 8615268001339008270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_168
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21863233c37aa14e0800000000000000
+      internalID: -2010110406669670382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_169
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e722316e7beff95b0800000000000000
+      internalID: -5359284965755116930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_170
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf33bd49edb7ebf0800000000000000
+      internalID: -295058440840855626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_171
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256ffd5e6f1afeb20800000000000000
+      internalID: 3165927144855434834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_172
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 66
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895af3d2b6dae8f80800000000000000
+      internalID: -8102348003760691816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a155825befa75f0800000000000000
+      internalID: -758013533239305710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_174
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9001eceeea99b60800000000000000
+      internalID: 7753420574177626536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_175
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda61cf600a341ca0800000000000000
+      internalID: -6047144626102375716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_176
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123df6e6dfb5bcfa0800000000000000
+      internalID: -5779424552762223839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_177
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292ee80c086802270800000000000000
+      internalID: 8223720807123051154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagePlayer_Weapon_178
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f82c0790f0fed0800000000000000
+      internalID: -2382139671344252587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
