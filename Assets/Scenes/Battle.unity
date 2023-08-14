@@ -1369,7 +1369,7 @@ MonoBehaviour:
   priestPlayer: {fileID: 1353240547}
   playerTurn: {fileID: 2010849001}
   AttackButton: {fileID: 248806469}
-  enemyIndicatorPrefab: {fileID: 3447512392589429667, guid: d46f3911588ac9c4b9f4b74b749d35ed,
+  enemyIndicatorPrefab: {fileID: 2340223414342327036, guid: a3231e430d5a7db4485c4fd2eb3ddff7,
     type: 3}
   enemyIndicators: {fileID: 1501640640}
   questionUI: {fileID: 281896267}
