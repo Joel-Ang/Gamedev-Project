@@ -19,22 +19,39 @@ public class PlayerAnimBehaviour : StateMachineBehaviour
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        switch (animator.name)
+        switch (animator.gameObject.tag)
         {
-            case "MCPlayer":
-                GameManager.instance.UpdateGameState(GameManager.BattleState.KnightTurn);
+            case "Player1": //MC
+                GameManager.instance.UpdateBattleState(GameManager.BattleState.KnightTurn);
                 break;
 
-            case "KnightPlayer":
-                GameManager.instance.UpdateGameState(GameManager.BattleState.MageTurn);
+            case "Player2": //Knight
+                GameManager.instance.UpdateBattleState(GameManager.BattleState.MageTurn);
                 break;
 
-            case "MagePlayer":
-                GameManager.instance.UpdateGameState(GameManager.BattleState.PriestTurn);
+            case "Player3": //Mage
+                GameManager.instance.UpdateBattleState(GameManager.BattleState.PriestTurn);
                 break;
 
-            case "PriestPlayer":
-                GameManager.instance.UpdateGameState(GameManager.BattleState.EnemyTurn);
+            case "Player4": //Priest
+                GameManager.instance.UpdateBattleState(GameManager.BattleState.EnemyTurn);
+                break;
+
+            case "Enemy":
+                GameManager.instance.EnemyAttack();
+                
+                GameObject enemy = animator.gameObject;
+                int enemyIndex = GameManager.instance.allEnemies.IndexOf(enemy);
+
+                if (enemyIndex < GameManager.instance.allEnemies.Count - 1)
+                {
+                    GameManager.instance.allEnemies[enemyIndex + 1].GetComponent<Animator>().SetTrigger("isAttacking");
+                }
+                else
+                {
+                    GameManager.instance.UpdateBattleState(GameManager.BattleState.MCTurn);
+                    GameManager.instance.playerTurn.SetActive(true);
+                }
                 break;
         }
     }

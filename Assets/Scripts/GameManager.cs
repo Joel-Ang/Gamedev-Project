@@ -36,6 +36,8 @@ public class GameManager : MonoBehaviour
     GameObject currentPlayer;
     bool choosingEnemy;
 
+    public List<GameObject> allEnemies;
+
     void Awake()
     {
         if (instance == null)
@@ -47,7 +49,8 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        UpdateGameState(BattleState.MCTurn);
+        UpdateBattleState(BattleState.MCTurn);
+        allEnemies = new List<GameObject>(GameObject.FindGameObjectsWithTag("Enemy"));
     }
 
     // Update is called once per frame
@@ -59,7 +62,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void UpdateGameState(BattleState nextState)
+    public void UpdateBattleState(BattleState nextState)
     {
         currentBattleState = nextState;
         Debug.Log(currentBattleState);
@@ -112,7 +115,7 @@ public class GameManager : MonoBehaviour
         //currentPlayer = knightPlayer;
         //playerTurn.transform.position = new Vector2(knightPlayer.transform.position.x, knightPlayer.transform.position.y - 1f);
         //AttackButton.interactable = true;
-        UpdateGameState(currentBattleState += 1);
+        UpdateBattleState(currentBattleState += 1);
     }
 
     void MageTurn()
@@ -133,7 +136,7 @@ public class GameManager : MonoBehaviour
     {
         if (!choosingEnemy)
         {
-            foreach (GameObject e in GameObject.FindGameObjectsWithTag("Enemy"))
+            foreach (GameObject e in allEnemies)
             {
                 GameObject indicator = Instantiate(enemyIndicatorPrefab, new Vector3(e.transform.position.x, e.transform.position.y + 0.9f, e.transform.position.z), transform.rotation);
                 indicator.transform.parent = enemyIndicators.transform;
@@ -151,8 +154,9 @@ public class GameManager : MonoBehaviour
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit2D hit = Physics2D.GetRayIntersection(ray, 20);
 
-            if (hit && hit.transform.name == "Enemy1") //testing with 1 enemy for now
+            if (hit && hit.transform.tag == "Enemy")
             {
+                Debug.Log(hit.transform.name);
                 foreach (Transform i in enemyIndicators.transform)
                 {
                     Destroy(i.gameObject);
@@ -175,7 +179,7 @@ public class GameManager : MonoBehaviour
         }
         else //wrong answer
         {
-            UpdateGameState(currentBattleState += 1);
+            UpdateBattleState(currentBattleState += 1);
         }
         questionUI.SetActive(false);
     }
@@ -185,17 +189,30 @@ public class GameManager : MonoBehaviour
         playerTurn.SetActive(false);
         AttackButton.interactable = false;
 
-        IEnumerator TestEnemyAttack()
+        allEnemies[0].GetComponent<Animator>().SetTrigger("isAttacking");
+    }
+
+    public void EnemyAttack()
+    {
+        int targetPlayer = Random.Range(0, 4);
+        switch(targetPlayer)
         {
-            Debug.Log("enemy attacking... (no animation)");
-            yield return new WaitForSeconds(5f);
-            Debug.Log("enemy finish");
+            case 0: //MC
+                Debug.Log("MC is attacked");
+                break;
 
-            UpdateGameState(BattleState.MCTurn);
-            playerTurn.SetActive(true);
+            case 1: //Knight
+                Debug.Log("Knight is attacked");
+                break;
+
+            case 2: //Mage
+                Debug.Log("Mage is attacked");
+                break;
+
+            case 3: //Priest
+                Debug.Log("Priest is attacked");
+                break;
         }
-
-        StartCoroutine(TestEnemyAttack());
     }
 
     public void BattleRun()
