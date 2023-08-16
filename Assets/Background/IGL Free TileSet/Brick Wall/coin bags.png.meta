@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: ddcfc21f55822ca42803535b4d3ccaef
+guid: 6db4c405886732744808062778bac221
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2889864609402057930
-    second: throne with steps
+      213: -7626766064699029486
+    second: Empty coin bag small
   - first:
-      213: -772624745207580345
-    second: Carpet
+      213: -1433958716500932819
+    second: Filled coin bag filled
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -93,13 +93,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: throne with steps
+      name: Empty coin bag small
       rect:
         serializedVersion: 2
-        x: 0
-        y: 72
-        width: 265
-        height: 183
+        x: 172
+        y: 233
+        width: 37
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -107,20 +107,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63b0e9be27325e7d0800000000000000
-      internalID: -2889864609402057930
+      spriteID: 2184c982ca8482690800000000000000
+      internalID: -7626766064699029486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carpet
+      name: Filled coin bag filled
       rect:
         serializedVersion: 2
-        x: 265
-        y: 99
-        width: 247
-        height: 61
+        x: 275
+        y: 211
+        width: 89
+        height: 88
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 749b93543e51745f0800000000000000
-      internalID: -772624745207580345
+      spriteID: d270360152e891ce0800000000000000
+      internalID: -1433958716500932819
       vertices: []
       indices: 
       edges: []

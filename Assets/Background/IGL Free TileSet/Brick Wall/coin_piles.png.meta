@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: ddcfc21f55822ca42803535b4d3ccaef
+guid: 291b4210d1f3c5646991c7e224b44d81
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2889864609402057930
-    second: throne with steps
-  - first:
-      213: -772624745207580345
-    second: Carpet
+      213: 4807459163593325005
+    second: coin_piles_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -93,43 +90,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: throne with steps
+      name: coin_piles_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 72
-        width: 265
-        height: 183
+        x: 96
+        y: 304
+        width: 26
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63b0e9be27325e7d0800000000000000
-      internalID: -2889864609402057930
+      spriteID: 88658d24cd991e480800000000000000
+      internalID: -8871640619649837432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carpet
+      name: coin_piles_1
       rect:
         serializedVersion: 2
-        x: 265
-        y: 99
-        width: 247
-        height: 61
+        x: 143
+        y: 297
+        width: 72
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 749b93543e51745f0800000000000000
-      internalID: -772624745207580345
+      spriteID: 9cbaedd6c24da6c90800000000000000
+      internalID: -7175689768974505015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_piles_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 245
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e6910bfc187ef50800000000000000
+      internalID: 6910634882235985536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_piles_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 299
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aee04e2568d863c0800000000000000
+      internalID: -4366001909656392027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_piles_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 240
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5576c9a07c1176420800000000000000
+      internalID: 2623084854540789589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_piles_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3793d7cf93b72100800000000000000
+      internalID: 83232616963348282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_piles_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 114
+        width: 153
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc93d2663a687b240800000000000000
+      internalID: 4807459163593325005
       vertices: []
       indices: 
       edges: []
