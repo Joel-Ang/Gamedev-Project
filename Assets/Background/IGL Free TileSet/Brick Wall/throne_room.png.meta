@@ -4,13 +4,10 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -2889864609402057930
-    second: throne_room_wall
+    second: throne with steps
   - first:
       213: -772624745207580345
-    second: throne
-  - first:
-      213: -4051271479056789392
-    second: throne_carpet
+    second: Carpet
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -96,13 +93,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: throne_room_wall
+      name: throne with steps
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
-        width: 512
-        height: 256
+        y: 72
+        width: 265
+        height: 183
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,13 +114,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: throne
+      name: Carpet
       rect:
         serializedVersion: 2
-        x: 0
-        y: 72
-        width: 265
-        height: 184
+        x: 265
+        y: 99
+        width: 247
+        height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,27 +130,6 @@ TextureImporter:
       bones: []
       spriteID: 749b93543e51745f0800000000000000
       internalID: -772624745207580345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: throne_carpet
-      rect:
-        serializedVersion: 2
-        x: 266
-        y: 98
-        width: 246
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 070162aed0ef6c7c0800000000000000
-      internalID: -4051271479056789392
       vertices: []
       indices: 
       edges: []
