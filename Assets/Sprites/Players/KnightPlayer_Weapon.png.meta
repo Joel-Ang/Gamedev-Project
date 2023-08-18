@@ -639,12 +639,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 1282
-        width: 30
-        height: 47
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -660,12 +660,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 1282
-        width: 30
-        height: 47
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -681,12 +681,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_2
       rect:
         serializedVersion: 2
-        x: 146
-        y: 1282
-        width: 28
-        height: 47
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -702,12 +702,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_3
       rect:
         serializedVersion: 2
-        x: 206
-        y: 1282
-        width: 36
-        height: 47
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -723,12 +723,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_4
       rect:
         serializedVersion: 2
-        x: 263
-        y: 1282
-        width: 50
-        height: 47
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -744,12 +744,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_5
       rect:
         serializedVersion: 2
-        x: 328
-        y: 1282
-        width: 48
-        height: 47
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -765,12 +765,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_6
       rect:
         serializedVersion: 2
-        x: 398
-        y: 1282
-        width: 36
-        height: 47
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -786,12 +786,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_8
       rect:
         serializedVersion: 2
-        x: 21
-        y: 1217
-        width: 23
-        height: 49
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -807,12 +807,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_9
       rect:
         serializedVersion: 2
-        x: 85
-        y: 1217
-        width: 23
-        height: 49
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -828,12 +828,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_10
       rect:
         serializedVersion: 2
-        x: 149
-        y: 1217
-        width: 23
-        height: 49
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -849,12 +849,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_11
       rect:
         serializedVersion: 2
-        x: 212
-        y: 1217
-        width: 26
-        height: 49
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -870,12 +870,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_12
       rect:
         serializedVersion: 2
-        x: 274
-        y: 1217
-        width: 33
-        height: 49
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -891,12 +891,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_13
       rect:
         serializedVersion: 2
-        x: 338
-        y: 1217
-        width: 33
-        height: 49
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -912,12 +912,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_14
       rect:
         serializedVersion: 2
-        x: 404
-        y: 1217
-        width: 28
-        height: 49
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -933,12 +933,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_15
       rect:
         serializedVersion: 2
-        x: 17
+        x: 0
         y: 1152
-        width: 30
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -954,12 +954,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_16
       rect:
         serializedVersion: 2
-        x: 81
+        x: 64
         y: 1152
-        width: 30
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -975,12 +975,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_17
       rect:
         serializedVersion: 2
-        x: 146
+        x: 128
         y: 1152
-        width: 28
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -996,12 +996,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_18
       rect:
         serializedVersion: 2
-        x: 206
+        x: 192
         y: 1152
-        width: 36
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1017,12 +1017,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_19
       rect:
         serializedVersion: 2
-        x: 263
+        x: 256
         y: 1152
-        width: 50
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1038,12 +1038,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_20
       rect:
         serializedVersion: 2
-        x: 328
+        x: 320
         y: 1152
-        width: 48
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1059,12 +1059,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_21
       rect:
         serializedVersion: 2
-        x: 399
+        x: 384
         y: 1152
-        width: 34
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1080,12 +1080,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_22
       rect:
         serializedVersion: 2
-        x: 20
-        y: 1089
-        width: 23
-        height: 49
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1101,12 +1101,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_23
       rect:
         serializedVersion: 2
-        x: 84
-        y: 1089
-        width: 23
-        height: 49
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1122,12 +1122,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_24
       rect:
         serializedVersion: 2
-        x: 148
-        y: 1089
-        width: 23
-        height: 49
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1143,12 +1143,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_25
       rect:
         serializedVersion: 2
-        x: 210
-        y: 1089
-        width: 26
-        height: 49
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1164,12 +1164,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_26
       rect:
         serializedVersion: 2
-        x: 269
-        y: 1089
-        width: 33
-        height: 49
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1185,12 +1185,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_27
       rect:
         serializedVersion: 2
-        x: 333
-        y: 1089
-        width: 33
-        height: 49
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1206,12 +1206,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_28
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1089
-        width: 28
-        height: 49
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1227,12 +1227,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_29
       rect:
         serializedVersion: 2
-        x: 10
-        y: 1026
-        width: 37
-        height: 47
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1248,12 +1248,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_30
       rect:
         serializedVersion: 2
-        x: 77
+        x: 64
         y: 1024
-        width: 33
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1269,12 +1269,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_31
       rect:
         serializedVersion: 2
-        x: 145
+        x: 128
         y: 1024
-        width: 28
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1290,12 +1290,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_32
       rect:
         serializedVersion: 2
-        x: 211
+        x: 192
         y: 1024
-        width: 26
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1311,12 +1311,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_33
       rect:
         serializedVersion: 2
-        x: 277
+        x: 256
         y: 1024
-        width: 25
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1332,12 +1332,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_34
       rect:
         serializedVersion: 2
-        x: 342
+        x: 320
         y: 1024
-        width: 24
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1353,12 +1353,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_35
       rect:
         serializedVersion: 2
-        x: 405
+        x: 384
         y: 1024
-        width: 25
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1374,12 +1374,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_36
       rect:
         serializedVersion: 2
-        x: 467
+        x: 448
         y: 1024
-        width: 26
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1395,12 +1395,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_37
       rect:
         serializedVersion: 2
-        x: 21
-        y: 961
-        width: 29
-        height: 49
+        x: 0
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1416,12 +1416,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_38
       rect:
         serializedVersion: 2
-        x: 83
-        y: 961
-        width: 32
-        height: 49
+        x: 64
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1437,12 +1437,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_39
       rect:
         serializedVersion: 2
-        x: 147
-        y: 961
-        width: 34
-        height: 49
+        x: 128
+        y: 960
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1458,12 +1458,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_40
       rect:
         serializedVersion: 2
-        x: 213
+        x: 192
         y: 960
-        width: 32
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1479,12 +1479,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_41
       rect:
         serializedVersion: 2
-        x: 271
+        x: 256
         y: 960
-        width: 29
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1500,12 +1500,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_42
       rect:
         serializedVersion: 2
-        x: 332
+        x: 320
         y: 960
-        width: 30
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1521,12 +1521,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_43
       rect:
         serializedVersion: 2
-        x: 399
+        x: 384
         y: 960
-        width: 29
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1542,12 +1542,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_44
       rect:
         serializedVersion: 2
-        x: 469
+        x: 448
         y: 960
-        width: 32
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1563,12 +1563,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_45
       rect:
         serializedVersion: 2
-        x: 17
+        x: 0
         y: 896
-        width: 37
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1584,12 +1584,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_46
       rect:
         serializedVersion: 2
-        x: 82
-        y: 897
-        width: 34
-        height: 50
+        x: 64
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1605,12 +1605,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_47
       rect:
         serializedVersion: 2
-        x: 146
-        y: 897
-        width: 29
-        height: 50
+        x: 128
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1626,12 +1626,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_48
       rect:
         serializedVersion: 2
-        x: 210
-        y: 897
-        width: 28
-        height: 50
+        x: 192
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1647,12 +1647,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_49
       rect:
         serializedVersion: 2
-        x: 274
-        y: 897
-        width: 31
-        height: 49
+        x: 256
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1668,12 +1668,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_50
       rect:
         serializedVersion: 2
-        x: 338
-        y: 897
-        width: 30
-        height: 49
+        x: 320
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1689,12 +1689,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_51
       rect:
         serializedVersion: 2
-        x: 402
-        y: 897
-        width: 31
-        height: 49
+        x: 384
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1710,12 +1710,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_52
       rect:
         serializedVersion: 2
-        x: 466
-        y: 897
-        width: 28
-        height: 50
+        x: 448
+        y: 896
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1731,12 +1731,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_53
       rect:
         serializedVersion: 2
-        x: 14
-        y: 833
-        width: 29
-        height: 49
+        x: 0
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1752,12 +1752,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_54
       rect:
         serializedVersion: 2
-        x: 77
-        y: 833
-        width: 32
-        height: 49
+        x: 64
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1773,12 +1773,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_55
       rect:
         serializedVersion: 2
-        x: 139
-        y: 833
-        width: 34
-        height: 49
+        x: 128
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1794,12 +1794,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_56
       rect:
         serializedVersion: 2
-        x: 203
+        x: 192
         y: 832
-        width: 32
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1815,12 +1815,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_57
       rect:
         serializedVersion: 2
-        x: 276
+        x: 256
         y: 832
-        width: 29
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1836,12 +1836,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_58
       rect:
         serializedVersion: 2
-        x: 342
+        x: 320
         y: 832
-        width: 30
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1857,12 +1857,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_59
       rect:
         serializedVersion: 2
-        x: 404
+        x: 384
         y: 832
-        width: 29
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1878,12 +1878,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_60
       rect:
         serializedVersion: 2
-        x: 459
+        x: 448
         y: 832
-        width: 32
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1899,12 +1899,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_61
       rect:
         serializedVersion: 2
-        x: 10
-        y: 771
-        width: 37
-        height: 47
+        x: 0
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1920,12 +1920,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_62
       rect:
         serializedVersion: 2
-        x: 74
-        y: 771
-        width: 37
-        height: 47
+        x: 64
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1941,12 +1941,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_63
       rect:
         serializedVersion: 2
-        x: 138
-        y: 770
-        width: 37
-        height: 48
+        x: 128
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1962,12 +1962,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_64
       rect:
         serializedVersion: 2
-        x: 202
-        y: 769
-        width: 36
-        height: 48
+        x: 192
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1983,12 +1983,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_65
       rect:
         serializedVersion: 2
-        x: 267
-        y: 770
-        width: 36
-        height: 48
+        x: 256
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2004,12 +2004,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_66
       rect:
         serializedVersion: 2
-        x: 331
-        y: 771
-        width: 36
-        height: 47
+        x: 320
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2025,12 +2025,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_67
       rect:
         serializedVersion: 2
-        x: 395
-        y: 770
-        width: 36
-        height: 48
+        x: 384
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2046,12 +2046,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_68
       rect:
         serializedVersion: 2
-        x: 460
-        y: 769
-        width: 35
-        height: 48
+        x: 448
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2067,12 +2067,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_69
       rect:
         serializedVersion: 2
-        x: 523
-        y: 770
-        width: 36
-        height: 48
+        x: 512
+        y: 768
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2088,12 +2088,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_70
       rect:
         serializedVersion: 2
-        x: 21
-        y: 705
-        width: 28
-        height: 49
+        x: 0
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2109,12 +2109,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_71
       rect:
         serializedVersion: 2
-        x: 82
-        y: 706
-        width: 31
-        height: 47
+        x: 64
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2130,12 +2130,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_72
       rect:
         serializedVersion: 2
-        x: 148
-        y: 707
-        width: 29
-        height: 47
+        x: 128
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2151,12 +2151,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_73
       rect:
         serializedVersion: 2
-        x: 214
-        y: 707
-        width: 28
-        height: 47
+        x: 192
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2172,12 +2172,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_74
       rect:
         serializedVersion: 2
-        x: 278
-        y: 706
-        width: 29
-        height: 48
+        x: 256
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2193,12 +2193,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_75
       rect:
         serializedVersion: 2
-        x: 340
-        y: 706
-        width: 32
-        height: 47
+        x: 320
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2214,12 +2214,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_76
       rect:
         serializedVersion: 2
-        x: 406
-        y: 706
-        width: 30
-        height: 48
+        x: 384
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2235,12 +2235,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_77
       rect:
         serializedVersion: 2
-        x: 470
-        y: 706
-        width: 29
-        height: 48
+        x: 448
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2256,12 +2256,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_78
       rect:
         serializedVersion: 2
-        x: 534
-        y: 706
-        width: 28
-        height: 48
+        x: 512
+        y: 704
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2277,12 +2277,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_79
       rect:
         serializedVersion: 2
-        x: 12
+        x: 0
         y: 640
-        width: 35
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2298,12 +2298,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_80
       rect:
         serializedVersion: 2
-        x: 76
+        x: 64
         y: 640
-        width: 35
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2319,12 +2319,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_81
       rect:
         serializedVersion: 2
-        x: 140
-        y: 641
-        width: 35
-        height: 50
+        x: 128
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2340,12 +2340,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_82
       rect:
         serializedVersion: 2
-        x: 203
-        y: 641
-        width: 36
-        height: 49
+        x: 192
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2361,12 +2361,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_83
       rect:
         serializedVersion: 2
-        x: 266
+        x: 256
         y: 640
-        width: 37
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2382,12 +2382,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_84
       rect:
         serializedVersion: 2
-        x: 329
+        x: 320
         y: 640
-        width: 38
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2403,12 +2403,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_85
       rect:
         serializedVersion: 2
-        x: 393
-        y: 641
-        width: 38
-        height: 50
+        x: 384
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2424,12 +2424,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_86
       rect:
         serializedVersion: 2
-        x: 458
-        y: 641
-        width: 36
-        height: 49
+        x: 448
+        y: 640
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2445,12 +2445,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_87
       rect:
         serializedVersion: 2
-        x: 523
+        x: 512
         y: 640
-        width: 36
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2466,12 +2466,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_88
       rect:
         serializedVersion: 2
-        x: 14
-        y: 577
-        width: 29
-        height: 49
+        x: 0
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2487,12 +2487,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_89
       rect:
         serializedVersion: 2
-        x: 78
-        y: 578
-        width: 32
-        height: 47
+        x: 64
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2508,12 +2508,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_90
       rect:
         serializedVersion: 2
-        x: 142
-        y: 579
-        width: 30
-        height: 47
+        x: 128
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2529,12 +2529,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_91
       rect:
         serializedVersion: 2
-        x: 205
-        y: 579
-        width: 29
-        height: 47
+        x: 192
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2550,12 +2550,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_92
       rect:
         serializedVersion: 2
-        x: 268
-        y: 578
-        width: 30
-        height: 48
+        x: 256
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2571,12 +2571,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_93
       rect:
         serializedVersion: 2
-        x: 331
-        y: 578
-        width: 33
-        height: 47
+        x: 320
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2592,12 +2592,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_94
       rect:
         serializedVersion: 2
-        x: 395
-        y: 578
-        width: 31
-        height: 48
+        x: 384
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2613,12 +2613,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_95
       rect:
         serializedVersion: 2
-        x: 460
-        y: 578
-        width: 30
-        height: 48
+        x: 448
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2634,12 +2634,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_96
       rect:
         serializedVersion: 2
-        x: 525
-        y: 578
-        width: 29
-        height: 48
+        x: 512
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2655,12 +2655,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_97
       rect:
         serializedVersion: 2
-        x: 10
-        y: 514
-        width: 37
-        height: 47
+        x: 0
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2676,12 +2676,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_98
       rect:
         serializedVersion: 2
-        x: 76
-        y: 513
-        width: 34
-        height: 47
+        x: 64
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2697,12 +2697,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_99
       rect:
         serializedVersion: 2
-        x: 142
-        y: 513
-        width: 31
-        height: 47
+        x: 128
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2718,12 +2718,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_100
       rect:
         serializedVersion: 2
-        x: 204
-        y: 513
-        width: 35
-        height: 48
+        x: 192
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2739,12 +2739,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_101
       rect:
         serializedVersion: 2
-        x: 268
-        y: 513
-        width: 42
-        height: 48
+        x: 256
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2760,12 +2760,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_102
       rect:
         serializedVersion: 2
-        x: 332
-        y: 513
-        width: 45
-        height: 48
+        x: 320
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2781,12 +2781,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_103
       rect:
         serializedVersion: 2
-        x: 21
-        y: 449
-        width: 28
-        height: 49
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2802,12 +2802,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_104
       rect:
         serializedVersion: 2
-        x: 81
+        x: 64
         y: 448
-        width: 32
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2823,12 +2823,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_105
       rect:
         serializedVersion: 2
-        x: 147
+        x: 128
         y: 448
-        width: 30
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2844,12 +2844,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_106
       rect:
         serializedVersion: 2
-        x: 203
+        x: 192
         y: 448
-        width: 39
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2865,12 +2865,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_107
       rect:
         serializedVersion: 2
-        x: 264
+        x: 256
         y: 448
-        width: 43
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2886,12 +2886,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_108
       rect:
         serializedVersion: 2
-        x: 331
+        x: 320
         y: 448
-        width: 41
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2907,12 +2907,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_109
       rect:
         serializedVersion: 2
-        x: 14
+        x: 0
         y: 384
-        width: 33
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2928,12 +2928,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_110
       rect:
         serializedVersion: 2
-        x: 78
+        x: 64
         y: 384
-        width: 32
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2949,12 +2949,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_111
       rect:
         serializedVersion: 2
-        x: 142
+        x: 128
         y: 384
-        width: 32
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2970,12 +2970,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_112
       rect:
         serializedVersion: 2
-        x: 205
-        y: 385
-        width: 34
-        height: 49
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2991,12 +2991,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_113
       rect:
         serializedVersion: 2
-        x: 268
-        y: 385
-        width: 43
-        height: 50
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3012,12 +3012,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_114
       rect:
         serializedVersion: 2
-        x: 331
-        y: 385
-        width: 47
-        height: 50
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3033,12 +3033,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_115
       rect:
         serializedVersion: 2
-        x: 15
-        y: 321
-        width: 28
-        height: 49
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3054,12 +3054,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_116
       rect:
         serializedVersion: 2
-        x: 79
+        x: 64
         y: 320
-        width: 32
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3075,12 +3075,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_117
       rect:
         serializedVersion: 2
-        x: 143
+        x: 128
         y: 320
-        width: 30
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3096,12 +3096,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_118
       rect:
         serializedVersion: 2
-        x: 206
+        x: 192
         y: 320
-        width: 39
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3117,12 +3117,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_119
       rect:
         serializedVersion: 2
-        x: 269
+        x: 256
         y: 320
-        width: 43
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3138,12 +3138,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_120
       rect:
         serializedVersion: 2
-        x: 332
+        x: 320
         y: 320
-        width: 41
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3159,12 +3159,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_121
       rect:
         serializedVersion: 2
-        x: 16
-        y: 258
-        width: 30
-        height: 47
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3180,12 +3180,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_122
       rect:
         serializedVersion: 2
-        x: 83
+        x: 64
         y: 256
-        width: 26
-        height: 48
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3201,12 +3201,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_123
       rect:
         serializedVersion: 2
-        x: 148
+        x: 128
         y: 256
-        width: 24
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3222,12 +3222,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_124
       rect:
         serializedVersion: 2
-        x: 211
+        x: 192
         y: 256
-        width: 24
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3243,12 +3243,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_125
       rect:
         serializedVersion: 2
-        x: 275
+        x: 256
         y: 256
-        width: 28
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3264,12 +3264,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_126
       rect:
         serializedVersion: 2
-        x: 339
+        x: 320
         y: 256
-        width: 26
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3285,12 +3285,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_127
       rect:
         serializedVersion: 2
-        x: 403
+        x: 384
         y: 256
-        width: 27
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3306,12 +3306,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_128
       rect:
         serializedVersion: 2
-        x: 467
+        x: 448
         y: 256
-        width: 28
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3327,12 +3327,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_129
       rect:
         serializedVersion: 2
-        x: 531
+        x: 512
         y: 256
-        width: 29
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3348,12 +3348,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_130
       rect:
         serializedVersion: 2
-        x: 595
+        x: 576
         y: 256
-        width: 28
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3369,12 +3369,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_131
       rect:
         serializedVersion: 2
-        x: 659
+        x: 640
         y: 256
-        width: 24
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3390,12 +3390,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_132
       rect:
         serializedVersion: 2
-        x: 723
+        x: 704
         y: 256
-        width: 24
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3411,12 +3411,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_133
       rect:
         serializedVersion: 2
-        x: 787
+        x: 768
         y: 256
-        width: 24
-        height: 49
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3432,12 +3432,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_134
       rect:
         serializedVersion: 2
-        x: 22
-        y: 193
-        width: 23
-        height: 49
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3453,12 +3453,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_135
       rect:
         serializedVersion: 2
-        x: 84
-        y: 193
-        width: 25
-        height: 49
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3474,12 +3474,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_136
       rect:
         serializedVersion: 2
-        x: 143
-        y: 193
-        width: 32
-        height: 49
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3495,12 +3495,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_137
       rect:
         serializedVersion: 2
-        x: 205
+        x: 192
         y: 192
-        width: 35
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3516,12 +3516,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_138
       rect:
         serializedVersion: 2
-        x: 269
+        x: 256
         y: 192
-        width: 35
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3537,12 +3537,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_139
       rect:
         serializedVersion: 2
-        x: 332
+        x: 320
         y: 192
-        width: 33
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3558,12 +3558,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_140
       rect:
         serializedVersion: 2
-        x: 396
+        x: 384
         y: 192
-        width: 34
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3579,12 +3579,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_141
       rect:
         serializedVersion: 2
-        x: 461
+        x: 448
         y: 192
-        width: 36
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3600,12 +3600,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_142
       rect:
         serializedVersion: 2
-        x: 525
+        x: 512
         y: 192
-        width: 38
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3621,12 +3621,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_143
       rect:
         serializedVersion: 2
-        x: 589
+        x: 576
         y: 192
-        width: 35
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3642,12 +3642,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_144
       rect:
         serializedVersion: 2
-        x: 653
+        x: 640
         y: 192
-        width: 34
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3663,12 +3663,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_145
       rect:
         serializedVersion: 2
-        x: 717
+        x: 704
         y: 192
-        width: 32
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3684,12 +3684,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_146
       rect:
         serializedVersion: 2
-        x: 781
+        x: 768
         y: 192
-        width: 34
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3705,12 +3705,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_147
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 128
-        width: 30
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3726,12 +3726,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_148
       rect:
         serializedVersion: 2
-        x: 81
-        y: 129
-        width: 27
-        height: 50
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3747,12 +3747,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_149
       rect:
         serializedVersion: 2
-        x: 145
-        y: 130
-        width: 27
-        height: 49
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3768,12 +3768,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_150
       rect:
         serializedVersion: 2
-        x: 209
+        x: 192
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3789,12 +3789,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_151
       rect:
         serializedVersion: 2
-        x: 273
+        x: 256
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3810,12 +3810,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_152
       rect:
         serializedVersion: 2
-        x: 337
+        x: 320
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3831,12 +3831,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_153
       rect:
         serializedVersion: 2
-        x: 401
+        x: 384
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3852,12 +3852,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_154
       rect:
         serializedVersion: 2
-        x: 465
+        x: 448
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3873,12 +3873,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_155
       rect:
         serializedVersion: 2
-        x: 529
+        x: 512
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3894,12 +3894,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_156
       rect:
         serializedVersion: 2
-        x: 593
+        x: 576
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3915,12 +3915,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_157
       rect:
         serializedVersion: 2
-        x: 657
+        x: 640
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3936,12 +3936,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_158
       rect:
         serializedVersion: 2
-        x: 721
+        x: 704
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3957,12 +3957,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_159
       rect:
         serializedVersion: 2
-        x: 785
+        x: 768
         y: 128
-        width: 25
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3978,12 +3978,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_160
       rect:
         serializedVersion: 2
-        x: 19
-        y: 65
-        width: 23
-        height: 49
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3999,12 +3999,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_161
       rect:
         serializedVersion: 2
-        x: 83
-        y: 65
-        width: 25
-        height: 49
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4020,12 +4020,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_162
       rect:
         serializedVersion: 2
-        x: 145
-        y: 65
-        width: 32
-        height: 49
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4041,12 +4041,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_163
       rect:
         serializedVersion: 2
-        x: 208
+        x: 192
         y: 64
-        width: 35
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4062,12 +4062,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_164
       rect:
         serializedVersion: 2
-        x: 272
+        x: 256
         y: 64
-        width: 35
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4083,12 +4083,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_165
       rect:
         serializedVersion: 2
-        x: 339
+        x: 320
         y: 64
-        width: 33
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4104,12 +4104,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_166
       rect:
         serializedVersion: 2
-        x: 402
+        x: 384
         y: 64
-        width: 34
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4125,12 +4125,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_167
       rect:
         serializedVersion: 2
-        x: 463
+        x: 448
         y: 64
-        width: 36
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4146,12 +4146,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_168
       rect:
         serializedVersion: 2
-        x: 525
+        x: 512
         y: 64
-        width: 38
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4167,12 +4167,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_169
       rect:
         serializedVersion: 2
-        x: 592
+        x: 576
         y: 64
-        width: 35
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4188,12 +4188,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_170
       rect:
         serializedVersion: 2
-        x: 657
+        x: 640
         y: 64
-        width: 34
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4209,12 +4209,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_171
       rect:
         serializedVersion: 2
-        x: 723
+        x: 704
         y: 64
-        width: 32
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4230,12 +4230,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_172
       rect:
         serializedVersion: 2
-        x: 785
+        x: 768
         y: 64
-        width: 34
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4251,12 +4251,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_173
       rect:
         serializedVersion: 2
-        x: 17
+        x: 0
         y: 0
-        width: 30
-        height: 51
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4272,12 +4272,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_174
       rect:
         serializedVersion: 2
-        x: 82
+        x: 64
         y: 0
-        width: 31
-        height: 50
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4293,12 +4293,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_175
       rect:
         serializedVersion: 2
-        x: 147
+        x: 128
         y: 0
-        width: 30
-        height: 42
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4314,12 +4314,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_176
       rect:
         serializedVersion: 2
-        x: 211
-        y: 3
-        width: 30
-        height: 35
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4335,12 +4335,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_177
       rect:
         serializedVersion: 2
-        x: 275
-        y: 3
-        width: 31
-        height: 29
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4356,12 +4356,12 @@ TextureImporter:
       name: KnightPlayer_Weapon_178
       rect:
         serializedVersion: 2
-        x: 338
+        x: 320
         y: 0
-        width: 34
-        height: 39
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
