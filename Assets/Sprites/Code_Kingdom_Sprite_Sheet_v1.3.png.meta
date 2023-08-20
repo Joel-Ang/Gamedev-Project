@@ -1,0 +1,1514 @@
+fileFormatVersion: 2
+guid: f705a4855d0b74945b87276e617add3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5099258082718924983
+    second: Code_Kingdom_Sprite_Sheet_v1.3_31
+  - first:
+      213: 2636026601587602748
+    second: Code_Kingdom_Sprite_Sheet_v1.3_32
+  - first:
+      213: -7140831383589680965
+    second: Code_Kingdom_Sprite_Sheet_v1.3_33
+  - first:
+      213: -376900048876782005
+    second: Code_Kingdom_Sprite_Sheet_v1.3_34
+  - first:
+      213: -5177811276731324088
+    second: Code_Kingdom_Sprite_Sheet_v1.3_35
+  - first:
+      213: 3423577749855613926
+    second: Code_Kingdom_Sprite_Sheet_v1.3_36
+  - first:
+      213: -6088068021890371946
+    second: Code_Kingdom_Sprite_Sheet_v1.3_37
+  - first:
+      213: -4069498160325390561
+    second: Code_Kingdom_Sprite_Sheet_v1.3_38
+  - first:
+      213: -6176834627868204626
+    second: Code_Kingdom_Sprite_Sheet_v1.3_39
+  - first:
+      213: 3664632184978922862
+    second: Code_Kingdom_Sprite_Sheet_v1.3_40
+  - first:
+      213: -6528389351730097122
+    second: Code_Kingdom_Sprite_Sheet_v1.3_41
+  - first:
+      213: 5996669215683098012
+    second: Code_Kingdom_Sprite_Sheet_v1.3_42
+  - first:
+      213: 113334990972728488
+    second: Code_Kingdom_Sprite_Sheet_v1.3_43
+  - first:
+      213: 8243709701463644648
+    second: Code_Kingdom_Sprite_Sheet_v1.3_44
+  - first:
+      213: 3730834827881089741
+    second: Code_Kingdom_Sprite_Sheet_v1.3_45
+  - first:
+      213: -5246009772487075959
+    second: Code_Kingdom_Sprite_Sheet_v1.3_46
+  - first:
+      213: 8062073463902458642
+    second: Code_Kingdom_Sprite_Sheet_v1.3_47
+  - first:
+      213: -8396801700688384695
+    second: Code_Kingdom_Sprite_Sheet_v1.3_48
+  - first:
+      213: -5447019425062362372
+    second: Code_Kingdom_Sprite_Sheet_v1.3_49
+  - first:
+      213: -4159856421768097577
+    second: Code_Kingdom_Sprite_Sheet_v1.3_50
+  - first:
+      213: -1109652424280144294
+    second: Code_Kingdom_Sprite_Sheet_v1.3_51
+  - first:
+      213: 1203923933058883288
+    second: Code_Kingdom_Sprite_Sheet_v1.3_52
+  - first:
+      213: -7287023220962109570
+    second: Code_Kingdom_Sprite_Sheet_v1.3_53
+  - first:
+      213: 4755588365472718725
+    second: Code_Kingdom_Sprite_Sheet_v1.3_54
+  - first:
+      213: 6190914876804060994
+    second: Code_Kingdom_Sprite_Sheet_v1.3_55
+  - first:
+      213: 3861469442531987129
+    second: Code_Kingdom_Sprite_Sheet_v1.3_56
+  - first:
+      213: 3207147669543578200
+    second: Code_Kingdom_Sprite_Sheet_v1.3_57
+  - first:
+      213: -5605786377306553425
+    second: Code_Kingdom_Sprite_Sheet_v1.3_58
+  - first:
+      213: 3368319715978659370
+    second: Code_Kingdom_Sprite_Sheet_v1.3_59
+  - first:
+      213: -4337133038240834668
+    second: Code_Kingdom_Sprite_Sheet_v1.3_60
+  - first:
+      213: 2937315061303024050
+    second: Code_Kingdom_Sprite_Sheet_v1.3_61
+  - first:
+      213: 5545251327352637338
+    second: Code_Kingdom_Sprite_Sheet_v1.3_62
+  - first:
+      213: 6762240611091358927
+    second: Code_Kingdom_Sprite_Sheet_v1.3_63
+  - first:
+      213: -2883352777535660932
+    second: Code_Kingdom_Sprite_Sheet_v1.3_64
+  - first:
+      213: -8064596704197418346
+    second: ChatBox_Empty
+  - first:
+      213: 5518956292128814231
+    second: QuestionBox1
+  - first:
+      213: 2780650940956134060
+    second: Code_Kingdom_Sprite_Sheet_v1.3_67
+  - first:
+      213: -1090808365012340851
+    second: Code_Kingdom_Sprite_Sheet_v1.3_68
+  - first:
+      213: -9949118504827143
+    second: Code_Kingdom_Sprite_Sheet_v1.3_69
+  - first:
+      213: -3642329157881722294
+    second: Code_Kingdom_Sprite_Sheet_v1.3_70
+  - first:
+      213: -1050452531219316031
+    second: Code_Kingdom_Sprite_Sheet_v1.3_71
+  - first:
+      213: -6495738363906931208
+    second: Code_Kingdom_Sprite_Sheet_v1.3_72
+  - first:
+      213: -7528633599317613737
+    second: Code_Kingdom_Sprite_Sheet_v1.3_73
+  - first:
+      213: 2553077098581306287
+    second: Code_Kingdom_Sprite_Sheet_v1.3_74
+  - first:
+      213: -5575045148313954773
+    second: Code_Kingdom_Sprite_Sheet_v1.3_75
+  - first:
+      213: 4553075837918418848
+    second: Code_Kingdom_Sprite_Sheet_v1.3_76
+  - first:
+      213: -5206417782691484328
+    second: Code_Kingdom_Sprite_Sheet_v1.3_77
+  - first:
+      213: 4979397757537033458
+    second: Code_Kingdom_Sprite_Sheet_v1.3_78
+  - first:
+      213: 4588228528405092791
+    second: Code_Kingdom_Sprite_Sheet_v1.3_79
+  - first:
+      213: -3797594152855213395
+    second: Code_Kingdom_Sprite_Sheet_v1.3_80
+  - first:
+      213: 7738202723190292023
+    second: Code_Kingdom_Sprite_Sheet_v1.3_81
+  - first:
+      213: 2448320888842789984
+    second: QuestionIcon_Bg
+  - first:
+      213: -381988379332913519
+    second: QuestionIcon_QuestionMark
+  - first:
+      213: 8235469973156525663
+    second: QuestionIcon_Correct
+  - first:
+      213: -2685878023589303591
+    second: QuestionIcon_Wrong
+  - first:
+      213: 7210617563895550002
+    second: Code_Kingdom_Sprite_Sheet_v1.3_86
+  - first:
+      213: 4699977449357709445
+    second: Code_Kingdom_Sprite_Sheet_v1.3_87
+  - first:
+      213: 1710562868695489733
+    second: Code_Kingdom_Sprite_Sheet_v1.3_88
+  - first:
+      213: -6142305190885917059
+    second: Code_Kingdom_Sprite_Sheet_v1.3_89
+  - first:
+      213: 4511684961106657258
+    second: Code_Kingdom_Sprite_Sheet_v1.3_90
+  - first:
+      213: -1253903286041076841
+    second: ChatBox_Example
+  - first:
+      213: 7235959203586760230
+    second: QuestionBox2
+  - first:
+      213: -4184680446844115461
+    second: Code_Kingdom_Sprite_Sheet_v1.3_93
+  - first:
+      213: 5661494945965333182
+    second: Code_Kingdom_Sprite_Sheet_v1.3_94
+  - first:
+      213: 1450885178790332426
+    second: Code_Kingdom_Sprite_Sheet_v1.3_95
+  - first:
+      213: 4661554374802351797
+    second: Code_Kingdom_Sprite_Sheet_v1.3_96
+  - first:
+      213: -3731245951481423365
+    second: Code_Kingdom_Sprite_Sheet_v1.3_97
+  - first:
+      213: -1535874347142991629
+    second: Code_Kingdom_Sprite_Sheet_v1.3_98
+  - first:
+      213: 1690108911005063713
+    second: Code_Kingdom_Sprite_Sheet_v1.3_99
+  - first:
+      213: -3339489582226819357
+    second: Code_Kingdom_Sprite_Sheet_v1.3_100
+  - first:
+      213: 7695141353755166209
+    second: Code_Kingdom_Sprite_Sheet_v1.3_101
+  - first:
+      213: 7734396821146028440
+    second: Code_Kingdom_Sprite_Sheet_v1.3_102
+  - first:
+      213: 5676349971589867857
+    second: BattleUI
+  - first:
+      213: 5520841815405522354
+    second: Code_Kingdom_Sprite_Sheet_v1.3_104
+  - first:
+      213: -622384469187946693
+    second: Code_Kingdom_Sprite_Sheet_v1.3_105
+  - first:
+      213: -9135102736707375519
+    second: Code_Kingdom_Sprite_Sheet_v1.3_106
+  - first:
+      213: 8128995812597645466
+    second: Code_Kingdom_Sprite_Sheet_v1.3_107
+  - first:
+      213: 6979421774235543717
+    second: Code_Kingdom_Sprite_Sheet_v1.3_108
+  - first:
+      213: 190144947386744614
+    second: Code_Kingdom_Sprite_Sheet_v1.3_109
+  - first:
+      213: -1213791660867383098
+    second: Code_Kingdom_Sprite_Sheet_v1.3_110
+  - first:
+      213: 8411973390581076998
+    second: Code_Kingdom_Sprite_Sheet_v1.3_111
+  - first:
+      213: 697883840487521254
+    second: Code_Kingdom_Sprite_Sheet_v1.3_112
+  - first:
+      213: 3597558397681155021
+    second: Code_Kingdom_Sprite_Sheet_v1.3_113
+  - first:
+      213: 445997777684161253
+    second: Code_Kingdom_Sprite_Sheet_v1.3_114
+  - first:
+      213: -3596442180114789546
+    second: Code_Kingdom_Sprite_Sheet_v1.3_115
+  - first:
+      213: 6651640963872999897
+    second: AnswerBox
+  - first:
+      213: -6190467803510391652
+    second: Code_Kingdom_Sprite_Sheet_v1.3_117
+  - first:
+      213: 4688883478136873257
+    second: Code_Kingdom_Sprite_Sheet_v1.3_118
+  - first:
+      213: 4080353874828087773
+    second: Code_Kingdom_Sprite_Sheet_v1.3_119
+  - first:
+      213: -1680621781235344911
+    second: Code_Kingdom_Sprite_Sheet_v1.3_120
+  - first:
+      213: -2294467446801004247
+    second: Code_Kingdom_Sprite_Sheet_v1.3_121
+  - first:
+      213: 8799941386131317984
+    second: Code_Kingdom_Sprite_Sheet_v1.3_122
+  - first:
+      213: -3918658341681914505
+    second: Code_Kingdom_Sprite_Sheet_v1.3_123
+  - first:
+      213: 8337553197169880392
+    second: Code_Kingdom_Sprite_Sheet_v1.3_124
+  - first:
+      213: -2903105077075141909
+    second: Code_Kingdom_Sprite_Sheet_v1.3_125
+  - first:
+      213: -6036448451901845144
+    second: AnswerHover
+  - first:
+      213: 4639297300916344516
+    second: Code_Kingdom_Sprite_Sheet_v1.3_127
+  - first:
+      213: 2736713591032094511
+    second: Code_Kingdom_Sprite_Sheet_v1.3_128
+  - first:
+      213: 3746983871008511755
+    second: Code_Kingdom_Sprite_Sheet_v1.3_129
+  - first:
+      213: 4282711602838160216
+    second: Code_Kingdom_Sprite_Sheet_v1.3_130
+  - first:
+      213: -43974659038076855
+    second: Code_Kingdom_Sprite_Sheet_v1.3_131
+  - first:
+      213: 4944468962014760342
+    second: Code_Kingdom_Sprite_Sheet_v1.3_132
+  - first:
+      213: -4506077454669396748
+    second: Code_Kingdom_Sprite_Sheet_v1.3_133
+  - first:
+      213: 3258703173838325265
+    second: Code_Kingdom_Sprite_Sheet_v1.3_134
+  - first:
+      213: -5525033698061109205
+    second: Code_Kingdom_Sprite_Sheet_v1.3_135
+  - first:
+      213: -6696902813388400073
+    second: Code_Kingdom_Sprite_Sheet_v1.3_136
+  - first:
+      213: 103128396397365946
+    second: Code_Kingdom_Sprite_Sheet_v1.3_137
+  - first:
+      213: -3368191033824392852
+    second: Code_Kingdom_Sprite_Sheet_v1.3_138
+  - first:
+      213: -7650821738011346808
+    second: Code_Kingdom_Sprite_Sheet_v1.3_139
+  - first:
+      213: 2638643352848626675
+    second: Code_Kingdom_Sprite_Sheet_v1.3_140
+  - first:
+      213: -7681681071259867741
+    second: Code_Kingdom_Sprite_Sheet_v1.3_141
+  - first:
+      213: -8365261712203749527
+    second: Code_Kingdom_Sprite_Sheet_v1.3_142
+  - first:
+      213: 4495458262683305394
+    second: Code_Kingdom_Sprite_Sheet_v1.3_143
+  - first:
+      213: 1425375676662745754
+    second: Code_Kingdom_Sprite_Sheet_v1.3_144
+  - first:
+      213: 81314179250635792
+    second: Code_Kingdom_Sprite_Sheet_v1.3_145
+  - first:
+      213: 1992880737820533310
+    second: Code_Kingdom_Sprite_Sheet_v1.3_146
+  - first:
+      213: -5814900468735692807
+    second: Code_Kingdom_Sprite_Sheet_v1.3_147
+  - first:
+      213: -4346003317021632619
+    second: Code_Kingdom_Sprite_Sheet_v1.3_148
+  - first:
+      213: 7609712251513364544
+    second: Code_Kingdom_Sprite_Sheet_v1.3_149
+  - first:
+      213: 6527255666141803752
+    second: Code_Kingdom_Sprite_Sheet_v1.3_150
+  - first:
+      213: -8201195718354642977
+    second: Code_Kingdom_Sprite_Sheet_v1.3_151
+  - first:
+      213: -6359523873198816151
+    second: Code_Kingdom_Sprite_Sheet_v1.3_152
+  - first:
+      213: -8483284035279209187
+    second: Code_Kingdom_Sprite_Sheet_v1.3_153
+  - first:
+      213: 3476781312846411166
+    second: Code_Kingdom_Sprite_Sheet_v1.3_154
+  - first:
+      213: 5191393960038934244
+    second: Code_Kingdom_Sprite_Sheet_v1.3_155
+  - first:
+      213: 8519154768524256936
+    second: Code_Kingdom_Sprite_Sheet_v1.3_156
+  - first:
+      213: 8050227016382780163
+    second: Code_Kingdom_Sprite_Sheet_v1.3_157
+  - first:
+      213: -125854825666747992
+    second: Code_Kingdom_Sprite_Sheet_v1.3_158
+  - first:
+      213: 6310738881819007630
+    second: Code_Kingdom_Sprite_Sheet_v1.3_159
+  - first:
+      213: -4473179680184598908
+    second: Code_Kingdom_Sprite_Sheet_v1.3_160
+  - first:
+      213: -4410161117171507535
+    second: Code_Kingdom_Sprite_Sheet_v1.3_161
+  - first:
+      213: 8645360632950571133
+    second: Code_Kingdom_Sprite_Sheet_v1.3_162
+  - first:
+      213: 3738214777369041309
+    second: Code_Kingdom_Sprite_Sheet_v1.3_163
+  - first:
+      213: -930614042144173840
+    second: Code_Kingdom_Sprite_Sheet_v1.3_164
+  - first:
+      213: -5144765548773328249
+    second: Code_Kingdom_Sprite_Sheet_v1.3_165
+  - first:
+      213: 5143542446725067000
+    second: Start_Button
+  - first:
+      213: -7635407956634239505
+    second: Indicator
+  - first:
+      213: 8164813415692367761
+    second: Level_Icon
+  - first:
+      213: -9109326893178276599
+    second: Level_Active
+  - first:
+      213: -1132130002680052863
+    second: Level_Clear
+  - first:
+      213: 7735660770473659987
+    second: Code_Kingdom_Sprite_Sheet_v1.3_171
+  - first:
+      213: 7679564725614827437
+    second: Code_Kingdom_Sprite_Sheet_v1.3_172
+  - first:
+      213: -866401234969041141
+    second: Code_Kingdom_Sprite_Sheet_v1.3_173
+  - first:
+      213: -8486701444330571826
+    second: Code_Kingdom_Sprite_Sheet_v1.3_174
+  - first:
+      213: 5784291257428902251
+    second: Code_Kingdom_Sprite_Sheet_v1.3_175
+  - first:
+      213: -3728040646786609569
+    second: Code_Kingdom_Sprite_Sheet_v1.3_176
+  - first:
+      213: 5268590292949419466
+    second: Code_Kingdom_Sprite_Sheet_v1.3_177
+  - first:
+      213: 6604561252237161754
+    second: Code_Kingdom_Sprite_Sheet_v1.3_178
+  - first:
+      213: -2702594045062619346
+    second: Exit_Button
+  - first:
+      213: 74122276604939449
+    second: Code_Kingdom_Sprite_Sheet_v1.3_180
+  - first:
+      213: 315197134691413576
+    second: Code_Kingdom_Sprite_Sheet_v1.3_181
+  - first:
+      213: 5088773596646642430
+    second: Code_Kingdom_Sprite_Sheet_v1.3_182
+  - first:
+      213: 2138942443324608719
+    second: Code_Kingdom_Sprite_Sheet_v1.3_183
+  - first:
+      213: -2482240479655097861
+    second: Code_Kingdom_Sprite_Sheet_v1.3_184
+  - first:
+      213: 4356173228098722456
+    second: Code_Kingdom_Sprite_Sheet_v1.3_185
+  - first:
+      213: 2776947639377448067
+    second: Code_Kingdom_Sprite_Sheet_v1.3_186
+  - first:
+      213: 6140843566617102397
+    second: Code_Kingdom_Sprite_Sheet_v1.3_187
+  - first:
+      213: 7384623872960999522
+    second: Code_Kingdom_Sprite_Sheet_v1.3_188
+  - first:
+      213: 2266338618264594005
+    second: Code_Kingdom_Sprite_Sheet_v1.3_189
+  - first:
+      213: 6103431765376033614
+    second: Code_Kingdom_Sprite_Sheet_v1.3_190
+  - first:
+      213: -2809890719718900920
+    second: Code_Kingdom_Sprite_Sheet_v1.3_191
+  - first:
+      213: 386554295287089711
+    second: Code_Kingdom_Sprite_Sheet_v1.3_192
+  - first:
+      213: 1981620652252288128
+    second: Code_Kingdom_Sprite_Sheet_v1.3_193
+  - first:
+      213: -5799370055878218491
+    second: Code_Kingdom_Sprite_Sheet_v1.3_194
+  - first:
+      213: -4824671179202430304
+    second: Code_Kingdom_Sprite_Sheet_v1.3_195
+  - first:
+      213: 4499921116087097058
+    second: Code_Kingdom_Sprite_Sheet_v1.3_196
+  - first:
+      213: 5259243928073876529
+    second: Code_Kingdom_Sprite_Sheet_v1.3_197
+  - first:
+      213: 615283322594581960
+    second: Code_Kingdom_Sprite_Sheet_v1.3_198
+  - first:
+      213: -6293649424172386633
+    second: Code_Kingdom_Sprite_Sheet_v1.3_199
+  - first:
+      213: -6120353458547350471
+    second: Code_Kingdom_Sprite_Sheet_v1.3_200
+  - first:
+      213: -8066920084698261020
+    second: Code_Kingdom_Sprite_Sheet_v1.3_201
+  - first:
+      213: -1935858631411906506
+    second: Code_Kingdom_Sprite_Sheet_v1.3_202
+  - first:
+      213: 5811399448153394373
+    second: Code_Kingdom_Sprite_Sheet_v1.3_203
+  - first:
+      213: 8458654487953751483
+    second: Code_Kingdom_Sprite_Sheet_v1.3_204
+  - first:
+      213: -4513869850560050967
+    second: Code_Kingdom_Sprite_Sheet_v1.3_205
+  - first:
+      213: -4659516647142730791
+    second: Code_Kingdom_Sprite_Sheet_v1.3_206
+  - first:
+      213: -6046293253196888059
+    second: Code_Kingdom_Sprite_Sheet_v1.3_207
+  - first:
+      213: -6341478981727681877
+    second: Code_Kingdom_Sprite_Sheet_v1.3_208
+  - first:
+      213: -7123467118571465390
+    second: Code_Kingdom_Sprite_Sheet_v1.3_209
+  - first:
+      213: 4940022764124555660
+    second: Code_Kingdom_Sprite_Sheet_v1.3_210
+  - first:
+      213: -8182284188035871561
+    second: Code_Kingdom_Sprite_Sheet_v1.3_211
+  - first:
+      213: 5599990822830658511
+    second: Code_Kingdom_Sprite_Sheet_v1.3_212
+  - first:
+      213: -1210914735116260352
+    second: Code_Kingdom_Sprite_Sheet_v1.3_213
+  - first:
+      213: -997103649543125175
+    second: Code_Kingdom_Sprite_Sheet_v1.3_214
+  - first:
+      213: -2073826606821840767
+    second: Code_Kingdom_Sprite_Sheet_v1.3_215
+  - first:
+      213: 5253164199696532540
+    second: Code_Kingdom_Sprite_Sheet_v1.3_216
+  - first:
+      213: -1611478547543722980
+    second: Code_Kingdom_Sprite_Sheet_v1.3_217
+  - first:
+      213: -4405371993068920532
+    second: King_Icon
+  - first:
+      213: -4620748341401471754
+    second: Next_Button
+  - first:
+      213: 823393304683507086
+    second: Player_Icon
+  - first:
+      213: 3580545208628808078
+    second: Guard_Icon
+  - first:
+      213: 3242830275900720797
+    second: DialogueClicker
+  - first:
+      213: -3382029883117703570
+    second: Code_Kingdom_Sprite_Sheet_v1.3_223
+  - first:
+      213: 3840505458915661858
+    second: Code_Kingdom_Sprite_Sheet_v1.3_224
+  - first:
+      213: 4863794075180889592
+    second: Code_Kingdom_Sprite_Sheet_v1.3_225
+  - first:
+      213: -5579357790012668060
+    second: Code_Kingdom_Sprite_Sheet_v1.3_226
+  - first:
+      213: 5949018249844723219
+    second: Code_Kingdom_Sprite_Sheet_v1.3_227
+  - first:
+      213: -3500686789042631483
+    second: Code_Kingdom_Sprite_Sheet_v1.3_228
+  - first:
+      213: -4844987249236421901
+    second: Code_Kingdom_Sprite_Sheet_v1.3_229
+  - first:
+      213: -1885343662607998993
+    second: Code_Kingdom_Sprite_Sheet_v1.3_230
+  - first:
+      213: -1421968475747044506
+    second: Label_Empty
+  - first:
+      213: -647060122215081812
+    second: Code_Kingdom_Sprite_Sheet_v1.3_232
+  - first:
+      213: -1990431461909555325
+    second: Mana_Start
+  - first:
+      213: 6665926104271806759
+    second: Code_Kingdom_Sprite_Sheet_v1.3_234
+  - first:
+      213: -2572748683645113000
+    second: Code_Kingdom_Sprite_Sheet_v1.3_235
+  - first:
+      213: -1093804373361523342
+    second: Code_Kingdom_Sprite_Sheet_v1.3_236
+  - first:
+      213: -4709877667252179243
+    second: Code_Kingdom_Sprite_Sheet_v1.3_237
+  - first:
+      213: 6859931051076946475
+    second: Code_Kingdom_Sprite_Sheet_v1.3_238
+  - first:
+      213: -4958728481626634881
+    second: Code_Kingdom_Sprite_Sheet_v1.3_239
+  - first:
+      213: 7454473003360626519
+    second: Code_Kingdom_Sprite_Sheet_v1.3_240
+  - first:
+      213: 1531932999639286024
+    second: Code_Kingdom_Sprite_Sheet_v1.3_241
+  - first:
+      213: 483688918374525358
+    second: Code_Kingdom_Sprite_Sheet_v1.3_242
+  - first:
+      213: -2998573386252679523
+    second: Code_Kingdom_Sprite_Sheet_v1.3_243
+  - first:
+      213: 7171094320201787014
+    second: Code_Kingdom_Sprite_Sheet_v1.3_244
+  - first:
+      213: 6072074662209938505
+    second: Code_Kingdom_Sprite_Sheet_v1.3_245
+  - first:
+      213: -3830376688614820543
+    second: Code_Kingdom_Sprite_Sheet_v1.3_246
+  - first:
+      213: -6454819516253607048
+    second: Code_Kingdom_Sprite_Sheet_v1.3_247
+  - first:
+      213: -5877034368163268964
+    second: Code_Kingdom_Sprite_Sheet_v1.3_248
+  - first:
+      213: 424937969525938331
+    second: Code_Kingdom_Sprite_Sheet_v1.3_249
+  - first:
+      213: 2807892337944976274
+    second: Code_Kingdom_Sprite_Sheet_v1.3_250
+  - first:
+      213: -9039299921174549723
+    second: Code_Kingdom_Sprite_Sheet_v1.3_251
+  - first:
+      213: -8145387051152061874
+    second: Code_Kingdom_Sprite_Sheet_v1.3_252
+  - first:
+      213: -4869390719988229562
+    second: Code_Kingdom_Sprite_Sheet_v1.3_253
+  - first:
+      213: -2736983193971913808
+    second: Code_Kingdom_Sprite_Sheet_v1.3_254
+  - first:
+      213: 4766326259635023370
+    second: MissAttack_Icon
+  - first:
+      213: 6624252975867368581
+    second: Code_Kingdom_Sprite_Sheet_v1.3_256
+  - first:
+      213: -5976339540032398478
+    second: Code_Kingdom_Sprite_Sheet_v1.3_257
+  - first:
+      213: 762567581461558724
+    second: Bar_Empty
+  - first:
+      213: -2806867102123406322
+    second: Title_Colored
+  - first:
+      213: -7868693290438699928
+    second: Title_White
+  - first:
+      213: -4535718049185106651
+    second: Health_Start
+  - first:
+      213: 8351690745894300278
+    second: Health_Mid
+  - first:
+      213: -6853095235247678583
+    second: Mana_Mid
+  - first:
+      213: -6006131523227301537
+    second: Health_End
+  - first:
+      213: -350072811199197983
+    second: Mana_End
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChatBox_Empty
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1319
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e68d860cc41090800000000000000
+      internalID: -8064596704197418346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestionBox1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1271
+        width: 318
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794be3bc185479c40800000000000000
+      internalID: 5518956292128814231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestionIcon_Bg
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1314
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a4ab60ee2af120800000000000000
+      internalID: 2448320888842789984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestionIcon_QuestionMark
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1323
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d885c797e2baf0800000000000000
+      internalID: -381988379332913519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestionIcon_Correct
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1323
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56f364ae444a4270800000000000000
+      internalID: 8235469973156525663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestionIcon_Wrong
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1323
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6eedfa28d9bad0800000000000000
+      internalID: -2685878023589303591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatBox_Example
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1222
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b93d4da9d399ee0800000000000000
+      internalID: -1253903286041076841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestionBox2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1114
+        width: 318
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ed103de8a4b6460800000000000000
+      internalID: 7235959203586760230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleUI
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1114
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159a96d793276ce40800000000000000
+      internalID: 5676349971589867857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnswerBox
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 990
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94619f6306f4c50800000000000000
+      internalID: 6651640963872999897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnswerHover
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 934
+        width: 143
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8611f6f8d1a3a3ca0800000000000000
+      internalID: -6036448451901845144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Button
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 716
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f0388a98816740800000000000000
+      internalID: 5143542446725067000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indicator
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 677
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedff95eae4990690800000000000000
+      internalID: -7635407956634239505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Icon
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 675
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ffa3ea8e3f4170800000000000000
+      internalID: 8164813415692367761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Active
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 688
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9053235347b259180800000000000000
+      internalID: -9109326893178276599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Clear
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 688
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18381b6c2cdd940f0800000000000000
+      internalID: -1132130002680052863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Button
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 668
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd4f3f8057e7ad0800000000000000
+      internalID: -2702594045062619346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King_Icon
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 583
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212ca15389fcd2c0800000000000000
+      internalID: -4405371993068920532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Next_Button
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 623
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f43a428dddcfdfb0800000000000000
+      internalID: -4620748341401471754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Icon
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 592
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d681c19d74d6b00800000000000000
+      internalID: 823393304683507086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard_Icon
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 588
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e890c8e85e6a0b130800000000000000
+      internalID: 3580545208628808078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialogueClicker
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 604
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c1f564f8d00d20800000000000000
+      internalID: 3242830275900720797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Label_Empty
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 573
+        width: 119
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6633b498437244ce0800000000000000
+      internalID: -1421968475747044506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mana_Start
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 525
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3879e1391219064e0800000000000000
+      internalID: -1990431461909555325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissAttack_Icon
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 521
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e6925ea74652240800000000000000
+      internalID: 4766326259635023370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_Empty
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 515
+        width: 43
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5be32dc2f259a00800000000000000
+      internalID: 762567581461558724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Colored
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1705
+        width: 698
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c4436fd310c09d0800000000000000
+      internalID: -2806867102123406322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_White
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1437
+        width: 698
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864d6e87429ccc290800000000000000
+      internalID: -7868693290438699928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Start
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 532
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5257efc2774ed01c0800000000000000
+      internalID: -4535718049185106651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_Mid
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 532
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a62f6fb7a27e370800000000000000
+      internalID: 8351690745894300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mana_Mid
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 525
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bd32b513ae4e0a0800000000000000
+      internalID: -6853095235247678583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_End
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 532
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59c2c3933fe5aca0800000000000000
+      internalID: -6006131523227301537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mana_End
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 525
+        width: 8
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec03fa02aa442bf0800000000000000
+      internalID: -350072811199197983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
