@@ -17,7 +17,8 @@ public class Dialogues : MonoBehaviour
     public enum Character
     {
         King,
-        MC
+        MC,
+        Guard
     }
 
     // Start is called before the first frame update

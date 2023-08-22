@@ -1398,19 +1398,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
   - character: 0
-    content: HURRAY!!! The our prayers have been answered!
+    content: By my beard! The summoning ritual, it worked!
+  - character: 1
+    content: Whu-
   - character: 1
     content: Where am I?
   - character: 0
-    content: This is Code Kingdom. Evil bugs have invaded our kingdom and we need
-      your help.
-  - character: 0
-    content: Dear heroes, please save us from those evil bugs!
+    content: Where are my manners, o chosen one. Welcome to Codey Kingdom!
   - character: 1
-    content: Hmm... Maybe this is the only way I can go back. Alright then.
+    content: "(That\u2019s odd, that\u2019s the name of the game world we made.)"
   - character: 0
-    content: Please head to the treasure room to get what you need. Thank you brave
-      ones and may you come back victorious!
+    content: 'We were once a peaceful and prosperous nation, but a couple months
+      back a mysterious man demanded I hand the kingdom over to him.  '
+  - character: 0
+    content: 'Clearly, we refused and ever since, we have been under constant attack
+      by creatures we have dubbed bugs. '
+  - character: 0
+    content: "Some of our most heroic members of society came together and found
+      an ancient summoning ritual of a hero when in dire need. I can\u2019t believe
+      it worked! You have to help us!"
+  - character: 1
+    content: "I can\u2019t do that! I have a game to finish debugging! I have to
+      go home now!"
+  - character: 0
+    content: Erm, the ritual described it being a one-way trip. Please oh please,
+      you have to help us! I promise if you do, we will try to help you find a way
+      back.
+  - character: 1
+    content: "Well alright\u2026"
+  - character: 0
+    content: Yippee! Quickly now, into the next room, there are people anxious to
+      meet you.
 --- !u!1 &1126186415
 GameObject:
   m_ObjectHideFlags: 0
@@ -2007,8 +2025,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 700, y: 250}
+  m_AnchoredPosition: {x: 0, y: 15}
+  m_SizeDelta: {x: 700, y: 331.91937}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1662638576
 MonoBehaviour:
@@ -2029,16 +2047,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'You are a programmer working in a game company and the project manager
-    has assigned your team a project.
-
-
-    Day after day, the team worked hard on
-    the game. Everything was normal when suddenly one day...
-
-
-    YOU GOT SUCKED
-    INTO THE COMPUTER'
+  m_text: "It\u2019s 11:59pm at Game Fun Co., the release date for your company\u2019s
+    new game, \u2018Code Kingdom : Revision Warriors\u2019 is soon approaching. The
+    game would have been done sooner, but a senior was fired mid-production for forcefully
+    trying to enact his own goals for the game. Now you are stuck trying to fix all
+    the bugs left before-\r\n\nSuddenly, you feel a weird sensation\n\nAND YOU GOT
+    SUCKED INTO THE COMPUTER\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 08eb5fafd51db7a43b497c2548b9fce2, type: 2}
   m_sharedMaterial: {fileID: 6222037635082254482, guid: 08eb5fafd51db7a43b497c2548b9fce2,

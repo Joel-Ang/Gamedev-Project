@@ -21,4 +21,9 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
+
+    public void Stage1()
+    {
+        SceneManager.LoadScene(3);
+    }
 }
