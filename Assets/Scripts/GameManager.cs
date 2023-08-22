@@ -33,6 +33,12 @@ public class GameManager : MonoBehaviour
     public GameObject enemyIndicators;
     public GameObject questionUI;
 
+    [Header("--------------------Audio Source--------------------")]
+    public AudioSource playSound;
+    public AudioClip selectSound;
+    public AudioClip correctSound;
+    public AudioClip wrongSound;
+
     GameObject currentPlayer;
     bool choosingEnemy;
 
@@ -156,6 +162,7 @@ public class GameManager : MonoBehaviour
 
             if (hit && hit.transform.tag == "Enemy")
             {
+                playSelectSound();
                 Debug.Log(hit.transform.name);
                 foreach (Transform i in enemyIndicators.transform)
                 {
@@ -171,14 +178,17 @@ public class GameManager : MonoBehaviour
 
     public void selectAnswer()
     {
+        playSelectSound();
         TMP_Text answerText = EventSystem.current.currentSelectedGameObject.GetComponentInChildren<TMP_Text>();
 
         if (answerText.text == "2") //correct answer
         {
+            playCorrectSound();
             currentPlayer.GetComponent<Animator>().SetTrigger("isAttacking");
         }
         else //wrong answer
         {
+            playWrongSound();
             UpdateBattleState(currentBattleState += 1);
         }
         questionUI.SetActive(false);
@@ -229,4 +239,17 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log("you lost the battle");
     }
+    public void playSelectSound(){
+        playSound.clip = selectSound;
+        playSound.Play();
+    }
+    public void playCorrectSound(){
+        playSound.clip = correctSound;
+        playSound.Play();
+    }
+    public void playWrongSound(){
+        playSound.clip = wrongSound;
+        playSound.Play();
+    }
+    
 }
