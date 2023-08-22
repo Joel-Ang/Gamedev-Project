@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -32,10 +33,16 @@ public class GameManager : MonoBehaviour
     public GameObject enemyIndicatorPrefab;
     public GameObject enemyIndicators;
     public GameObject questionUI;
+    public GameObject winUI;
+    public GameObject loseUI;
+    public GameObject healthManagerObj;
+    HealthManager healthManager;
 
-    GameObject currentPlayer;
-    bool choosingEnemy;
+    GameObject currentPlayer; //character of current turn
+    int enemyIndex;
+    bool choosingEnemy; //whether players are choosing enemy
 
+    public List<GameObject> allPlayers;
     public List<GameObject> allEnemies;
 
     void Awake()
@@ -49,14 +56,20 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        UpdateBattleState(BattleState.MCTurn);
+        allPlayers = new List<GameObject> { mcPlayer, knightPlayer, magePlayer, priestPlayer };
         allEnemies = new List<GameObject>(GameObject.FindGameObjectsWithTag("Enemy"));
+        //Debug.Log("number of players: " + allPlayers.Count);
+
+        healthManager = healthManagerObj.GetComponent<HealthManager>();
+        healthManager.GetEnemyHealth();
+
+        UpdateBattleState(BattleState.MCTurn); //to be run when loading level
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (choosingEnemy) //if players are choosing enemy
         {
             selectEnemy();
         }
@@ -70,19 +83,47 @@ public class GameManager : MonoBehaviour
         switch (currentBattleState)
         {
             case BattleState.MCTurn:
-                MCTurn();
+                if (allPlayers.Contains(mcPlayer))
+                {
+                    MCTurn();
+                }
+                else
+                {
+                    NextBattleState();
+                }
                 break;
 
             case BattleState.KnightTurn:
-                KnightTurn();
+                if (allPlayers.Contains(knightPlayer))
+                {
+                    KnightTurn();
+                }
+                else
+                {
+                    NextBattleState();
+                }
                 break;
 
             case BattleState.MageTurn:
-                MageTurn();
+                if (allPlayers.Contains(magePlayer))
+                {
+                    MageTurn();
+                }
+                else
+                {
+                    NextBattleState();
+                }
                 break;
 
             case BattleState.PriestTurn:
-                PriestTurn();
+                if (allPlayers.Contains(priestPlayer))
+                {
+                    PriestTurn();
+                }
+                else
+                {
+                    NextBattleState();
+                }
                 break;
 
             case BattleState.EnemyTurn:
@@ -103,6 +144,11 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    public void NextBattleState()
+    {
+        UpdateBattleState(currentBattleState += 1);
+    }
+
     void MCTurn()
     {
         currentPlayer = mcPlayer;
@@ -110,12 +156,11 @@ public class GameManager : MonoBehaviour
         AttackButton.interactable = true;
     }
 
-    void KnightTurn() //test skip turn
+    void KnightTurn()
     {
-        //currentPlayer = knightPlayer;
-        //playerTurn.transform.position = new Vector2(knightPlayer.transform.position.x, knightPlayer.transform.position.y - 1f);
-        //AttackButton.interactable = true;
-        UpdateBattleState(currentBattleState += 1);
+        currentPlayer = knightPlayer;
+        playerTurn.transform.position = new Vector2(knightPlayer.transform.position.x, knightPlayer.transform.position.y - 1f);
+        AttackButton.interactable = true;
     }
 
     void MageTurn()
@@ -132,56 +177,63 @@ public class GameManager : MonoBehaviour
         AttackButton.interactable = true;
     }
 
+    //when attack button is pressed (players will have to first choose an enemy)
     public void enemySelection()
     {
-        if (!choosingEnemy)
+        if (!choosingEnemy) //if players are not already choosing enemy
         {
+            //create indicators above enemies
             foreach (GameObject e in allEnemies)
             {
                 GameObject indicator = Instantiate(enemyIndicatorPrefab, new Vector3(e.transform.position.x, e.transform.position.y + 0.9f, e.transform.position.z), transform.rotation);
                 indicator.transform.parent = enemyIndicators.transform;
             }
+
+            choosingEnemy = true;
+            //Debug.Log(choosingEnemy);
         }
-        
-        choosingEnemy = true;
-        //Debug.Log(choosingEnemy);
     }
 
+    //after selecting an enemy to attack
     void selectEnemy()
     {
-        if (choosingEnemy)
+        if (Input.GetMouseButtonDown(0)) //if left mouse click
         {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit2D hit = Physics2D.GetRayIntersection(ray, 20);
 
-            if (hit && hit.transform.tag == "Enemy")
+            if (hit && allEnemies.Contains(hit.transform.gameObject)) //if click is on an existing enemy
             {
-                Debug.Log(hit.transform.name);
+                //destroy indicators
                 foreach (Transform i in enemyIndicators.transform)
                 {
                     Destroy(i.gameObject);
                 }
+
                 choosingEnemy = false;
+                enemyIndex = allEnemies.IndexOf(hit.transform.gameObject);
 
                 AttackButton.interactable = false;
-                questionUI.SetActive(true);
+                currentPlayer.GetComponent<Animator>().SetTrigger("isAttacking");
             }
         }
     }
 
     public void selectAnswer()
     {
+        questionUI.SetActive(false);
+
         TMP_Text answerText = EventSystem.current.currentSelectedGameObject.GetComponentInChildren<TMP_Text>();
 
-        if (answerText.text == "2") //correct answer
+        if (answerText.text == "b") //correct answer
         {
-            currentPlayer.GetComponent<Animator>().SetTrigger("isAttacking");
+            healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
         }
         else //wrong answer
         {
+            //miss animation wip
             UpdateBattleState(currentBattleState += 1);
         }
-        questionUI.SetActive(false);
     }
 
     void EnemyTurn()
@@ -194,39 +246,62 @@ public class GameManager : MonoBehaviour
 
     public void EnemyAttack()
     {
-        int targetPlayer = Random.Range(0, 4);
-        switch(targetPlayer)
+        //random from remaining players
+        int targetPlayerIndex = Random.Range(0, allPlayers.Count-1);
+        currentPlayer = allPlayers[targetPlayerIndex];
+
+        //deal damage to respective player
+        if (currentPlayer == mcPlayer)
         {
-            case 0: //MC
-                Debug.Log("MC is attacked");
-                break;
+            healthManager.ReceiveDamage(healthManager.mcHealth);
+            Debug.Log("MC HP: " + healthManager.mcHealth.Health);
+        }
+        else if (currentPlayer == knightPlayer)
+        {
+            healthManager.ReceiveDamage(healthManager.knightHealth);
+            Debug.Log("Knight HP: " + healthManager.knightHealth.Health);
+        }
+        else if (currentPlayer == magePlayer)
+        {
+            healthManager.ReceiveDamage(healthManager.mageHealth);
+            Debug.Log("Mage HP: " + healthManager.mageHealth.Health);
+        }
+        else if (currentPlayer == priestPlayer)
+        {
+            healthManager.ReceiveDamage(healthManager.priestHealth);
+            Debug.Log("Priest HP: " + healthManager.priestHealth.Health);
+        }
+    }
 
-            case 1: //Knight
-                Debug.Log("Knight is attacked");
-                break;
+    public IEnumerator DisplayEndUI(AnimatorStateInfo stateInfo)
+    {
+        yield return new WaitForSecondsRealtime(stateInfo.length + 1);
 
-            case 2: //Mage
-                Debug.Log("Mage is attacked");
-                break;
-
-            case 3: //Priest
-                Debug.Log("Priest is attacked");
-                break;
+        if (allPlayers.Count == 0)
+        {
+            UpdateBattleState(BattleState.Lose);
+            Time.timeScale = 0f;
+        }
+        else if (allEnemies.Count == 0)
+        {
+            UpdateBattleState(BattleState.Win);
+            Time.timeScale = 0f;
         }
     }
 
     public void BattleRun()
     {
         Debug.Log("do you want to escape?");
+        //SceneManager.LoadScene(3);
     }
 
     void BattleWin()
     {
-        Debug.Log("you won the battle");
+        winUI.SetActive(true);
     }
 
     void BattleLose()
     {
-        Debug.Log("you lost the battle");
+        loseUI.SetActive(true);
     }
 }
