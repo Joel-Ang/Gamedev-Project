@@ -15,7 +15,7 @@ public class LevelInfoManager : MonoBehaviour
     public TextMeshProUGUI Stage2Info;
     public TextMeshProUGUI Stage3Info;
 
-    static int[] NoEnemies = { 3, 4, 5, 6, 7 };
+    static int[] NoEnemies = { 3, 4, 5, 6, 7, 8 };
     static string[] EnemType = { "Bugs", "Boss" };
     static string[] Background = { "Castle", "Castle Gate", "Village", "Forest" };
     static string[] QuesIndex = { "[0-5]", "[6-10]", "[11-15]", "[16-20]", "[21-25]" };
