@@ -9,13 +9,11 @@ public class TypewriterEffect : MonoBehaviour
     [SerializeField] float typingSpeed = 0.05f;
     [SerializeField] bool allowSkip = false;
     
-    AudioSource aud;
     // Start is called before the first frame update
     void Start()
     {
         txt = GetComponent<TMP_Text>();
         //StartCoroutine(TypeText(txt.text));
-        aud = GetComponent<AudioSource>();
     }
 
     public IEnumerator TypeText(string content)
@@ -24,7 +22,6 @@ public class TypewriterEffect : MonoBehaviour
 
         foreach (char c in content)
         {
-            aud.Play();
             if (allowSkip == true && Input.GetKeyDown(KeyCode.Space))
             {
                 txt.text = content;
