@@ -46,6 +46,7 @@ public class GameManager : MonoBehaviour
     public List<GameObject> allEnemies;
 
     AudioManager audiomanager;
+
     void Awake()
     {
         if (instance == null)
@@ -53,10 +54,38 @@ public class GameManager : MonoBehaviour
             instance = this;
         }
     }
+    void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        Debug.Log("OnSceneLoaded: " + scene.name);
+        Debug.Log(LevelManager.Background);
+    }
+
+    void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    //testing, to be cleaned later
+    public void backtomap()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+    public void retrylevel()
+    {
+        SceneManager.LoadScene(3);
+    }
 
     // Start is called before the first frame update
     void Start()
     {
+        Time.timeScale = 1f;
+
         allPlayers = new List<GameObject> { mcPlayer, knightPlayer, magePlayer, priestPlayer };
         allEnemies = new List<GameObject>(GameObject.FindGameObjectsWithTag("Enemy"));
         //Debug.Log("number of players: " + allPlayers.Count);

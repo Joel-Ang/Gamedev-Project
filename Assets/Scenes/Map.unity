@@ -32740,8 +32740,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1999356043}
-        m_MethodName: Stage1
+      - m_Target: {fileID: 882253724}
+        m_MethodName: StartLevel
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -32812,7 +32812,6 @@ GameObject:
   - component: {fileID: 517134169}
   - component: {fileID: 517134168}
   - component: {fileID: 517134167}
-  - component: {fileID: 517134165}
   m_Layer: 5
   m_Name: LevelInfo3
   m_TagString: Untagged
@@ -32820,18 +32819,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
---- !u!114 &517134165
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 517134164}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f5a0144ea04a001458455087de0bd99a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &517134167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33206,8 +33193,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1248476848}
-        m_MethodName: Stage1
+      - m_Target: {fileID: 882253724}
+        m_MethodName: StartLevel
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -33582,7 +33569,7 @@ GameObject:
   - component: {fileID: 882253725}
   - component: {fileID: 882253724}
   m_Layer: 0
-  m_Name: LevelInfoManager
+  m_Name: LevelManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33704,8 +33691,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 9
-  m_fontSizeBase: 9
+  m_fontSize: 10
+  m_fontSizeBase: 10
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -34817,7 +34804,6 @@ GameObject:
   - component: {fileID: 1248476845}
   - component: {fileID: 1248476844}
   - component: {fileID: 1248476843}
-  - component: {fileID: 1248476848}
   m_Layer: 5
   m_Name: LevelInfo1
   m_TagString: Untagged
@@ -34905,18 +34891,6 @@ RectTransform:
   m_AnchoredPosition: {x: 1.632151, y: -0.14673483}
   m_SizeDelta: {x: 437, y: 273}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1248476848
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1248476842}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f5a0144ea04a001458455087de0bd99a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1329877982
 GameObject:
   m_ObjectHideFlags: 0
@@ -35152,8 +35126,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 517134165}
-        m_MethodName: Stage1
+      - m_Target: {fileID: 882253724}
+        m_MethodName: StartLevel
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -36614,7 +36588,6 @@ GameObject:
   - component: {fileID: 1999356047}
   - component: {fileID: 1999356046}
   - component: {fileID: 1999356045}
-  - component: {fileID: 1999356043}
   m_Layer: 5
   m_Name: LevelInfo2
   m_TagString: Untagged
@@ -36622,18 +36595,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
---- !u!114 &1999356043
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1999356042}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f5a0144ea04a001458455087de0bd99a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1999356045
 MonoBehaviour:
   m_ObjectHideFlags: 0
