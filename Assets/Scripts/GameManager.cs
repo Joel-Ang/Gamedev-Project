@@ -45,6 +45,7 @@ public class GameManager : MonoBehaviour
     public List<GameObject> allPlayers;
     public List<GameObject> allEnemies;
 
+    AudioManager audiomanager;
     void Awake()
     {
         if (instance == null)
@@ -64,6 +65,8 @@ public class GameManager : MonoBehaviour
         healthManager.GetEnemyHealth();
 
         UpdateBattleState(BattleState.MCTurn); //to be run when loading level
+
+        audiomanager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
     }
 
     // Update is called once per frame
@@ -204,6 +207,8 @@ public class GameManager : MonoBehaviour
 
             if (hit && allEnemies.Contains(hit.transform.gameObject)) //if click is on an existing enemy
             {
+                //play select sound
+                audiomanager.playSelect();
                 //destroy indicators
                 foreach (Transform i in enemyIndicators.transform)
                 {
@@ -227,10 +232,16 @@ public class GameManager : MonoBehaviour
 
         if (answerText.text == "b") //correct answer
         {
+            //play correct ans SFX
+            audiomanager.playCorrectAns();
             healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
+            audiomanager.playEnemyDamaged();
         }
         else //wrong answer
         {
+            //play wrong ans and miss SFX 
+            audiomanager.playWrongAns();
+            audiomanager.playMiss();
             //miss animation wip
             UpdateBattleState(currentBattleState += 1);
         }
@@ -249,6 +260,9 @@ public class GameManager : MonoBehaviour
         //random from remaining players
         int targetPlayerIndex = Random.Range(0, allPlayers.Count-1);
         currentPlayer = allPlayers[targetPlayerIndex];
+
+        //play player damaged SFX
+        audiomanager.playPlayerDamaged();
 
         //deal damage to respective player
         if (currentPlayer == mcPlayer)
@@ -279,11 +293,17 @@ public class GameManager : MonoBehaviour
 
         if (allPlayers.Count == 0)
         {
+            //play losing SFX and pause BGM
+            audiomanager.stopBGM();
+            audiomanager.playLose();
             UpdateBattleState(BattleState.Lose);
             Time.timeScale = 0f;
         }
         else if (allEnemies.Count == 0)
         {
+            //play winning SFX and pause BGM
+            audiomanager.stopBGM();
+            audiomanager.playWin();
             UpdateBattleState(BattleState.Win);
             Time.timeScale = 0f;
         }
