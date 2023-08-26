@@ -43,7 +43,18 @@ public class HealthManager : MonoBehaviour
     {
         foreach (GameObject e in GameManager.instance.allEnemies)
         {
-            enemiesHealth.Add(new HealthSystem(e, 3));
+            if (e.name == "EnemyWeak")
+            {
+                enemiesHealth.Add(new HealthSystem(e, 2));
+            }
+            else if (e.name == "EnemyStrong")
+            {
+                enemiesHealth.Add(new HealthSystem(e, 3));
+            }
+            else if (e.name == "Boss")
+            {
+                enemiesHealth.Add(new HealthSystem(e, 5));
+            }
         }
         Debug.Log(enemiesHealth.Count);
     }
@@ -89,7 +100,7 @@ public class HealthManager : MonoBehaviour
         }
         else if (healthToUpdate.Character.tag == "Enemy")
         {
-            enemyhealthObj = healthToUpdate.Character.transform.Find("HealthBar/Health").gameObject;
+            enemyhealthObj = healthToUpdate.Character.transform.parent.GetChild(1).GetChild(0).gameObject;
             if (enemyhealthObj.transform.childCount > 0)
             {
                 Destroy(enemyhealthObj.transform.GetChild(enemyhealthObj.transform.childCount - 1).gameObject);

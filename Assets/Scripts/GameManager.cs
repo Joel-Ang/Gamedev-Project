@@ -191,14 +191,14 @@ public class GameManager : MonoBehaviour
     void KnightTurn()
     {
         currentPlayer = knightPlayer;
-        playerTurn.transform.position = new Vector2(knightPlayer.transform.position.x, knightPlayer.transform.position.y - 1f);
+        playerTurn.transform.position = new Vector2(knightPlayer.transform.position.x, knightPlayer.transform.position.y - 0.85f);
         AttackButton.interactable = true;
     }
 
     void MageTurn()
     {
         currentPlayer = magePlayer;
-        playerTurn.transform.position = new Vector2(magePlayer.transform.position.x, magePlayer.transform.position.y - 1f);
+        playerTurn.transform.position = new Vector2(magePlayer.transform.position.x, magePlayer.transform.position.y - 0.9f);
         AttackButton.interactable = true;
     }
 
