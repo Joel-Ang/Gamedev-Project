@@ -29,7 +29,11 @@ public class GameManager : MonoBehaviour
     public GameObject priestPlayer;
     public GameObject playerTurn;
 
+    public SpriteRenderer bg;
     public Button AttackButton;
+    public GameObject enemyWeakPrefab;
+    public GameObject enemyStrongPrefab;
+    public GameObject enemyBossPrefab;
     public GameObject enemyIndicatorPrefab;
     public GameObject enemyIndicators;
     public GameObject questionUI;
@@ -61,13 +65,94 @@ public class GameManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        Debug.Log("OnSceneLoaded: " + scene.name);
-        Debug.Log(LevelManager.Background);
+        EnemySpawn();
+
+        if (LevelManager.battleBg == "CastleGates")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_CastleGates");
+        }
+        else if (LevelManager.battleBg == "Village")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_Village");
+        }
+        else if (LevelManager.battleBg == "Forest")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_Forest");
+        }
+        
     }
 
     void OnDisable()
     {
         SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void EnemySpawn()
+    {
+        Transform pos1 = GameObject.Find("EnemyPos1").transform;
+        Transform pos2 = GameObject.Find("EnemyPos2").transform;
+        Transform pos3 = GameObject.Find("EnemyPos3").transform;
+
+        GameObject enemyToSpawn = null;
+        Transform posToSpawn = null;
+
+        if (LevelManager.enemyCount < 2) //1 max
+        {
+            //set type of enemy
+            if (LevelManager.enemyType[0] == "Weak")
+            {
+                enemyToSpawn = enemyWeakPrefab;
+            }
+            else if (LevelManager.enemyType[0] == "Strong")
+            {
+                enemyToSpawn = enemyStrongPrefab;
+            }
+            else if (LevelManager.enemyType[0] == "Boss")
+            {
+                enemyToSpawn = enemyBossPrefab;
+            }
+
+            //spawn enemy
+            GameObject enemy = Instantiate(enemyToSpawn, new Vector3(pos2.position.x, pos2.position.y, pos2.position.z), transform.rotation);
+            enemy.transform.parent = pos2;
+        }
+        else if (LevelManager.enemyCount < 4) //3 max
+        {
+            foreach (string e in LevelManager.enemyType)
+            {
+                //set position of enemy
+                if (pos1.transform.childCount == 0)
+                {
+                    posToSpawn = pos1.transform;
+                }
+                else if (pos3.transform.childCount == 0)
+                {
+                    posToSpawn = pos3.transform;
+                }
+                else if (pos2.transform.childCount == 0)
+                {
+                    posToSpawn = pos2.transform;
+                }
+
+                //set type of enemy
+                if (e == "Weak")
+                {
+                    enemyToSpawn = enemyWeakPrefab;
+                }
+                else if (e == "Strong")
+                {
+                    enemyToSpawn = enemyStrongPrefab;
+                }
+                else if (e == "Boss")
+                {
+                    enemyToSpawn = enemyBossPrefab;
+                }
+
+                //spawn enemy
+                GameObject enemy = Instantiate(enemyToSpawn, new Vector3(posToSpawn.position.x, posToSpawn.position.y, posToSpawn.position.z), transform.rotation);
+                enemy.transform.parent = posToSpawn;
+            }
+        }
     }
 
     //testing, to be cleaned later
@@ -347,6 +432,19 @@ public class GameManager : MonoBehaviour
     void BattleWin()
     {
         winUI.SetActive(true);
+
+        if (LevelManager.stage == 1)
+        {
+            LevelManager.stage1Complete = true;
+        }
+        if (LevelManager.stage == 2)
+        {
+            LevelManager.stage2Complete = true;
+        }
+        if (LevelManager.stage == 3)
+        {
+            LevelManager.stage3Complete = true;
+        }
     }
 
     void BattleLose()
