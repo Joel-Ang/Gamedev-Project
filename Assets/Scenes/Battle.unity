@@ -2573,7 +2573,9 @@ MonoBehaviour:
     type: 3}
   enemyIndicatorPrefab: {fileID: 2340223414342327036, guid: a3231e430d5a7db4485c4fd2eb3ddff7,
     type: 3}
-  enemyIndicators: {fileID: 1501640640}
+  enemyMissPrefab: {fileID: 2537831792988842653, guid: 0f96f3336afe6cb4c8862868c8753d4b,
+    type: 3}
+  enemyEffects: {fileID: 1501640640}
   questionUI: {fileID: 208602586}
   winUI: {fileID: 269682895}
   loseUI: {fileID: 1510567909}
@@ -4320,7 +4322,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1501640641}
   m_Layer: 0
-  m_Name: EnemyIndicators
+  m_Name: EnemyEffects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

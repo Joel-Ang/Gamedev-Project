@@ -4,12 +4,25 @@ using UnityEngine;
 
 public class BattleAnimBehaviour : StateMachineBehaviour
 {
+    IEnumerator DestroyAfterAnimation(AnimatorStateInfo stateInfo, GameObject obj)
+    {
+        yield return new WaitForSecondsRealtime(stateInfo.length);
+
+        Destroy(obj);
+    }
+
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         if (stateInfo.IsName("Death"))
         {
             GameManager.instance.StartCoroutine(GameManager.instance.DisplayEndUI(stateInfo));
+        }
+
+        if (stateInfo.IsName("MissAttackEffect"))
+        {
+            GameManager.instance.StartCoroutine(DestroyAfterAnimation(stateInfo, animator.transform.parent.gameObject));
+            Debug.Log(animator.transform.parent.gameObject);
         }
     }
 

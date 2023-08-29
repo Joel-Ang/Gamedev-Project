@@ -35,7 +35,8 @@ public class GameManager : MonoBehaviour
     public GameObject enemyStrongPrefab;
     public GameObject enemyBossPrefab;
     public GameObject enemyIndicatorPrefab;
-    public GameObject enemyIndicators;
+    public GameObject enemyMissPrefab;
+    public GameObject enemyEffects;
     public GameObject questionUI;
     public GameObject winUI;
     public GameObject loseUI;
@@ -67,6 +68,7 @@ public class GameManager : MonoBehaviour
     {
         EnemySpawn();
 
+        //background change
         if (LevelManager.battleBg == "CastleGates")
         {
             bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_CastleGates");
@@ -303,7 +305,7 @@ public class GameManager : MonoBehaviour
             foreach (GameObject e in allEnemies)
             {
                 GameObject indicator = Instantiate(enemyIndicatorPrefab, new Vector3(e.transform.position.x, e.transform.position.y + 0.9f, e.transform.position.z), transform.rotation);
-                indicator.transform.parent = enemyIndicators.transform;
+                indicator.transform.parent = enemyEffects.transform;
             }
 
             choosingEnemy = true;
@@ -324,7 +326,7 @@ public class GameManager : MonoBehaviour
                 //play select sound
                 audiomanager.playSelect();
                 //destroy indicators
-                foreach (Transform i in enemyIndicators.transform)
+                foreach (Transform i in enemyEffects.transform)
                 {
                     Destroy(i.gameObject);
                 }
@@ -353,10 +355,15 @@ public class GameManager : MonoBehaviour
         }
         else //wrong answer
         {
+            //miss effect animation
+            Transform enemyPos = allEnemies[enemyIndex].transform;
+            GameObject missEffect = Instantiate(enemyMissPrefab, new Vector3(enemyPos.position.x, enemyPos.position.y + 1f, enemyPos.position.z), transform.rotation);
+            missEffect.transform.parent = enemyEffects.transform;
+
             //play wrong ans and miss SFX 
             audiomanager.playWrongAns();
             audiomanager.playMiss();
-            //miss animation wip
+            
             UpdateBattleState(currentBattleState += 1);
         }
     }
