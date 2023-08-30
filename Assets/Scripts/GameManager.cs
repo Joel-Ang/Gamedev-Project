@@ -78,6 +78,7 @@ public class GameManager : MonoBehaviour
         else if (LevelManager.battleBg == "Village")
         {
             bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_Village");
+            bg.gameObject.transform.localScale = new Vector3(1.2f, 1.2f);
         }
         else if (LevelManager.battleBg == "Forest")
         {
@@ -441,7 +442,7 @@ public class GameManager : MonoBehaviour
     public void BattleRun()
     {
         Debug.Log("do you want to escape?");
-        //SceneManager.LoadScene(3);
+        backtomap();
     }
 
     void BattleWin()

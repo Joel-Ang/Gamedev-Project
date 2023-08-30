@@ -36,24 +36,45 @@ public class LevelManager : MonoBehaviour
     {
         if (stage3Complete)
         {
+            stage1Button.transform.Find("ActiveState").gameObject.SetActive(false);
+            stage1Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage1Button.interactable = true;
+
+            stage2Button.transform.Find("ActiveState").gameObject.SetActive(false);
+            stage2Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage2Button.interactable = true;
+
             stage3Button.transform.Find("ActiveState").gameObject.SetActive(false);
             stage3Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage3Button.interactable = true;
         }
         else if (stage2Complete)
         {
+            stage1Button.transform.Find("ActiveState").gameObject.SetActive(false);
+            stage1Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage1Button.interactable = true;
+
             stage2Button.transform.Find("ActiveState").gameObject.SetActive(false);
             stage2Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage2Button.interactable = true;
 
             stage3Button.transform.Find("ActiveState").gameObject.SetActive(true);
+            stage3Button.transform.Find("DoneState").gameObject.SetActive(false);
             stage3Button.interactable = true;
         }
         else if (stage1Complete)
         {
             stage1Button.transform.Find("ActiveState").gameObject.SetActive(false);
             stage1Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage1Button.interactable = true;
 
             stage2Button.transform.Find("ActiveState").gameObject.SetActive(true);
+            stage2Button.transform.Find("DoneState").gameObject.SetActive(false);
             stage2Button.interactable = true;
+
+            stage3Button.transform.Find("ActiveState").gameObject.SetActive(false);
+            stage3Button.transform.Find("DoneState").gameObject.SetActive(false);
+            stage3Button.interactable = false;
         }
     }
 
