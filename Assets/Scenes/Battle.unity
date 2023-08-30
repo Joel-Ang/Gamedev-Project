@@ -303,8 +303,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 643605625}
-        m_MethodName: selectAnswer
+      - m_Target: {fileID: 1793197279}
+        m_MethodName: playSelect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -314,9 +314,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1793197279}
-        m_MethodName: playSelect
-        m_Mode: 1
+      - m_Target: {fileID: 643605625}
+        m_MethodName: selectAnswer
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2582,6 +2582,7 @@ MonoBehaviour:
   healthManagerObj: {fileID: 1425720338}
   allPlayers: []
   allEnemies: []
+  jsonFile: {fileID: 4900000, guid: d9d30e76f23baa64f9ad0a10a14b365d, type: 3}
 --- !u!1 &671892849
 GameObject:
   m_ObjectHideFlags: 0
@@ -2703,8 +2704,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 643605625}
-        m_MethodName: selectAnswer
+      - m_Target: {fileID: 1793197279}
+        m_MethodName: playSelect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2714,13 +2715,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1793197279}
-        m_MethodName: playSelect
-        m_Mode: 1
+      - m_Target: {fileID: 643605625}
+        m_MethodName: selectAnswer
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -3071,7 +3072,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 90}
-  m_SizeDelta: {x: 460, y: 60}
+  m_SizeDelta: {x: 400, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1058131704
 MonoBehaviour:
@@ -3531,8 +3532,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 643605625}
-        m_MethodName: selectAnswer
+      - m_Target: {fileID: 1793197279}
+        m_MethodName: playSelect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3542,13 +3543,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1793197279}
-        m_MethodName: playSelect
-        m_Mode: 1
+      - m_Target: {fileID: 643605625}
+        m_MethodName: selectAnswer
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -4853,8 +4854,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 643605625}
-        m_MethodName: selectAnswer
+      - m_Target: {fileID: 1793197279}
+        m_MethodName: playSelect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4864,13 +4865,13 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1793197279}
-        m_MethodName: playSelect
-        m_Mode: 1
+      - m_Target: {fileID: 643605625}
+        m_MethodName: selectAnswer
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -5765,6 +5766,56 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073836446}
   m_CullTransparentMesh: 0
+--- !u!1 &2115585727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2115585729}
+  - component: {fileID: 2115585728}
+  m_Layer: 0
+  m_Name: QuestionManager
+  m_TagString: QuestionManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2115585728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2115585727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e855fd53c4fd45746b268e730a646ef4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questionText: {fileID: 1058131704}
+  optionsText: {fileID: 403093599}
+  questionUI: {fileID: 0}
+  jsonFile: {fileID: 4900000, guid: d9d30e76f23baa64f9ad0a10a14b365d, type: 3}
+  questionJsonText:
+    questions: []
+  currentTurn: 0
+--- !u!4 &2115585729
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2115585727}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.9738941, y: -1.3028833, z: -68489.67}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2122692926
 PrefabInstance:
   m_ObjectHideFlags: 0

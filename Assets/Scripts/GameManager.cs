@@ -52,6 +52,8 @@ public class GameManager : MonoBehaviour
 
     AudioManager audiomanager;
 
+    QuestionMenu questionMenu;
+    public TextAsset jsonFile;
     void Awake()
     {
         if (instance == null)
@@ -183,6 +185,10 @@ public class GameManager : MonoBehaviour
         UpdateBattleState(BattleState.MCTurn); //to be run when loading level
 
         audiomanager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
+        questionMenu = GameObject.FindGameObjectWithTag("QuestionManager").GetComponent<QuestionMenu>();
+        
+        //set which question the stage is starts with
+        questionMenu.setCurrentTurn(0);
     }
 
     // Update is called once per frame
@@ -340,18 +346,20 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void selectAnswer()
+    public void selectAnswer(int chosenAns)
     {
         questionUI.SetActive(false);
-
-        TMP_Text answerText = EventSystem.current.currentSelectedGameObject.GetComponentInChildren<TMP_Text>();
-
-        if (answerText.text == "b") //correct answer
+        
+        //check chosen answer         
+        bool checkAns = questionMenu.selectAnswer(chosenAns);
+        if (checkAns) //correct answer
         {
-            //play correct ans SFX
+            //play correct ans and enemy damaged SFX
             audiomanager.playCorrectAns();
-            healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
             audiomanager.playEnemyDamaged();
+            healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
+            //set next question
+            questionMenu.nextQuestion();
         }
         else //wrong answer
         {
@@ -458,4 +466,6 @@ public class GameManager : MonoBehaviour
     {
         loseUI.SetActive(true);
     }
+
+
 }
