@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: c6e83013286130c40ba99df04e93ce53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8294430039860107865
+    second: EnemyStrong_0
+  - first:
+      213: 4628051675128348544
+    second: EnemyStrong_1
+  - first:
+      213: -835284970673521558
+    second: EnemyStrong_2
+  - first:
+      213: -4200442989117056034
+    second: EnemyStrong_3
+  - first:
+      213: 6766275887297577132
+    second: EnemyStrong_4
+  - first:
+      213: -4529061397724462181
+    second: EnemyStrong_5
+  - first:
+      213: -5311740453865534164
+    second: EnemyStrong_6
+  - first:
+      213: 606651326308308
+    second: EnemyStrong_7
+  - first:
+      213: -1516502380871730159
+    second: EnemyStrong_8
+  - first:
+      213: -5312296212709261956
+    second: EnemyStrong_9
+  - first:
+      213: 8134876540894164216
+    second: EnemyStrong_10
+  - first:
+      213: 3624740634203684424
+    second: EnemyStrong_11
+  - first:
+      213: 595692736904474519
+    second: EnemyStrong_12
+  - first:
+      213: -5974107738746071751
+    second: EnemyStrong_13
+  - first:
+      213: -5727725432241789684
+    second: EnemyStrong_14
+  - first:
+      213: 4834549132198844682
+    second: EnemyStrong_15
+  - first:
+      213: -7571767805278770581
+    second: EnemyStrong_16
+  - first:
+      213: -1137585778887951213
+    second: EnemyStrong_17
+  - first:
+      213: 7711521180939876260
+    second: EnemyStrong_18
+  - first:
+      213: 707878174633172381
+    second: EnemyStrong_19
+  - first:
+      213: 8672259812561002177
+    second: EnemyStrong_20
+  - first:
+      213: -741187546067839901
+    second: EnemyStrong_21
+  - first:
+      213: 4405671269741046800
+    second: EnemyStrong_22
+  - first:
+      213: 4862195078788370291
+    second: EnemyStrong_23
+  - first:
+      213: -613648151423170983
+    second: EnemyStrong_24
+  - first:
+      213: -2421313816206182150
+    second: EnemyStrong_25
+  - first:
+      213: 6988118420546914965
+    second: EnemyStrong_26
+  - first:
+      213: -8385030542924950018
+    second: EnemyStrong_27
+  - first:
+      213: -397767399641894660
+    second: EnemyStrong_28
+  - first:
+      213: 7435517293707681861
+    second: EnemyStrong_29
+  - first:
+      213: 4470401538440567129
+    second: EnemyStrong_30
+  - first:
+      213: -5948844918408630087
+    second: EnemyStrong_31
+  - first:
+      213: 9213479648875979714
+    second: EnemyStrong_32
+  - first:
+      213: 369681736104441385
+    second: EnemyStrong_Death_0
+  - first:
+      213: -560646245908536105
+    second: EnemyStrong_Death_1
+  - first:
+      213: 2536409535652075919
+    second: EnemyStrong_Death_2
+  - first:
+      213: 6629323276070210418
+    second: EnemyStrong_Death_3
+  - first:
+      213: -4374841343230725359
+    second: EnemyStrong_Death_4
+  - first:
+      213: 6170116025048726939
+    second: EnemyStrong_Death_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyStrong_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad03cec2cbb1370800000000000000
+      internalID: 8294430039860107865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f3d226a742a3040800000000000000
+      internalID: 4628051675128348544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c38c4aeb87864f0800000000000000
+      internalID: -835284970673521558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbd5663b5705b5c0800000000000000
+      internalID: -4200442989117056034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0c9aaf114a6ed50800000000000000
+      internalID: 6766275887297577132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9303be97aa8521c0800000000000000
+      internalID: -4529061397724462181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc5443338e846b0800000000000000
+      internalID: -5311740453865534164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df9ec40fb7220000800000000000000
+      internalID: 606651326308308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3b1f8e1d44fae0800000000000000
+      internalID: -1516502380871730159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 519
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dbfc38dbee646b0800000000000000
+      internalID: -5312296212709261956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 519
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b7af0d13e4e070800000000000000
+      internalID: 8134876540894164216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 519
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e72a0f66aad4230800000000000000
+      internalID: 3624740634203684424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 519
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa87a5363544800800000000000000
+      internalID: 595692736904474519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 519
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935d02ee9a4b71da0800000000000000
+      internalID: -5974107738746071751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 519
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05e140f0180380b0800000000000000
+      internalID: -5727725432241789684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0992e932d4c71340800000000000000
+      internalID: 4834549132198844682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aae9c4c4dabe690800000000000000
+      internalID: -7571767805278770581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cf8d3e2cb7630f0800000000000000
+      internalID: -1137585778887951213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a772db18a3d40b60800000000000000
+      internalID: 7711521180939876260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d13470373e2d900800000000000000
+      internalID: 707878174633172381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce18971a5e0a5870800000000000000
+      internalID: 8672259812561002177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 391
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364dea49ad5c6b5f0800000000000000
+      internalID: -741187546067839901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 391
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c2f067da6142d30800000000000000
+      internalID: 4405671269741046800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 391
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f45d3c9acf97340800000000000000
+      internalID: 4862195078788370291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 391
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c85de142eb77f0800000000000000
+      internalID: -613648151423170983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 391
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8f84fa9e3c56ed0800000000000000
+      internalID: -2421313816206182150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 391
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a0019cda8caf060800000000000000
+      internalID: 6988118420546914965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef55822a52362ab80800000000000000
+      internalID: -8385030542924950018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf03d1158a8da7af0800000000000000
+      internalID: -397767399641894660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54068b46593403760800000000000000
+      internalID: 7435517293707681861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9591c16938e0a0e30800000000000000
+      internalID: 4470401538440567129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_31
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0bd56a015717da0800000000000000
+      internalID: -5948844918408630087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 327
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c32b80fceadcdf70800000000000000
+      internalID: 9213479648875979714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_Death_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9267470949f512500800000000000000
+      internalID: 369681736104441385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_Death_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d427f3b53f2838f0800000000000000
+      internalID: -560646245908536105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_Death_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f899471c803233320800000000000000
+      internalID: 2536409535652075919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_Death_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bc46b5566100c50800000000000000
+      internalID: 6629323276070210418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_Death_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1133a0c2af07943c0800000000000000
+      internalID: -4374841343230725359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyStrong_Death_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d79f785d7a0a550800000000000000
+      internalID: 6170116025048726939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

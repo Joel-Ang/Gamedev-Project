@@ -29,9 +29,14 @@ public class GameManager : MonoBehaviour
     public GameObject priestPlayer;
     public GameObject playerTurn;
 
+    public SpriteRenderer bg;
     public Button AttackButton;
+    public GameObject enemyWeakPrefab;
+    public GameObject enemyStrongPrefab;
+    public GameObject enemyBossPrefab;
     public GameObject enemyIndicatorPrefab;
-    public GameObject enemyIndicators;
+    public GameObject enemyMissPrefab;
+    public GameObject enemyEffects;
     public GameObject questionUI;
     public GameObject winUI;
     public GameObject loseUI;
@@ -46,6 +51,9 @@ public class GameManager : MonoBehaviour
     public List<GameObject> allEnemies;
 
     AudioManager audiomanager;
+
+    QuestionMenu questionMenu;
+    public TextAsset jsonFile;
     void Awake()
     {
         if (instance == null)
@@ -53,10 +61,121 @@ public class GameManager : MonoBehaviour
             instance = this;
         }
     }
+    void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        EnemySpawn();
+
+        //background change
+        if (LevelManager.battleBg == "CastleGates")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_CastleGates");
+        }
+        else if (LevelManager.battleBg == "Village")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_Village");
+            bg.gameObject.transform.localScale = new Vector3(1.2f, 1.2f);
+        }
+        else if (LevelManager.battleBg == "Forest")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_Forest");
+        }
+        
+    }
+
+    void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void EnemySpawn()
+    {
+        Transform pos1 = GameObject.Find("EnemyPos1").transform;
+        Transform pos2 = GameObject.Find("EnemyPos2").transform;
+        Transform pos3 = GameObject.Find("EnemyPos3").transform;
+
+        GameObject enemyToSpawn = null;
+        Transform posToSpawn = null;
+
+        if (LevelManager.enemyCount < 2) //1 max
+        {
+            //set type of enemy
+            if (LevelManager.enemyType[0] == "Weak")
+            {
+                enemyToSpawn = enemyWeakPrefab;
+            }
+            else if (LevelManager.enemyType[0] == "Strong")
+            {
+                enemyToSpawn = enemyStrongPrefab;
+            }
+            else if (LevelManager.enemyType[0] == "Boss")
+            {
+                enemyToSpawn = enemyBossPrefab;
+            }
+
+            //spawn enemy
+            GameObject enemy = Instantiate(enemyToSpawn, new Vector3(pos2.position.x, pos2.position.y, pos2.position.z), transform.rotation);
+            enemy.transform.parent = pos2;
+        }
+        else if (LevelManager.enemyCount < 4) //3 max
+        {
+            foreach (string e in LevelManager.enemyType)
+            {
+                //set position of enemy
+                if (pos1.transform.childCount == 0)
+                {
+                    posToSpawn = pos1.transform;
+                }
+                else if (pos3.transform.childCount == 0)
+                {
+                    posToSpawn = pos3.transform;
+                }
+                else if (pos2.transform.childCount == 0)
+                {
+                    posToSpawn = pos2.transform;
+                }
+
+                //set type of enemy
+                if (e == "Weak")
+                {
+                    enemyToSpawn = enemyWeakPrefab;
+                }
+                else if (e == "Strong")
+                {
+                    enemyToSpawn = enemyStrongPrefab;
+                }
+                else if (e == "Boss")
+                {
+                    enemyToSpawn = enemyBossPrefab;
+                }
+
+                //spawn enemy
+                GameObject enemy = Instantiate(enemyToSpawn, new Vector3(posToSpawn.position.x, posToSpawn.position.y, posToSpawn.position.z), transform.rotation);
+                enemy.transform.parent = posToSpawn;
+            }
+        }
+    }
+
+    //testing, to be cleaned later
+    public void backtomap()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+    public void retrylevel()
+    {
+        SceneManager.LoadScene(3);
+    }
 
     // Start is called before the first frame update
     void Start()
     {
+        Time.timeScale = 1f;
+
         allPlayers = new List<GameObject> { mcPlayer, knightPlayer, magePlayer, priestPlayer };
         allEnemies = new List<GameObject>(GameObject.FindGameObjectsWithTag("Enemy"));
         //Debug.Log("number of players: " + allPlayers.Count);
@@ -67,6 +186,10 @@ public class GameManager : MonoBehaviour
         UpdateBattleState(BattleState.MCTurn); //to be run when loading level
 
         audiomanager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
+        questionMenu = GameObject.FindGameObjectWithTag("QuestionManager").GetComponent<QuestionMenu>();
+        
+        //set which question the stage is starts with
+        questionMenu.setCurrentTurn(0);
     }
 
     // Update is called once per frame
@@ -162,14 +285,14 @@ public class GameManager : MonoBehaviour
     void KnightTurn()
     {
         currentPlayer = knightPlayer;
-        playerTurn.transform.position = new Vector2(knightPlayer.transform.position.x, knightPlayer.transform.position.y - 1f);
+        playerTurn.transform.position = new Vector2(knightPlayer.transform.position.x, knightPlayer.transform.position.y - 0.85f);
         AttackButton.interactable = true;
     }
 
     void MageTurn()
     {
         currentPlayer = magePlayer;
-        playerTurn.transform.position = new Vector2(magePlayer.transform.position.x, magePlayer.transform.position.y - 1f);
+        playerTurn.transform.position = new Vector2(magePlayer.transform.position.x, magePlayer.transform.position.y - 0.9f);
         AttackButton.interactable = true;
     }
 
@@ -189,7 +312,7 @@ public class GameManager : MonoBehaviour
             foreach (GameObject e in allEnemies)
             {
                 GameObject indicator = Instantiate(enemyIndicatorPrefab, new Vector3(e.transform.position.x, e.transform.position.y + 0.9f, e.transform.position.z), transform.rotation);
-                indicator.transform.parent = enemyIndicators.transform;
+                indicator.transform.parent = enemyEffects.transform;
             }
 
             choosingEnemy = true;
@@ -210,7 +333,7 @@ public class GameManager : MonoBehaviour
                 //play select sound
                 audiomanager.playSelect();
                 //destroy indicators
-                foreach (Transform i in enemyIndicators.transform)
+                foreach (Transform i in enemyEffects.transform)
                 {
                     Destroy(i.gameObject);
                 }
@@ -224,25 +347,32 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void selectAnswer()
+    public void selectAnswer(int chosenAns)
     {
         questionUI.SetActive(false);
-
-        TMP_Text answerText = EventSystem.current.currentSelectedGameObject.GetComponentInChildren<TMP_Text>();
-
-        if (answerText.text == "b") //correct answer
+        
+        //check chosen answer         
+        bool checkAns = questionMenu.selectAnswer(chosenAns);
+        if (checkAns) //correct answer
         {
-            //play correct ans SFX
+            //play correct ans and enemy damaged SFX
             audiomanager.playCorrectAns();
-            healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
             audiomanager.playEnemyDamaged();
+            healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
+            //set next question
+            questionMenu.nextQuestion();
         }
         else //wrong answer
         {
+            //miss effect animation
+            Transform enemyPos = allEnemies[enemyIndex].transform;
+            GameObject missEffect = Instantiate(enemyMissPrefab, new Vector3(enemyPos.position.x, enemyPos.position.y + 1f, enemyPos.position.z), transform.rotation);
+            missEffect.transform.parent = enemyEffects.transform;
+
             //play wrong ans and miss SFX 
             audiomanager.playWrongAns();
             audiomanager.playMiss();
-            //miss animation wip
+            
             UpdateBattleState(currentBattleState += 1);
         }
     }
@@ -312,16 +442,31 @@ public class GameManager : MonoBehaviour
     public void BattleRun()
     {
         Debug.Log("do you want to escape?");
-        //SceneManager.LoadScene(3);
+        backtomap();
     }
 
     void BattleWin()
     {
         winUI.SetActive(true);
+
+        if (LevelManager.stage == 1)
+        {
+            LevelManager.stage1Complete = true;
+        }
+        if (LevelManager.stage == 2)
+        {
+            LevelManager.stage2Complete = true;
+        }
+        if (LevelManager.stage == 3)
+        {
+            LevelManager.stage3Complete = true;
+        }
     }
 
     void BattleLose()
     {
         loseUI.SetActive(true);
     }
+
+
 }
