@@ -2593,6 +2593,8 @@ MonoBehaviour:
   enemyEffects: {fileID: 1501640640}
   questionUI: {fileID: 208602586}
   winUI: {fileID: 269682895}
+  accuracyScoreText: {fileID: 372340262}
+  timeScoreText: {fileID: 445802936}
   loseUI: {fileID: 1510567909}
   healthManagerObj: {fileID: 1425720338}
   allPlayers: []

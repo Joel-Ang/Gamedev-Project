@@ -29,6 +29,13 @@ public class LevelManager : MonoBehaviour
     public static bool stage2Complete = false;
     public static bool stage3Complete = false;
 
+    public static float stage1Accuracy = 0;
+    public static string stage1TotalTime = "-";
+    public static float stage2Accuracy = 0;
+    public static string stage2TotalTime = "-";
+    public static float stage3Accuracy = 0;
+    public static string stage3TotalTime = "-";
+
     string stageText;
 
     // Start is called before the first frame update
@@ -89,26 +96,42 @@ public class LevelManager : MonoBehaviour
         SceneManager.LoadScene(3);
     }
 
-    void SetLevelInfo(int stageNumber, string levelBg, string[] type, string qIndex)
+    void SetLevelInfo(int stageNumber, string levelBg, string[] type, string qIndex, string topic, float accuracy, string totaltime)
     {
+        //get level info
         stage = stageNumber;
         battleBg = levelBg;
         enemyCount = type.Length;
         enemyType = type;
         quesIndex = qIndex;
 
+        string accuracyDisplay = "";
+        if (accuracy == 0)
+        {
+            accuracyDisplay = "-";
+        }
+        else
+        {
+            accuracyDisplay = accuracy.ToString("F1") + "%";
+        }
+
+        //set level info
         stageText = "def <b>" + battleBg + "</b>():" +
                         "\n \n     StageInfo = {" +
                         "\n \n          NoEnem:  " + enemyCount +
                         "\n \n          EnemType:  " + enemyType[enemyType.Length-1] +
-                        "\n \n          QnIndex:  " + quesIndex +
-                        "\n \n     };";
+                        "\n \n          Topic:  " + topic +
+                        "\n \n     }" +
+                        "\n \n     BestScore = {" +
+                        "\n \n          Accuracy:  " + accuracyDisplay +
+                        "\n \n          TotalTimeTaken:  " + totaltime +
+                        "\n \n     }";
     }
 
     public void Stage1()
     {
         string[] enemType = { "Weak", "Weak", "Weak" };
-        SetLevelInfo(1, "CastleGates", enemType, "[0-5]");
+        SetLevelInfo(1, "CastleGates", enemType, "[0-5]", "Python Data Types & Operations", stage1Accuracy, stage1TotalTime);
         stage1Info.text = stageText;
 
         if (stage1Menu.activeInHierarchy == false)
@@ -124,7 +147,7 @@ public class LevelManager : MonoBehaviour
     public void Stage2()
     {
         string[] enemType = { "Weak", "Weak", "Strong" };
-        SetLevelInfo(2, "Village", enemType, "[0-15]");
+        SetLevelInfo(2, "Village", enemType, "[0-15]", "Python Modules", stage2Accuracy, stage2TotalTime);
         stage2Info.text = stageText;
 
         if (stage2Menu.activeInHierarchy == false)
@@ -140,7 +163,7 @@ public class LevelManager : MonoBehaviour
     public void Stage3()
     {
         string[] enemType = { "Strong", "Strong", "Boss" };
-        SetLevelInfo(3, "Forest", enemType, "[0-25]");
+        SetLevelInfo(3, "Forest", enemType, "[0-25]", "Python Functions", stage3Accuracy, stage3TotalTime);
         stage3Info.text = stageText;
 
         if (stage3Menu.activeInHierarchy == false)
