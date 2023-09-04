@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager instance;
+    public static GameManager instance { get; private set; }
 
     BattleState currentBattleState;
     public enum BattleState
@@ -39,21 +39,27 @@ public class GameManager : MonoBehaviour
     public GameObject enemyEffects;
     public GameObject questionUI;
     public GameObject winUI;
+    public TMP_Text accuracyScoreText;
+    public TMP_Text timeScoreText;
     public GameObject loseUI;
     public GameObject healthManagerObj;
     HealthManager healthManager;
 
+    public List<GameObject> allPlayers;
+    public List<GameObject> allEnemies;
+
     GameObject currentPlayer; //character of current turn
     int enemyIndex;
     bool choosingEnemy; //whether players are choosing enemy
-
-    public List<GameObject> allPlayers;
-    public List<GameObject> allEnemies;
+    float totalTurns = 0;
+    float correctTurns = 0;
+    float timeTaken = 0f;
 
     AudioManager audiomanager;
 
     QuestionMenu questionMenu;
     public TextAsset jsonFile;
+
     void Awake()
     {
         if (instance == null)
@@ -198,6 +204,11 @@ public class GameManager : MonoBehaviour
         if (choosingEnemy) //if players are choosing enemy
         {
             selectEnemy();
+        }
+        
+        if (questionUI.activeInHierarchy)
+        {
+            timeTaken += Time.deltaTime;
         }
     }
 
@@ -350,11 +361,14 @@ public class GameManager : MonoBehaviour
     public void selectAnswer(int chosenAns)
     {
         questionUI.SetActive(false);
-        
+
+        totalTurns++;
         //check chosen answer         
         bool checkAns = questionMenu.selectAnswer(chosenAns);
+
         if (checkAns) //correct answer
         {
+            correctTurns++;
             //play correct ans and enemy damaged SFX
             audiomanager.playCorrectAns();
             audiomanager.playEnemyDamaged();
@@ -452,14 +466,65 @@ public class GameManager : MonoBehaviour
         if (LevelManager.stage == 1)
         {
             LevelManager.stage1Complete = true;
+            calculateScore();
         }
-        if (LevelManager.stage == 2)
+        else if (LevelManager.stage == 2)
         {
             LevelManager.stage2Complete = true;
+            calculateScore();
         }
-        if (LevelManager.stage == 3)
+        else if (LevelManager.stage == 3)
         {
             LevelManager.stage3Complete = true;
+            calculateScore();
+        }
+    }
+
+    void calculateScore()
+    {
+        //score calculations
+        float accuracyScore = (correctTurns / totalTurns) * 100;
+
+        float minutes = timeTaken / 60;
+        float seconds = timeTaken % 60;
+        string timeScore;
+        if (minutes < 1)
+        {
+            timeScore = seconds.ToString("N0") + " seconds";
+        }
+        else
+        {
+            timeScore = minutes.ToString("N0") + " minutes  " + seconds.ToString("N0") + " seconds";
+        }
+
+        //display score in Win UI
+        accuracyScoreText.text = accuracyScore.ToString("F1") + "%";
+        timeScoreText.text = timeScore;
+
+        //update best score if accuracy increases
+        if (LevelManager.stage == 1)
+        {
+            if (accuracyScore > LevelManager.stage1Accuracy)
+            {
+                LevelManager.stage1Accuracy = accuracyScore;
+                LevelManager.stage1TotalTime = timeScore;
+            }
+        }
+        else if (LevelManager.stage == 2)
+        {
+            if (accuracyScore > LevelManager.stage2Accuracy)
+            {
+                LevelManager.stage2Accuracy = accuracyScore;
+                LevelManager.stage2TotalTime = timeScore;
+            }
+        }
+        else if (LevelManager.stage == 3)
+        {
+            if (accuracyScore > LevelManager.stage3Accuracy)
+            {
+                LevelManager.stage3Accuracy = accuracyScore;
+                LevelManager.stage3TotalTime = timeScore;
+            }
         }
     }
 
