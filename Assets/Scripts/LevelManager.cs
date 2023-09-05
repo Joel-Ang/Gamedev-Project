@@ -15,6 +15,7 @@ public class LevelManager : MonoBehaviour
     public TextMeshProUGUI stage2Info;
     public TextMeshProUGUI stage3Info;
 
+    public Button stage0Button;
     public Button stage1Button;
     public Button stage2Button;
     public Button stage3Button;
@@ -25,6 +26,7 @@ public class LevelManager : MonoBehaviour
     public static string battleBg; // = { "Castle", "Castle Gate", "Village", "Forest" };
     public static string quesIndex; // = { "[0-5]", "[6-10]", "[11-15]", "[16-20]", "[21-25]" };
 
+    public static bool tutorialComplete = false;
     public static bool stage1Complete = false;
     public static bool stage2Complete = false;
     public static bool stage3Complete = false;
@@ -41,47 +43,38 @@ public class LevelManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (stage3Complete)
+        if (tutorialComplete)
         {
-            stage1Button.transform.Find("ActiveState").gameObject.SetActive(false);
-            stage1Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage0Button.transform.Find("ActiveState").gameObject.SetActive(false);
+            stage0Button.transform.Find("DoneState").gameObject.SetActive(true);
             stage1Button.interactable = true;
 
-            stage2Button.transform.Find("ActiveState").gameObject.SetActive(false);
-            stage2Button.transform.Find("DoneState").gameObject.SetActive(true);
-            stage2Button.interactable = true;
-
-            stage3Button.transform.Find("ActiveState").gameObject.SetActive(false);
-            stage3Button.transform.Find("DoneState").gameObject.SetActive(true);
-            stage3Button.interactable = true;
-        }
-        else if (stage2Complete)
-        {
-            stage1Button.transform.Find("ActiveState").gameObject.SetActive(false);
-            stage1Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage1Button.transform.Find("ActiveState").gameObject.SetActive(true);
             stage1Button.interactable = true;
-
-            stage2Button.transform.Find("ActiveState").gameObject.SetActive(false);
-            stage2Button.transform.Find("DoneState").gameObject.SetActive(true);
-            stage2Button.interactable = true;
-
-            stage3Button.transform.Find("ActiveState").gameObject.SetActive(true);
-            stage3Button.transform.Find("DoneState").gameObject.SetActive(false);
-            stage3Button.interactable = true;
         }
-        else if (stage1Complete)
+        if (stage1Complete)
         {
             stage1Button.transform.Find("ActiveState").gameObject.SetActive(false);
             stage1Button.transform.Find("DoneState").gameObject.SetActive(true);
             stage1Button.interactable = true;
 
             stage2Button.transform.Find("ActiveState").gameObject.SetActive(true);
-            stage2Button.transform.Find("DoneState").gameObject.SetActive(false);
+            stage2Button.interactable = true;
+        }
+        if (stage2Complete)
+        {
+            stage2Button.transform.Find("ActiveState").gameObject.SetActive(false);
+            stage2Button.transform.Find("DoneState").gameObject.SetActive(true);
             stage2Button.interactable = true;
 
-            stage3Button.transform.Find("ActiveState").gameObject.SetActive(false);
-            stage3Button.transform.Find("DoneState").gameObject.SetActive(false);
-            stage3Button.interactable = false;
+            stage3Button.transform.Find("ActiveState").gameObject.SetActive(true);
+            stage3Button.interactable = true;
+        }
+        if (stage3Complete)
+        {
+            stage3Button.transform.Find("ActiveState").gameObject.SetActive(true);
+            stage3Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage3Button.interactable = true;
         }
     }
 
@@ -93,7 +86,14 @@ public class LevelManager : MonoBehaviour
 
     public void StartLevel()
     {
-        SceneManager.LoadScene(3);
+        if(stage == 0)
+        {
+            SceneManager.LoadScene(4);
+        }
+        else
+        {
+            SceneManager.LoadScene(3);
+        }
     }
 
     void SetLevelInfo(int stageNumber, string levelBg, string[] type, string qIndex, string topic, float accuracy, string totaltime)
@@ -116,16 +116,45 @@ public class LevelManager : MonoBehaviour
         }
 
         //set level info
-        stageText = "def <b>" + battleBg + "</b>():" +
-                        "\n \n     StageInfo = {" +
-                        "\n \n          NoEnem:  " + enemyCount +
-                        "\n \n          EnemType:  " + enemyType[enemyType.Length-1] +
-                        "\n \n          Topic:  " + topic +
-                        "\n \n     }" +
-                        "\n \n     BestScore = {" +
-                        "\n \n          Accuracy:  " + accuracyDisplay +
-                        "\n \n          TotalTimeTaken:  " + totaltime +
-                        "\n \n     }";
+        if (stageNumber == 0) //tutorial stage
+        {
+            stageText = "def <b>" + battleBg + "</b>():" +
+                            "\n \n     StageInfo = {" +
+                            "\n \n          NoEnem:  " + enemyCount +
+                            "\n \n          EnemType:  " + enemyType[enemyType.Length - 1] +
+                            "\n \n          Topic:  " + topic +
+                            "\n \n     }";
+        }
+        else
+        {
+            stageText = "def <b>" + battleBg + "</b>():" +
+                            "\n \n     StageInfo = {" +
+                            "\n \n          NoEnem:  " + enemyCount +
+                            "\n \n          EnemType:  " + enemyType[enemyType.Length - 1] +
+                            "\n \n          Topic:  " + topic +
+                            "\n \n     }" +
+                            "\n \n     BestScore = {" +
+                            "\n \n          Accuracy:  " + accuracyDisplay +
+                            "\n \n          TotalTimeTaken:  " + totaltime +
+                            "\n \n     }";
+        }
+    }
+
+    //map scene to be changed later
+    public void Stage0()
+    {
+        string[] enemType = { "Weak", "Weak" };
+        SetLevelInfo(0, "Castle", enemType, "[0-5]", "Python Basics", 0, "-");
+        stage1Info.text = stageText;
+
+        if (stage1Menu.activeInHierarchy == false)
+        {
+            stage1Menu.SetActive(true);
+            stage2Menu.SetActive(false);
+            stage3Menu.SetActive(false);
+        }
+        else
+            stage1Menu.SetActive(false);
     }
 
     public void Stage1()
