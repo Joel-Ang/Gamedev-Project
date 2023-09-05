@@ -5,10 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
+    AudioManager audioManager;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        audioManager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
     }
 
     // Update is called once per frame
@@ -19,6 +21,7 @@ public class SceneLoader : MonoBehaviour
 
     public void MapScene()
     {
+        audioManager.playMapBGM();
         SceneManager.LoadScene(2);
     }
 

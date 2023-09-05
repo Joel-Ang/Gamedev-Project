@@ -38,9 +38,12 @@ public class LevelManager : MonoBehaviour
 
     string stageText;
 
+    AudioManager audioManager;
     // Start is called before the first frame update
     void Start()
     {
+        audioManager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
+
         if (stage3Complete)
         {
             stage1Button.transform.Find("ActiveState").gameObject.SetActive(false);
@@ -88,11 +91,12 @@ public class LevelManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void StartLevel()
     {
+        audioManager.playBattleBGM();
         SceneManager.LoadScene(3);
     }
 
@@ -174,5 +178,9 @@ public class LevelManager : MonoBehaviour
         }
         else
             stage3Menu.SetActive(false);
+    }
+    public void playSelect()
+    {
+        audioManager.playSelect();
     }
 }

@@ -5,7 +5,11 @@ using UnityEngine;
 public class AudioManager : MonoBehaviour
 {
 
-    public AudioSource bgm;
+    public AudioSource audioSource;
+    public AudioClip titleBGM;
+    public AudioClip prologueBGM;
+    public AudioClip mapBGM;
+    public AudioClip battleBGM;
     public AudioClip selectSFX;
     public AudioClip correctAnsSFX;
     public AudioClip wrongAnsSFX;
@@ -21,7 +25,9 @@ public class AudioManager : MonoBehaviour
     
     void Start()
     {
-        playBGM();
+        GameObject[] audioManager = GameObject.FindGameObjectsWithTag("AudioManager");
+        DontDestroyOnLoad(this.gameObject);
+        playTitleBGM();
     }
 
     // Update is called once per frame
@@ -30,36 +36,66 @@ public class AudioManager : MonoBehaviour
         
     }
     public void playSelect(){
-        bgm.PlayOneShot(selectSFX,1f);
+        audioSource.PlayOneShot(selectSFX,1f);
     }
     public void playCorrectAns(){
-        bgm.PlayOneShot(correctAnsSFX,1f);
+        audioSource.PlayOneShot(correctAnsSFX,1f);
     }
     public void playWrongAns(){
-        bgm.PlayOneShot(wrongAnsSFX,1f);
+        audioSource.PlayOneShot(wrongAnsSFX,1f);
     }
     public void playPlayerDamaged(){
-        bgm.PlayOneShot(playerDamagedSFX,1f);
+        audioSource.PlayOneShot(playerDamagedSFX,1f);
     }
     public void playEnemyDamaged(){
-        bgm.PlayOneShot(enemyDamagedSFX,1f);
+        audioSource.PlayOneShot(enemyDamagedSFX,1f);
     }
     public void playWin(){
-        bgm.PlayOneShot(winSFX,1f);
+        audioSource.PlayOneShot(winSFX,1f);
     }
     public void playLose(){
-        bgm.PlayOneShot(loseSFX,1f);
+        audioSource.PlayOneShot(loseSFX,1f);
     }
     public void playMiss(){
-        bgm.PlayOneShot(missSFX,3f);
+        audioSource.PlayOneShot(missSFX,3f);
     }
     public void playEnemyDeath(){
-        bgm.PlayOneShot(enemyDeathSFX,1f);
+        audioSource.PlayOneShot(enemyDeathSFX,1f);
     }
     public void stopBGM(){
-        bgm.Stop();
+        audioSource.Stop();
     }
-    public void playBGM(){
-        bgm.Play();
+    public void playTitleBGM(){
+        stopBGM();
+        audioSource.clip = titleBGM;
+        audioSource.volume = 0.3f;
+        audioSource.pitch = 1.0f;
+        audioSource.loop = true;
+        audioSource.Play();
+    }
+    public void playPrologueBGM(){
+        stopBGM();
+        playSelect();
+        audioSource.clip = prologueBGM;
+        audioSource.volume = 0.3f;
+        audioSource.pitch = 0.45f;
+        audioSource.loop = false;
+        audioSource.Play();
+    }
+    public void playMapBGM(){
+        stopBGM();
+        audioSource.clip = mapBGM;
+        audioSource.volume = 0.3f;
+        audioSource.pitch = 1.0f;
+        audioSource.loop = true;
+        audioSource.Play();
+    }
+    public void playBattleBGM(){
+        stopBGM();
+        audioSource.clip = battleBGM;
+        audioSource.volume = 0.3f;
+        audioSource.pitch = 1.0f;
+        audioSource.loop = true;
+        audioSource.Play();
     }
 }

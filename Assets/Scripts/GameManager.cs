@@ -169,11 +169,13 @@ public class GameManager : MonoBehaviour
     //testing, to be cleaned later
     public void backtomap()
     {
+        audiomanager.playMapBGM();
         SceneManager.LoadScene(2);
     }
 
     public void retrylevel()
     {
+        audiomanager.playBattleBGM();
         SceneManager.LoadScene(3);
     }
 
@@ -342,7 +344,7 @@ public class GameManager : MonoBehaviour
             if (hit && allEnemies.Contains(hit.transform.gameObject)) //if click is on an existing enemy
             {
                 //play select sound
-                audiomanager.playSelect();
+                playSelect();
                 //destroy indicators
                 foreach (Transform i in enemyEffects.transform)
                 {
@@ -533,5 +535,8 @@ public class GameManager : MonoBehaviour
         loseUI.SetActive(true);
     }
 
-
+    public void playSelect()
+    {
+        audiomanager.playSelect();
+    }
 }
