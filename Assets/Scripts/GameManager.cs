@@ -50,7 +50,7 @@ public class GameManager : MonoBehaviour
 
     GameObject currentPlayer; //character of current turn
     int enemyIndex;
-    bool choosingEnemy; //whether players are choosing enemy
+    public bool choosingEnemy; //whether players are choosing enemy
     float totalTurns = 0;
     float correctTurns = 0;
     float timeTaken = 0f;
@@ -74,28 +74,35 @@ public class GameManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        BgChange();
         EnemySpawn();
-
-        //background change
-        if (LevelManager.battleBg == "CastleGates")
-        {
-            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_CastleGates");
-        }
-        else if (LevelManager.battleBg == "Village")
-        {
-            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_Village");
-            bg.gameObject.transform.localScale = new Vector3(1.2f, 1.2f);
-        }
-        else if (LevelManager.battleBg == "Forest")
-        {
-            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_Forest");
-        }
-        
     }
 
     void OnDisable()
     {
         SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void BgChange()
+    {
+        //background change
+        if (LevelManager.battleBg == "Castle")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/Castle");
+        }
+        else if(LevelManager.battleBg == "CastleGates")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/Bridge");
+        }
+        else if (LevelManager.battleBg == "Village")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/Village");
+            bg.gameObject.transform.localScale = new Vector3(0.7f, 0.7f);
+        }
+        else if (LevelManager.battleBg == "Forest")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/Forest");
+        }
     }
 
     void EnemySpawn()
@@ -463,7 +470,11 @@ public class GameManager : MonoBehaviour
     {
         winUI.SetActive(true);
 
-        if (LevelManager.stage == 1)
+        if (LevelManager.stage == 0)
+        {
+            LevelManager.tutorialComplete = true;
+        }
+        else if (LevelManager.stage == 1)
         {
             LevelManager.stage1Complete = true;
             calculateScore();
