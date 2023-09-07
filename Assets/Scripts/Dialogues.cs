@@ -19,11 +19,7 @@ public class Dialogues : MonoBehaviour
         King,
         MC,
         Guard,
-        Sorcerer,
-        Boss,
-        Senpai
-
-
+        Sorcerer
     }
 
     // Start is called before the first frame update

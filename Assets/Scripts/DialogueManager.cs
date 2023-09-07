@@ -69,22 +69,6 @@ public class DialogueManager : MonoBehaviour
                 nameText.text = currentSpeaker.ToString();
 
                 break;
-
-
-            case Dialogues.Character.Boss:
-                speakerImage.sprite = Resources.Load<Sprite>("Dialogue_Boss");
-
-                nameText.text = currentSpeaker.ToString();
-
-                break;
-
-            case Dialogues.Character.Senpai:
-                speakerImage.sprite = Resources.Load<Sprite>("Dialogue_Senpai");
-
-                nameText.text = currentSpeaker.ToString();
-
-                break;
-
         }
     }
 
