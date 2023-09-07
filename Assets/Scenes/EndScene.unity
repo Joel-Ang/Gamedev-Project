@@ -154,7 +154,10 @@ RectTransform:
   - {fileID: 556499577}
   - {fileID: 1651326216}
   - {fileID: 396108886}
+
   - {fileID: 492035767}
+
+
   m_Father: {fileID: 558475404}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -611,11 +614,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 444462710}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+
   m_LocalPosition: {x: -407.83777, y: -248.46179, z: 0}
   m_LocalScale: {x: 6.864275, y: 6.864275, z: 0}
   m_Children: []
   m_Father: {fileID: 492035767}
   m_RootOrder: 3
+
+  m_LocalPosition: {x: -6.28, y: 1.17, z: 0}
+  m_LocalScale: {x: 5.5, y: 5.5, z: 0}
+  m_Children: []
+  m_Father: {fileID: 558475404}
+  m_RootOrder: 4
+
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &444462712
 Animator:
@@ -915,6 +926,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 465191692}
   m_CullTransparentMesh: 0
+
 --- !u!1 &492035766
 GameObject:
   m_ObjectHideFlags: 0
@@ -954,6 +966,8 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+
+
 --- !u!1 &556499576
 GameObject:
   m_ObjectHideFlags: 0
@@ -1079,7 +1093,14 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 30941277}
+
   - {fileID: 1874318297}
+
+  - {fileID: 2064721654}
+  - {fileID: 723598024}
+  - {fileID: 1849561623}
+  - {fileID: 444462711}
+
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1140,6 +1161,7 @@ PlayableDirector:
     value: {fileID: 556499578}
   - key: {fileID: 8492660931567213984, guid: be523832abe45744992ae7f98810622c, type: 2}
     value: {fileID: 228372434}
+
   - key: {fileID: -5342602069062250449, guid: be523832abe45744992ae7f98810622c, type: 2}
     value: {fileID: 1874318296}
   - key: {fileID: 326581992978443426, guid: be523832abe45744992ae7f98810622c, type: 2}
@@ -1152,6 +1174,8 @@ PlayableDirector:
     value: {fileID: 726517088}
   - key: {fileID: -5031179019788156255, guid: be523832abe45744992ae7f98810622c, type: 2}
     value: {fileID: 726517090}
+
+
   m_ExposedReferences:
     m_References: []
 --- !u!212 &558475407
@@ -1401,7 +1425,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   txt: {fileID: 0}
+
   typingSpeed: 0.06
+
   allowSkip: 0
 --- !u!114 &589416852
 MonoBehaviour:
@@ -1433,6 +1459,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+
 --- !u!1 &632922434
 GameObject:
   m_ObjectHideFlags: 0
@@ -1515,6 +1542,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+
+
 --- !u!1 &723598023
 GameObject:
   m_ObjectHideFlags: 0
@@ -1541,11 +1570,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 723598023}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+
   m_LocalPosition: {x: -393.9969, y: -249.37286, z: 0}
   m_LocalScale: {x: 6.864275, y: 6.864275, z: 0}
   m_Children: []
   m_Father: {fileID: 492035767}
   m_RootOrder: 1
+
+
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &723598025
 Animator:
@@ -1617,6 +1649,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+
 --- !u!1 &726517088
 GameObject:
   m_ObjectHideFlags: 0
@@ -1719,6 +1752,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+
+
 --- !u!1 &741680820
 GameObject:
   m_ObjectHideFlags: 0
@@ -1950,6 +1985,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 753366897}
   m_CullTransparentMesh: 0
+
 --- !u!1 &789240421
 GameObject:
   m_ObjectHideFlags: 0
@@ -2032,6 +2068,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+
 --- !u!1 &815662320
 GameObject:
   m_ObjectHideFlags: 0
@@ -2486,7 +2523,9 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
+
   m_IsActive: 0
+
 --- !u!224 &1651326216
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2654,11 +2693,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1849561622}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+
   m_LocalPosition: {x: -406.81436, y: -251.76912, z: 0}
   m_LocalScale: {x: 6.864275, y: 6.864275, z: 0}
   m_Children: []
   m_Father: {fileID: 492035767}
   m_RootOrder: 2
+
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1849561624
 Animator:
@@ -2730,6 +2771,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+
 --- !u!1 &1874318296
 GameObject:
   m_ObjectHideFlags: 0
@@ -2763,6 +2805,8 @@ Transform:
   m_Father: {fileID: 558475404}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+
 --- !u!1 &1941093771
 GameObject:
   m_ObjectHideFlags: 0
@@ -2989,6 +3033,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue:
+
   - character: 4
     content: NO! I was so close to my dream! Why do you always get in my way?!
   - character: 1
@@ -3009,6 +3054,7 @@ MonoBehaviour:
     content: "YOU WILL NEVER UNDERSTAND! My goals were always beyond everyone\u2019s
       understanding! If I can\u2019t be with them here, at least.. I can die knowing
       they will be with me in the afterlife.."
+
   - character: 0
     content: By my beard! You have done it! Thank you for saving everyone in Codey
       Kingdom! We will never be able to repay you for what you did here.
@@ -3098,11 +3144,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2064721650}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+
   m_LocalPosition: {x: -404.08112, y: -249.42279, z: 0}
   m_LocalScale: {x: 6.864275, y: 6.864275, z: 0}
   m_Children: []
   m_Father: {fileID: 492035767}
   m_RootOrder: 0
+
+
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2122076131
 GameObject:

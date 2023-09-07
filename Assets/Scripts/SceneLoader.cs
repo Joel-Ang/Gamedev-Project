@@ -40,4 +40,14 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(6);
     }
+
+    public void EndScene()
+    {
+        SceneManager.LoadScene(4);
+    }
+
+    public void CongratsScene()
+    {
+        SceneManager.LoadScene(5);
+    }
 }

@@ -22,6 +22,8 @@ public class Dialogues : MonoBehaviour
         Sorcerer,
         Boss,
         Senpai
+
+
     }
 
     // Start is called before the first frame update

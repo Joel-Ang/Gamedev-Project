@@ -70,6 +70,7 @@ public class DialogueManager : MonoBehaviour
 
                 break;
 
+
             case Dialogues.Character.Boss:
                 speakerImage.sprite = Resources.Load<Sprite>("Dialogue_Boss");
 
@@ -83,6 +84,7 @@ public class DialogueManager : MonoBehaviour
                 nameText.text = currentSpeaker.ToString();
 
                 break;
+
         }
     }
 
