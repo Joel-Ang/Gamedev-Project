@@ -18,8 +18,7 @@ public class Dialogues : MonoBehaviour
     {
         King,
         MC,
-        Guard,
-        Sorcerer
+        Guard
     }
 
     // Start is called before the first frame update

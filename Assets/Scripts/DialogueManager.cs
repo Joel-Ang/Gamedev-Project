@@ -62,13 +62,6 @@ public class DialogueManager : MonoBehaviour
                 nameText.text = currentSpeaker.ToString();
 
                 break;
-
-            case Dialogues.Character.Sorcerer:
-                speakerImage.sprite = Resources.Load<Sprite>("Dialogue_Sorcerer");
-
-                nameText.text = currentSpeaker.ToString();
-
-                break;
         }
     }
 
