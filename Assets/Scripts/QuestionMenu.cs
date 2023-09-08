@@ -24,7 +24,7 @@ public class QuestionMenu : MonoBehaviour
         
     }
 
-    public bool selectAnswer(int chosenAns)
+    public bool checkAnswer(int chosenAns)
     {
         if (chosenAns == questionJsonText.questions[currentTurn].ans)
         {
