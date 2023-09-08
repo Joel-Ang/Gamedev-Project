@@ -1,1 +1,390 @@
-{"questions": [{"qn": "What is Python?", "qnNumber": 1, "choice": ["A snake species", "A high-level programming language", "A type of data structure", "An operating system"], "ans": "1"}, {"qn": "Which of the following is NOT a Python data type?", "qnNumber": 2, "choice": ["Integer", "Float", "Boolean", "Character"], "ans": "3"}, {"qn": "In Python, how do you denote a single-line comment?", "qnNumber": 3, "choice": ["/* Comment */", "// Comment", "# Comment", "<!-- Comment -->"], "ans": "2"}, {"qn": "Which keyword is used to define a function in Python?", "qnNumber": 4, "choice": ["method", "func", "define", "def"], "ans": "3"}, {"qn": "What is the output of `print(3 * 'Python')`?", "qnNumber": 5, "choice": ["9", "PythonPythonPython", "3Python", "Syntax Error"], "ans": "1"}, {"qn": "Which function is used to get the length of a list in Python?", "qnNumber": 6, "choice": ["len()", "size()", "length()", "count()"], "ans": "0"}, {"qn": "What is the result of `2 ** 3`?", "qnNumber": 7, "choice": ["6", "8", "9", "16"], "ans": "1"}, {"qn": "Which symbol is used for floor division in Python?", "qnNumber": 8, "choice": ["/", "//", "%", "*"], "ans": "1"}, {"qn": "Which of the following is an immutable data type in Python?", "qnNumber": 9, "choice": ["List", "Dictionary", "Set", "Tuple"], "ans": "3"}, {"qn": " What is the purpose of the `pass` statement in Python?", "qnNumber": 10, "choice": ["To terminate a loop", "To skip the current iteration of a loop", "To indicate an empty code block", "To raise an exception"], "ans": "2"}, {"qn": " Which module must be imported to work with regular expressions in Python?", "qnNumber": 11, "choice": ["regex", "re", "reg", "rx"], "ans": "1"}, {"qn": " What does the `append()` method do for lists in Python?", "qnNumber": 12, "choice": ["Removes the last element", "Inserts an element at the specified index", "Adds an element to the end", "Sorts the list in ascending order"], "ans": "2"}, {"qn": " Which operator is used to concatenate two or more lists in Python?", "qnNumber": 13, "choice": ["+", "&", "-", "*"], "ans": "0"}, {"qn": " What is the output of `print(type(42))`?", "qnNumber": 14, "choice": ["<class 'int'>", "int", "Type: int", "class(int)"], "ans": "0"}, {"qn": " In Python, how do you open a file?", "qnNumber": 15, "choice": ["file.open()", "open(file)", "open.file()", "read(file)"], "ans": "1"}, {"qn": " What is the purpose of the `__init__` method in a Python class?", "qnNumber": 16, "choice": ["It's a constructor method", "It's used to create class variables", "It's used to define private methods", "It's used for method overloading"], "ans": "0"}, {"qn": " What is the maximum number of values that can be held by a tuple?", "qnNumber": 17, "choice": ["1", "2", "Unlimited", "255"], "ans": "2"}, {"qn": " What will `print('Hello, {}'.format('Alice'))` display?", "qnNumber": 18, "choice": ["Hello, {}", "Hello, Alice", "Hello, {Alice}", "Syntax Error"], "ans": "1"}, {"qn": " What does the `import` statement do in Python?", "qnNumber": 19, "choice": ["Exports a module", "Imports all functions from a module", "Imports a specific function or module", "Imports built-in functions"], "ans": "1"}, {"qn": " Which built-in function is used to sort items in a list?", "qnNumber": 20, "choice": ["arrange()", "sort()", "sorted()", "order()"], "ans": "1"}, {"qn": " What is the output of `print('Python'[1:4])`?", "qnNumber": 21, "choice": ["P", "Pyt", "yth", "thon"], "ans": "2"}, {"qn": " Which of the following is used to handle exceptions in Python?", "qnNumber": 22, "choice": ["try-except", "catch-throw", "handle-raise", "if-else"], "ans": "0"}, {"qn": " What is the purpose of the `range()` function in loops?", "qnNumber": 23, "choice": ["Generates a list of numbers", "Defines the loop condition by setting the iterable sequence", "Specifies the loop increment", "Creates a sequence of numbers"], "ans": "1"}, {"qn": " Which of these are not a way to remove an item from a set in Python?", "qnNumber": 24, "choice": ["remove()", "discard()", "pop()", "delete()"], "ans": "3"}, {"qn": " Which statement is used to exit a loop prematurely in Python?", "qnNumber": 25, "choice": ["stop", "end", "exit", "break"], "ans": "3"}]}
+{
+    "questions": 
+	[
+        {
+            "qn": "What is Python?",
+            "qnNumber": 1,
+            "choice": [
+                "A snake species",
+                "A high-level programming language",
+                "A type of data structure",
+                "An operating system"
+            ],
+            "ans": "1"
+        },
+        {
+            "qn": "In Python, how do you denote a single-line comment?",
+            "qnNumber": 2,
+            "choice": [
+                "/* Comment */",
+                "// Comment",
+                "# Comment",
+                "<!-- Comment -->"
+            ],
+            "ans": "2"
+        },
+        {
+            "qn": "Which keyword is used to define a function in Python?",
+            "qnNumber": 3,
+            "choice": [
+                "method",
+                "func",
+                "define",
+                "def"
+            ],
+            "ans": "3"
+        },
+        {
+            "qn": "What is the output of `print(3 * 'Python')`?",
+            "qnNumber": 4,
+            "choice": [
+                "9",
+                "PythonPythonPython",
+                "3Python",
+                "Syntax Error"
+            ],
+            "ans": "1"
+        },
+        {
+            "qn": " What is the purpose of the `pass` statement in Python?",
+            "qnNumber": 5,
+            "choice": [
+                "To terminate a loop",
+                "To skip the current iteration of a loop",
+                "To indicate an empty code block",
+                "To raise an exception"
+            ],
+            "ans": "2"
+        },
+        {
+            "qn": " What is the output of `print(type(42))`?",
+            "qnNumber": 6,
+            "choice": [
+                "<class 'int'>",
+                "int",
+                "Type: int",
+                "class(int)"
+            ],
+            "ans": "0"
+        },
+        {
+            "qn": " What will `print('Hello, {}'.format('Alice'))` display?",
+            "qnNumber": 7,
+            "choice": [
+                "Hello, {}",
+                "Hello, Alice",
+                "Hello, {Alice}",
+                "Syntax Error"
+            ],
+            "ans": "1"
+        },
+        {
+            "qn": " What is the output of `print('Python'[1:4])`?",
+            "qnNumber": 8,
+            "choice": [
+                "P",
+                "Pyt",
+                "yth",
+                "thon"
+            ],
+            "ans": "2"
+        },
+        {
+            "qn": "Which of the following is NOT a Python data type?",
+            "qnNumber": 9,
+            "choice": [
+                "Integer",
+                "Float",
+                "Boolean",
+                "Character"
+            ],
+            "ans": "3"
+        },
+        {
+            "qn": "What is the result of `2 ** 3`?",
+            "qnNumber": 10,
+            "choice": [
+                "6",
+                "8",
+                "9",
+                "16"
+            ],
+            "ans": "1"
+        },
+        {
+            "qn": "Which symbol is used for floor division in Python?",
+            "qnNumber": 11,
+            "choice": [
+                "/",
+                "//",
+                "%",
+                "*"
+            ],
+            "ans": "1"
+        },
+        {
+            "qn": "Which of the following is an immutable data type in Python?",
+            "qnNumber": 12,
+            "choice": [
+                "List",
+                "Dictionary",
+                "Set",
+                "Tuple"
+            ],
+            "ans": "3"
+        },
+        {
+            "qn": " Which operator is used to concatenate two or more lists in Python?",
+            "qnNumber": 13,
+            "choice": [
+                "+",
+                "&",
+                "-",
+                "*"
+            ],
+            "ans": "0"
+        },
+        {
+            "qn": " What is the maximum number of values that can be held by a tuple?",
+            "qnNumber": 14,
+            "choice": [
+                "1",
+                "2",
+                "Unlimited",
+                "255"
+            ],
+            "ans": "2"
+        },
+        {
+            "qn": " What data type is x if x = '11'?",
+            "qnNumber": 15,
+            "choice": [
+                "Integer",
+                "Float",
+                "Boolean",
+                "Character"
+            ],
+            "ans": "1"
+        },
+        {
+            "qn": " Which module must be imported to work with regular expressions in Python?",
+            "qnNumber": 16,
+            "choice": [
+                "regex",
+                "re",
+                "reg",
+                "rx"
+            ],
+            "ans": "1"
+        },
+        {
+            "qn": " What does the `import` statement do in Python?",
+            "qnNumber": 17,
+            "choice": [
+                "Exports a module",
+                "Imports all functions from a module",
+                "Imports a specific function or module",
+                "Imports built-in functions"
+            ],
+            "ans": "1"
+        },
+		{
+            "qn": "Which of the following is not a built-in module in Python?",
+            "qnNumber": 18,
+            "choice": [
+                "math",
+                "random",
+                "time",
+                "BeautifulSoup"
+            ],
+            "ans": "3"
+        },
+		{
+            "qn": "Which of the following modules is used to work with dates and times in Python?",
+            "qnNumber": 19,
+            "choice": [
+                "datetime",
+                "time",
+                "calendar",
+                "all of the above"
+            ],
+            "ans": "3"
+        },
+		{
+            "qn": "Which of the following modules is used to generate random numbers in Python?",
+            "qnNumber": 20,
+            "choice": [
+                "random",
+                "math",
+                "time",
+                "os"
+            ],
+            "ans": "0"
+        },
+		{
+            "qn": "Which of the following modules is used to work with machine learning in Python?",
+            "qnNumber": 21,
+            "choice": [
+                "scikit-learn",
+                "TensorFlow",
+                "PyTorch",
+                "all of the above"
+            ],
+            "ans": "3"
+        },
+		{
+            "qn": "What is the correct syntax to import a module?",
+            "qnNumber": 22,
+            "choice": [
+                "export",
+                "use",
+                "import",
+                "`"
+            ],
+            "ans": "2"
+        },
+		{
+            "qn": "Which module does the randint() function come from?",
+            "qnNumber": 23,
+            "choice": [
+                "re",
+                "random",
+                "BeautifulSoup",
+                "os"
+            ],
+            "ans": "1"
+        },
+		{
+            "qn": "Which module does the getcwd() function come from?",
+            "qnNumber": 24,
+            "choice": [
+                "re",
+                "random",
+                "BeautifulSoup",
+                "os"
+            ],
+            "ans": "3"
+        },
+        {
+            "qn": "Which function is used to get the length of a list in Python?",
+            "qnNumber": 25,
+            "choice": [
+                "len()",
+                "size()",
+                "length()",
+                "count()"
+            ],
+            "ans": "0"
+        },
+        {
+            "qn": " What does the `append()` method do for lists in Python?",
+            "qnNumber": 26,
+            "choice": [
+                "Removes the last element",
+                "Inserts an element at the specified index",
+                "Adds an element to the end",
+                "Sorts the list in ascending order"
+            ],
+            "ans": "2"
+        },
+        {
+            "qn": " Which built-in function is used to sort items in a list?",
+            "qnNumber": 27,
+            "choice": [
+                "arrange()",
+                "sort()",
+                "sorted()",
+                "order()"
+            ],
+            "ans": "1"
+        },
+        {
+            "qn": " What is the purpose of the `range()` function in loops?",
+            "qnNumber": 28,
+            "choice": [
+                "Generates a list of numbers",
+                "Defines the loop condition by setting the iterable sequence",
+                "Specifies the loop increment",
+                "Creates a sequence of numbers"
+            ],
+            "ans": "1"
+        },
+        {
+            "qn": " Which of these are not a way to remove an item from a set in Python?",
+            "qnNumber": 29,
+            "choice": [
+                "remove()",
+                "discard()",
+                "pop()",
+                "delete()"
+            ],
+            "ans": "3"
+        },
+        {
+            "qn": " Which statement is used to exit a loop prematurely in Python?",
+            "qnNumber": 30,
+            "choice": [
+                "stop",
+                "end",
+                "exit",
+                "break"
+            ],
+            "ans": "3"
+        },
+		{
+            "qn": "Fill in the blank\n def power(a b):\n\treturn a _ b",
+            "qnNumber": 31,
+            "choice": [
+                "*",
+                "**",
+                "+",
+                "/"
+            ],
+            "ans": "1"
+        },
+		{
+            "qn": "Which sentence best describes a recursive function?",
+            "qnNumber": 32,
+            "choice": [
+                "A recursive function calls itself",
+                "A recursive function uses for/while loops",
+                "A recursive function is a math function",
+                "A recursive function are easy to understand"
+            ],
+            "ans": "0"
+        },
+		{
+            "qn": "What is the correct way to define a Python function?",
+            "qnNumber": 33,
+            "choice": [
+                "def function_name(parameters){}",
+                "function function_name(parameters):",
+                "void function_name(parameters){}",
+                "def function_name(parameters):"
+            ],
+            "ans": "3"
+        },
+		{
+            "qn": "What is the purpose of `return` statement in a function?",
+            "qnNumber": 34,
+            "choice": [
+                "To return to the start of the function",
+                "To print the results of the function",
+                "To end the execution of the function call and `returns` the result",
+                "To indicate an empty code block"
+            ],
+            "ans": "2"
+        },
+		{
+            "qn": "What will be printed out when using `print('Hello World')` function?",
+            "qnNumber": 35,
+            "choice": [
+                "print('Hello World')",
+                "Hello World",
+                "World Hello",
+                "Hello"
+            ],
+            "ans": "1"
+        }
+	]
+}
