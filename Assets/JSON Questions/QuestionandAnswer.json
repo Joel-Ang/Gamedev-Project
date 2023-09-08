@@ -239,7 +239,7 @@
                 "export",
                 "use",
                 "import",
-                "`"
+                "from"
             ],
             "ans": "2"
         },
@@ -332,7 +332,7 @@
             "ans": "3"
         },
 		{
-            "qn": "Fill in the blank\n def power(a b):\n\treturn a _ b",
+            "qn": "Fill in the blank\n def power(a, b):\n\treturn a _ b",
             "qnNumber": 31,
             "choice": [
                 "*",
@@ -357,9 +357,9 @@
             "qn": "What is the correct way to define a Python function?",
             "qnNumber": 33,
             "choice": [
-                "def function_name(parameters){}",
+                "def function_name(parameters){ }",
                 "function function_name(parameters):",
-                "void function_name(parameters){}",
+                "void function_name(parameters){ }",
                 "def function_name(parameters):"
             ],
             "ans": "3"

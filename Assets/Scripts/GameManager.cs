@@ -202,7 +202,7 @@ public class GameManager : MonoBehaviour
         questionMenu = GameObject.FindGameObjectWithTag("QuestionManager").GetComponent<QuestionMenu>();
         
         //set which question the stage is starts with
-        questionMenu.setCurrentTurn(0);
+        questionMenu.setCurrentTurn(LevelManager.quesIndex);
     }
 
     // Update is called once per frame
