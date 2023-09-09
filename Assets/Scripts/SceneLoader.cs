@@ -16,6 +16,10 @@ public class SceneLoader : MonoBehaviour
     {
         
     }
+    public void TitleScene()
+    {
+        SceneManager.LoadScene(0);
+    }
 
     public void MapScene()
     {
@@ -30,5 +34,10 @@ public class SceneLoader : MonoBehaviour
     public void CongratsScene()
     {
         SceneManager.LoadScene(6);
+    }
+
+    public void EndScene()
+    {
+        SceneManager.LoadScene(5);
     }
 }

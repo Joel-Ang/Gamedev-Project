@@ -44,6 +44,8 @@ public class GameManager : MonoBehaviour
     public GameObject loseUI;
     public GameObject healthManagerObj;
     HealthManager healthManager;
+    public GameObject continueBtn;
+    public GameObject EndScene;
 
     public List<GameObject> allPlayers;
     public List<GameObject> allEnemies;
@@ -179,6 +181,10 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(2);
     }
 
+    public void gotoEndScene()
+    {
+        SceneManager.LoadScene(5);
+    }
     public void retrylevel()
     {
         SceneManager.LoadScene(3);
@@ -488,6 +494,8 @@ public class GameManager : MonoBehaviour
         {
             LevelManager.stage3Complete = true;
             calculateScore();
+            continueBtn.SetActive(false);
+            EndScene.SetActive(true);
         }
     }
 
