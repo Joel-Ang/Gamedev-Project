@@ -97,6 +97,7 @@ public class AudioManager : MonoBehaviour
     }
     public void stopBGM()
     {
+        sfxAudioSource.Stop();
         bgmAudioSource.Stop();
     }
     public void playTitleBGM()
@@ -154,7 +155,7 @@ public class AudioManager : MonoBehaviour
         {
             playMapBGM();
         }
-        if (sceneName == "Battle")
+        if (sceneName == "Battle" || sceneName == "Tutorial")
         {
             playBattleBGM();
         }
