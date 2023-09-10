@@ -9,8 +9,9 @@ Loh Wan Qi Trixy
 Joel Kai Yu Ang
 -------------------------------------------
 This game was done by students in UOL's CS Degree for the game development module using the Unity Game engine.
-
+-------------------------------------------
 Plot:
+-------------------------------------------
 You are a game developer working late at night when you are pulled into the game world you are bugfixing. Tasked
 with helping the NPCs of this kingdom, will you be able to debug and resolve what is plaguing this world?
 -------------------------------------------
