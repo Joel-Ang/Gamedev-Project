@@ -19,7 +19,7 @@ public class LevelManager : MonoBehaviour
     public static int enemyCount; // = { 3, 4, 5, 6, 7, 8 };
     public static string[] enemyType; // = { "Bugs", "Boss" };
     public static string battleBg; // = { "Castle", "Castle Gate", "Village", "Forest" };
-    public static string quesIndex; // = { "[0-5]", "[6-10]", "[11-15]", "[16-20]", "[21-25]" };
+    public static int quesIndex; // = { "[0-5]", "[6-10]", "[11-15]", "[16-20]", "[21-25]" };
 
     public static bool tutorialComplete = false;
     public static bool stage1Complete = false;
@@ -79,7 +79,7 @@ public class LevelManager : MonoBehaviour
         
     }
 
-    void SetLevelInfo(int stageNumber, string levelBg, string[] type, string qIndex, string topic, float accuracy, string totaltime)
+    void SetLevelInfo(int stageNumber, string levelBg, string[] type, int qIndex, string topic, float accuracy, string totaltime)
     {
         //get level info
         stage = stageNumber;
@@ -141,7 +141,7 @@ public class LevelManager : MonoBehaviour
     public void Stage0()
     {
         string[] enemType = { "Weak", "Weak" };
-        SetLevelInfo(0, "Castle", enemType, "[0-5]", "Python Basics", 0, "-");
+        SetLevelInfo(0, "Castle", enemType, 0, "Python Basics", 0, "-");
 
         stageInfo.text = stageText;
         stageMenu.SetActive(true);
@@ -150,7 +150,7 @@ public class LevelManager : MonoBehaviour
     public void Stage1()
     {
         string[] enemType = { "Weak", "Weak", "Weak" };
-        SetLevelInfo(1, "CastleGates", enemType, "[0-5]", "Python Data Types & Operations", stage1Accuracy, stage1TotalTime);
+        SetLevelInfo(1, "CastleGates", enemType, 8, "Python Data Types & Operations", stage1Accuracy, stage1TotalTime);
 
         stageInfo.text = stageText;
         stageMenu.SetActive(true);
@@ -159,7 +159,7 @@ public class LevelManager : MonoBehaviour
     public void Stage2()
     {
         string[] enemType = { "Weak", "Weak", "Strong" };
-        SetLevelInfo(2, "Village", enemType, "[0-15]", "Python Modules", stage2Accuracy, stage2TotalTime);
+        SetLevelInfo(2, "Village", enemType, 15, "Python Modules", stage2Accuracy, stage2TotalTime);
 
         stageInfo.text = stageText;
         stageMenu.SetActive(true);
@@ -168,7 +168,7 @@ public class LevelManager : MonoBehaviour
     public void Stage3()
     {
         string[] enemType = { "Strong", "Strong", "Boss" };
-        SetLevelInfo(3, "Forest", enemType, "[0-25]", "Python Functions", stage3Accuracy, stage3TotalTime);
+        SetLevelInfo(3, "Forest", enemType, 24, "Python Functions", stage3Accuracy, stage3TotalTime);
 
         stageInfo.text = stageText;
         stageMenu.SetActive(true);

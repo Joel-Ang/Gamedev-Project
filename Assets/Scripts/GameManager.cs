@@ -208,7 +208,7 @@ public class GameManager : MonoBehaviour
         questionMenu = GameObject.FindGameObjectWithTag("QuestionManager").GetComponent<QuestionMenu>();
         
         //set which question the stage is starts with
-        questionMenu.setCurrentTurn(0);
+        questionMenu.setCurrentTurn(LevelManager.quesIndex);
     }
 
     // Update is called once per frame
@@ -376,10 +376,8 @@ public class GameManager : MonoBehaviour
         questionUI.SetActive(false);
 
         totalTurns++;
-        //check chosen answer         
-        bool checkAns = questionMenu.selectAnswer(chosenAns);
 
-        if (checkAns) //correct answer
+        if (questionMenu.checkAnswer(chosenAns)) //correct answer
         {
             correctTurns++;
             //play correct ans and enemy damaged SFX
