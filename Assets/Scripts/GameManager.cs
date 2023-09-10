@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager instance;
+    public static GameManager instance { get; private set; }
 
     BattleState currentBattleState;
     public enum BattleState
@@ -39,21 +39,25 @@ public class GameManager : MonoBehaviour
     public GameObject enemyEffects;
     public GameObject questionUI;
     public GameObject winUI;
+    public TMP_Text accuracyScoreText;
+    public TMP_Text timeScoreText;
     public GameObject loseUI;
     public GameObject healthManagerObj;
     HealthManager healthManager;
 
-    GameObject currentPlayer; //character of current turn
-    int enemyIndex;
-    bool choosingEnemy; //whether players are choosing enemy
-
     public List<GameObject> allPlayers;
     public List<GameObject> allEnemies;
 
-    AudioManager audiomanager;
+    GameObject currentPlayer; //character of current turn
+    int enemyIndex;
+    public bool choosingEnemy; //whether players are choosing enemy
+    float totalTurns = 0;
+    float correctTurns = 0;
+    float timeTaken = 0f;
 
     QuestionMenu questionMenu;
     public TextAsset jsonFile;
+
     void Awake()
     {
         if (instance == null)
@@ -68,28 +72,35 @@ public class GameManager : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        BgChange();
         EnemySpawn();
-
-        //background change
-        if (LevelManager.battleBg == "CastleGates")
-        {
-            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_CastleGates");
-        }
-        else if (LevelManager.battleBg == "Village")
-        {
-            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_Village");
-            bg.gameObject.transform.localScale = new Vector3(1.2f, 1.2f);
-        }
-        else if (LevelManager.battleBg == "Forest")
-        {
-            bg.sprite = Resources.Load<Sprite>("Backgrounds/BattleBg_Forest");
-        }
-        
     }
 
     void OnDisable()
     {
         SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void BgChange()
+    {
+        //background change
+        if (LevelManager.battleBg == "Castle")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/Castle");
+        }
+        else if(LevelManager.battleBg == "CastleGates")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/Bridge");
+        }
+        else if (LevelManager.battleBg == "Village")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/Village");
+            bg.gameObject.transform.localScale = new Vector3(0.7f, 0.7f);
+        }
+        else if (LevelManager.battleBg == "Forest")
+        {
+            bg.sprite = Resources.Load<Sprite>("Backgrounds/Forest");
+        }
     }
 
     void EnemySpawn()
@@ -185,7 +196,6 @@ public class GameManager : MonoBehaviour
 
         UpdateBattleState(BattleState.MCTurn); //to be run when loading level
 
-        audiomanager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
         questionMenu = GameObject.FindGameObjectWithTag("QuestionManager").GetComponent<QuestionMenu>();
         
         //set which question the stage is starts with
@@ -198,6 +208,11 @@ public class GameManager : MonoBehaviour
         if (choosingEnemy) //if players are choosing enemy
         {
             selectEnemy();
+        }
+        
+        if (questionUI.activeInHierarchy)
+        {
+            timeTaken += Time.deltaTime;
         }
     }
 
@@ -331,7 +346,7 @@ public class GameManager : MonoBehaviour
             if (hit && allEnemies.Contains(hit.transform.gameObject)) //if click is on an existing enemy
             {
                 //play select sound
-                audiomanager.playSelect();
+                AudioManager.instance.playSelect();
                 //destroy indicators
                 foreach (Transform i in enemyEffects.transform)
                 {
@@ -350,14 +365,17 @@ public class GameManager : MonoBehaviour
     public void selectAnswer(int chosenAns)
     {
         questionUI.SetActive(false);
-        
+
+        totalTurns++;
         //check chosen answer         
         bool checkAns = questionMenu.selectAnswer(chosenAns);
+
         if (checkAns) //correct answer
         {
+            correctTurns++;
             //play correct ans and enemy damaged SFX
-            audiomanager.playCorrectAns();
-            audiomanager.playEnemyDamaged();
+            AudioManager.instance.playCorrectAns();
+            AudioManager.instance.playEnemyDamaged();
             healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
             //set next question
             questionMenu.nextQuestion();
@@ -370,8 +388,8 @@ public class GameManager : MonoBehaviour
             missEffect.transform.parent = enemyEffects.transform;
 
             //play wrong ans and miss SFX 
-            audiomanager.playWrongAns();
-            audiomanager.playMiss();
+            AudioManager.instance.playWrongAns();
+            AudioManager.instance.playMiss();
             
             UpdateBattleState(currentBattleState += 1);
         }
@@ -392,7 +410,7 @@ public class GameManager : MonoBehaviour
         currentPlayer = allPlayers[targetPlayerIndex];
 
         //play player damaged SFX
-        audiomanager.playPlayerDamaged();
+        AudioManager.instance.playPlayerDamaged();
 
         //deal damage to respective player
         if (currentPlayer == mcPlayer)
@@ -424,16 +442,16 @@ public class GameManager : MonoBehaviour
         if (allPlayers.Count == 0)
         {
             //play losing SFX and pause BGM
-            audiomanager.stopBGM();
-            audiomanager.playLose();
+            AudioManager.instance.stopBGM();
+            AudioManager.instance.playLose();
             UpdateBattleState(BattleState.Lose);
             Time.timeScale = 0f;
         }
         else if (allEnemies.Count == 0)
         {
             //play winning SFX and pause BGM
-            audiomanager.stopBGM();
-            audiomanager.playWin();
+            AudioManager.instance.stopBGM();
+            AudioManager.instance.playWin();
             UpdateBattleState(BattleState.Win);
             Time.timeScale = 0f;
         }
@@ -449,17 +467,72 @@ public class GameManager : MonoBehaviour
     {
         winUI.SetActive(true);
 
-        if (LevelManager.stage == 1)
+        if (LevelManager.stage == 0)
+        {
+            LevelManager.tutorialComplete = true;
+        }
+        else if (LevelManager.stage == 1)
         {
             LevelManager.stage1Complete = true;
+            calculateScore();
         }
-        if (LevelManager.stage == 2)
+        else if (LevelManager.stage == 2)
         {
             LevelManager.stage2Complete = true;
+            calculateScore();
         }
-        if (LevelManager.stage == 3)
+        else if (LevelManager.stage == 3)
         {
             LevelManager.stage3Complete = true;
+            calculateScore();
+        }
+    }
+
+    void calculateScore()
+    {
+        //score calculations
+        float accuracyScore = (correctTurns / totalTurns) * 100;
+
+        float minutes = timeTaken / 60;
+        float seconds = timeTaken % 60;
+        string timeScore;
+        if (minutes < 1)
+        {
+            timeScore = seconds.ToString("N0") + " seconds";
+        }
+        else
+        {
+            timeScore = minutes.ToString("N0") + " minutes  " + seconds.ToString("N0") + " seconds";
+        }
+
+        //display score in Win UI
+        accuracyScoreText.text = accuracyScore.ToString("F1") + "%";
+        timeScoreText.text = timeScore;
+
+        //update best score if accuracy increases
+        if (LevelManager.stage == 1)
+        {
+            if (accuracyScore > LevelManager.stage1Accuracy)
+            {
+                LevelManager.stage1Accuracy = accuracyScore;
+                LevelManager.stage1TotalTime = timeScore;
+            }
+        }
+        else if (LevelManager.stage == 2)
+        {
+            if (accuracyScore > LevelManager.stage2Accuracy)
+            {
+                LevelManager.stage2Accuracy = accuracyScore;
+                LevelManager.stage2TotalTime = timeScore;
+            }
+        }
+        else if (LevelManager.stage == 3)
+        {
+            if (accuracyScore > LevelManager.stage3Accuracy)
+            {
+                LevelManager.stage3Accuracy = accuracyScore;
+                LevelManager.stage3TotalTime = timeScore;
+            }
         }
     }
 
