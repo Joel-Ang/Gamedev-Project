@@ -24,7 +24,7 @@ public class QuestionMenu : MonoBehaviour
         
     }
 
-    public bool selectAnswer(int chosenAns)
+    public bool checkAnswer(int chosenAns)
     {
         if (chosenAns == questionJsonText.questions[currentTurn].ans)
         {
@@ -52,9 +52,9 @@ public class QuestionMenu : MonoBehaviour
 
     public void nextQuestion()
     {
-        //increment currentTurn by one and if it is 25 set it to 0 
+        //increment currentTurn by one and if it is 35 set it to 0 
         currentTurn++;
-        if (currentTurn == 25)
+        if (currentTurn == 35)
         {
             currentTurn = 0;
         }
