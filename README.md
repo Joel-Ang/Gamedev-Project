@@ -18,7 +18,7 @@ This game was done by students in UOL's CS Degree for the game development modul
 You are a game developer working late at night when you are pulled into the game world you are bugfixing. Tasked
 with helping the NPCs of this kingdom, will you be able to debug and resolve what is plaguing this world?
 
-Asset List: (Note to Marker : List of assets can be found in the production document as well.)
+<b>Asset List: <i>(Note to Marker : List of assets can be found in the production document as well.)</i></b>
 - <a href="https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator/blob/master/README.md">LPC Sprite Sheet Character Generator</a>
 - <a href="https://opengameart.org/content/golden-ui-bigger-than-ever-edition">Golden UI : Bigger Than Ever Edition</a>
 - <a href="https://opengameart.org/content/10-basic-message-boxes">10 Basic Message Boxes</a>
