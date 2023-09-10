@@ -378,7 +378,7 @@ public class GameManager : MonoBehaviour
 
         totalTurns++;
         //check chosen answer         
-        bool checkAns = questionMenu.selectAnswer(chosenAns);
+        bool checkAns = questionMenu.checkAnswer(chosenAns);
 
         if (checkAns) //correct answer
         {
