@@ -1,0 +1,6908 @@
+fileFormatVersion: 2
+guid: 0f17545870005f74b81c93bba8d07079
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -325699082295378760
+    second: Code_Kingdom_Sprite_Sheet_v1.5_0
+  - first:
+      213: -3137428582240201341
+    second: Code_Kingdom_Sprite_Sheet_v1.5_1
+  - first:
+      213: -5258515633966603197
+    second: Code_Kingdom_Sprite_Sheet_v1.5_2
+  - first:
+      213: -2678389749423656954
+    second: Code_Kingdom_Sprite_Sheet_v1.5_3
+  - first:
+      213: -2732278823443018882
+    second: Code_Kingdom_Sprite_Sheet_v1.5_4
+  - first:
+      213: 6383020288226266305
+    second: Code_Kingdom_Sprite_Sheet_v1.5_5
+  - first:
+      213: -6389116813534062017
+    second: Code_Kingdom_Sprite_Sheet_v1.5_6
+  - first:
+      213: -6997789591457808821
+    second: Code_Kingdom_Sprite_Sheet_v1.5_7
+  - first:
+      213: 7848078511618340177
+    second: Code_Kingdom_Sprite_Sheet_v1.5_8
+  - first:
+      213: 5877830265819441331
+    second: Code_Kingdom_Sprite_Sheet_v1.5_9
+  - first:
+      213: 503318954438410955
+    second: Code_Kingdom_Sprite_Sheet_v1.5_10
+  - first:
+      213: -8695364267682665041
+    second: Code_Kingdom_Sprite_Sheet_v1.5_11
+  - first:
+      213: -2511363160562164906
+    second: Code_Kingdom_Sprite_Sheet_v1.5_12
+  - first:
+      213: 354895665844912612
+    second: Code_Kingdom_Sprite_Sheet_v1.5_13
+  - first:
+      213: 7825448781797623281
+    second: Code_Kingdom_Sprite_Sheet_v1.5_14
+  - first:
+      213: -1387877854659874956
+    second: Code_Kingdom_Sprite_Sheet_v1.5_15
+  - first:
+      213: -1769037062058734760
+    second: Code_Kingdom_Sprite_Sheet_v1.5_16
+  - first:
+      213: -6104932940081926983
+    second: Code_Kingdom_Sprite_Sheet_v1.5_17
+  - first:
+      213: -5009938135049940962
+    second: Code_Kingdom_Sprite_Sheet_v1.5_18
+  - first:
+      213: 5825310600270180745
+    second: Code_Kingdom_Sprite_Sheet_v1.5_19
+  - first:
+      213: -3531221483024992937
+    second: Code_Kingdom_Sprite_Sheet_v1.5_20
+  - first:
+      213: -4755735930334578849
+    second: Code_Kingdom_Sprite_Sheet_v1.5_21
+  - first:
+      213: 5542443400047847435
+    second: Code_Kingdom_Sprite_Sheet_v1.5_22
+  - first:
+      213: -8886644790588153316
+    second: Code_Kingdom_Sprite_Sheet_v1.5_23
+  - first:
+      213: 9117877959214807543
+    second: Code_Kingdom_Sprite_Sheet_v1.5_24
+  - first:
+      213: -6864158830471073008
+    second: Code_Kingdom_Sprite_Sheet_v1.5_25
+  - first:
+      213: 4175644142221371224
+    second: Code_Kingdom_Sprite_Sheet_v1.5_26
+  - first:
+      213: 2516580977346414965
+    second: Code_Kingdom_Sprite_Sheet_v1.5_27
+  - first:
+      213: 6046441484174196670
+    second: Code_Kingdom_Sprite_Sheet_v1.5_28
+  - first:
+      213: -2818396610543264345
+    second: Code_Kingdom_Sprite_Sheet_v1.5_29
+  - first:
+      213: 5266844396915820272
+    second: Code_Kingdom_Sprite_Sheet_v1.5_30
+  - first:
+      213: -4515193228747372161
+    second: Code_Kingdom_Sprite_Sheet_v1.5_31
+  - first:
+      213: 6400656708816600421
+    second: Code_Kingdom_Sprite_Sheet_v1.5_32
+  - first:
+      213: -8375122679264070945
+    second: Code_Kingdom_Sprite_Sheet_v1.5_33
+  - first:
+      213: 5154504106061510690
+    second: Code_Kingdom_Sprite_Sheet_v1.5_34
+  - first:
+      213: 4125127475606617672
+    second: Code_Kingdom_Sprite_Sheet_v1.5_35
+  - first:
+      213: 668755947098738429
+    second: Code_Kingdom_Sprite_Sheet_v1.5_36
+  - first:
+      213: -127064691973564644
+    second: Code_Kingdom_Sprite_Sheet_v1.5_37
+  - first:
+      213: -2450286338531239144
+    second: Code_Kingdom_Sprite_Sheet_v1.5_38
+  - first:
+      213: -5950403599106326209
+    second: Code_Kingdom_Sprite_Sheet_v1.5_39
+  - first:
+      213: 6356956853086054833
+    second: Code_Kingdom_Sprite_Sheet_v1.5_40
+  - first:
+      213: -2255455950820209046
+    second: Code_Kingdom_Sprite_Sheet_v1.5_41
+  - first:
+      213: 7787909742950887692
+    second: Code_Kingdom_Sprite_Sheet_v1.5_42
+  - first:
+      213: 3016390689054430844
+    second: Code_Kingdom_Sprite_Sheet_v1.5_43
+  - first:
+      213: -8646848592952689454
+    second: Code_Kingdom_Sprite_Sheet_v1.5_44
+  - first:
+      213: 1674382484788997640
+    second: Code_Kingdom_Sprite_Sheet_v1.5_45
+  - first:
+      213: -7268189374665904976
+    second: Code_Kingdom_Sprite_Sheet_v1.5_46
+  - first:
+      213: -4499428106292290116
+    second: Code_Kingdom_Sprite_Sheet_v1.5_47
+  - first:
+      213: -7934676353637434098
+    second: Code_Kingdom_Sprite_Sheet_v1.5_48
+  - first:
+      213: -2559338997565403836
+    second: Code_Kingdom_Sprite_Sheet_v1.5_49
+  - first:
+      213: -3005052792642055765
+    second: Code_Kingdom_Sprite_Sheet_v1.5_50
+  - first:
+      213: -2037484055901473559
+    second: Code_Kingdom_Sprite_Sheet_v1.5_51
+  - first:
+      213: -1979880264322583840
+    second: Code_Kingdom_Sprite_Sheet_v1.5_52
+  - first:
+      213: 585471899344764878
+    second: Code_Kingdom_Sprite_Sheet_v1.5_53
+  - first:
+      213: 7167785614907713931
+    second: Code_Kingdom_Sprite_Sheet_v1.5_54
+  - first:
+      213: 465726759445845912
+    second: Code_Kingdom_Sprite_Sheet_v1.5_55
+  - first:
+      213: 7095413656758926859
+    second: Code_Kingdom_Sprite_Sheet_v1.5_56
+  - first:
+      213: 3632070500900909525
+    second: Code_Kingdom_Sprite_Sheet_v1.5_57
+  - first:
+      213: -5418567207365250710
+    second: Code_Kingdom_Sprite_Sheet_v1.5_58
+  - first:
+      213: 5875564881076688119
+    second: Code_Kingdom_Sprite_Sheet_v1.5_59
+  - first:
+      213: 3347780905659109208
+    second: Code_Kingdom_Sprite_Sheet_v1.5_60
+  - first:
+      213: -8424906518577499873
+    second: Code_Kingdom_Sprite_Sheet_v1.5_61
+  - first:
+      213: -3294799751916525185
+    second: Code_Kingdom_Sprite_Sheet_v1.5_62
+  - first:
+      213: -2440950036309755028
+    second: Code_Kingdom_Sprite_Sheet_v1.5_63
+  - first:
+      213: -764995461015980115
+    second: Code_Kingdom_Sprite_Sheet_v1.5_64
+  - first:
+      213: 2237677641097858435
+    second: Code_Kingdom_Sprite_Sheet_v1.5_65
+  - first:
+      213: 8884758181943517489
+    second: Code_Kingdom_Sprite_Sheet_v1.5_66
+  - first:
+      213: 8468093342530647108
+    second: Code_Kingdom_Sprite_Sheet_v1.5_67
+  - first:
+      213: -9097983940110170949
+    second: Code_Kingdom_Sprite_Sheet_v1.5_68
+  - first:
+      213: -1071126669563594303
+    second: Code_Kingdom_Sprite_Sheet_v1.5_69
+  - first:
+      213: -3352565379188180460
+    second: Code_Kingdom_Sprite_Sheet_v1.5_70
+  - first:
+      213: -3670988044446366614
+    second: Code_Kingdom_Sprite_Sheet_v1.5_71
+  - first:
+      213: 3272888307819492989
+    second: Code_Kingdom_Sprite_Sheet_v1.5_72
+  - first:
+      213: 4770798732224117455
+    second: Code_Kingdom_Sprite_Sheet_v1.5_73
+  - first:
+      213: -8487879106254384060
+    second: Code_Kingdom_Sprite_Sheet_v1.5_74
+  - first:
+      213: -5920436157702561112
+    second: Code_Kingdom_Sprite_Sheet_v1.5_75
+  - first:
+      213: -8187688766351170417
+    second: Code_Kingdom_Sprite_Sheet_v1.5_76
+  - first:
+      213: -2483409914189373417
+    second: Code_Kingdom_Sprite_Sheet_v1.5_77
+  - first:
+      213: 5193581447039181225
+    second: Code_Kingdom_Sprite_Sheet_v1.5_78
+  - first:
+      213: 2262178001353422269
+    second: Code_Kingdom_Sprite_Sheet_v1.5_79
+  - first:
+      213: -4221185526084056204
+    second: Code_Kingdom_Sprite_Sheet_v1.5_80
+  - first:
+      213: 1895671215538951103
+    second: Code_Kingdom_Sprite_Sheet_v1.5_81
+  - first:
+      213: -2885529432558933021
+    second: Code_Kingdom_Sprite_Sheet_v1.5_82
+  - first:
+      213: 178757634370369522
+    second: Code_Kingdom_Sprite_Sheet_v1.5_83
+  - first:
+      213: -7193382694856495217
+    second: Code_Kingdom_Sprite_Sheet_v1.5_84
+  - first:
+      213: 7009208155369083423
+    second: Code_Kingdom_Sprite_Sheet_v1.5_85
+  - first:
+      213: -3122054003171363370
+    second: Code_Kingdom_Sprite_Sheet_v1.5_86
+  - first:
+      213: -6901546424332431748
+    second: Code_Kingdom_Sprite_Sheet_v1.5_87
+  - first:
+      213: 1188123837896296069
+    second: Code_Kingdom_Sprite_Sheet_v1.5_88
+  - first:
+      213: -6905728477798503836
+    second: Code_Kingdom_Sprite_Sheet_v1.5_89
+  - first:
+      213: -763618326471505768
+    second: Code_Kingdom_Sprite_Sheet_v1.5_90
+  - first:
+      213: -6858045460063041457
+    second: Code_Kingdom_Sprite_Sheet_v1.5_91
+  - first:
+      213: 7813410350297921652
+    second: Code_Kingdom_Sprite_Sheet_v1.5_92
+  - first:
+      213: 2580124493867761357
+    second: Code_Kingdom_Sprite_Sheet_v1.5_93
+  - first:
+      213: 8956485244132456329
+    second: Code_Kingdom_Sprite_Sheet_v1.5_94
+  - first:
+      213: -5165719898382716188
+    second: Code_Kingdom_Sprite_Sheet_v1.5_95
+  - first:
+      213: 3867966356184774889
+    second: Code_Kingdom_Sprite_Sheet_v1.5_96
+  - first:
+      213: -4724778941779859442
+    second: Code_Kingdom_Sprite_Sheet_v1.5_97
+  - first:
+      213: -2607647653189241107
+    second: Code_Kingdom_Sprite_Sheet_v1.5_98
+  - first:
+      213: -1803741474073804061
+    second: Code_Kingdom_Sprite_Sheet_v1.5_99
+  - first:
+      213: 2551716414024761015
+    second: Code_Kingdom_Sprite_Sheet_v1.5_100
+  - first:
+      213: 4335370490969519821
+    second: Code_Kingdom_Sprite_Sheet_v1.5_101
+  - first:
+      213: 5689208978650556552
+    second: Code_Kingdom_Sprite_Sheet_v1.5_102
+  - first:
+      213: -4471846660453131749
+    second: Code_Kingdom_Sprite_Sheet_v1.5_103
+  - first:
+      213: -2363223953150075923
+    second: Code_Kingdom_Sprite_Sheet_v1.5_104
+  - first:
+      213: 1353659596187326098
+    second: Code_Kingdom_Sprite_Sheet_v1.5_105
+  - first:
+      213: -3832845843650898090
+    second: Code_Kingdom_Sprite_Sheet_v1.5_106
+  - first:
+      213: 5184800745343602404
+    second: Code_Kingdom_Sprite_Sheet_v1.5_107
+  - first:
+      213: -5034972957768498460
+    second: Code_Kingdom_Sprite_Sheet_v1.5_108
+  - first:
+      213: 5732733317340072651
+    second: Code_Kingdom_Sprite_Sheet_v1.5_109
+  - first:
+      213: 1234429726009718418
+    second: Code_Kingdom_Sprite_Sheet_v1.5_110
+  - first:
+      213: -7280751092755995514
+    second: Code_Kingdom_Sprite_Sheet_v1.5_111
+  - first:
+      213: 1822267246559291840
+    second: Code_Kingdom_Sprite_Sheet_v1.5_112
+  - first:
+      213: -5089506933534150637
+    second: Code_Kingdom_Sprite_Sheet_v1.5_113
+  - first:
+      213: 3251163588448892836
+    second: Code_Kingdom_Sprite_Sheet_v1.5_114
+  - first:
+      213: 2358240269478367897
+    second: Code_Kingdom_Sprite_Sheet_v1.5_115
+  - first:
+      213: -6557727411194344099
+    second: Code_Kingdom_Sprite_Sheet_v1.5_116
+  - first:
+      213: -3948570711057303586
+    second: Code_Kingdom_Sprite_Sheet_v1.5_117
+  - first:
+      213: 8634954904288606727
+    second: Code_Kingdom_Sprite_Sheet_v1.5_118
+  - first:
+      213: 2936595412219636596
+    second: Code_Kingdom_Sprite_Sheet_v1.5_119
+  - first:
+      213: 2828802567559580937
+    second: Code_Kingdom_Sprite_Sheet_v1.5_120
+  - first:
+      213: -7939121829659284541
+    second: Code_Kingdom_Sprite_Sheet_v1.5_121
+  - first:
+      213: 7224496435267921110
+    second: Code_Kingdom_Sprite_Sheet_v1.5_122
+  - first:
+      213: -3921807494540211902
+    second: Code_Kingdom_Sprite_Sheet_v1.5_123
+  - first:
+      213: -4070407519615440727
+    second: Code_Kingdom_Sprite_Sheet_v1.5_124
+  - first:
+      213: -7138124648931626017
+    second: Code_Kingdom_Sprite_Sheet_v1.5_125
+  - first:
+      213: 992875321738962061
+    second: Code_Kingdom_Sprite_Sheet_v1.5_126
+  - first:
+      213: 2127352053628310394
+    second: Code_Kingdom_Sprite_Sheet_v1.5_127
+  - first:
+      213: 5159068647735981739
+    second: Code_Kingdom_Sprite_Sheet_v1.5_128
+  - first:
+      213: 4631330405921983389
+    second: Code_Kingdom_Sprite_Sheet_v1.5_129
+  - first:
+      213: 2147223719055056637
+    second: Code_Kingdom_Sprite_Sheet_v1.5_130
+  - first:
+      213: 1424926034153875850
+    second: Code_Kingdom_Sprite_Sheet_v1.5_131
+  - first:
+      213: -6155435828744099350
+    second: Code_Kingdom_Sprite_Sheet_v1.5_132
+  - first:
+      213: -2882324112292689119
+    second: Code_Kingdom_Sprite_Sheet_v1.5_133
+  - first:
+      213: 3129618219191552232
+    second: Code_Kingdom_Sprite_Sheet_v1.5_134
+  - first:
+      213: 5288030571848392830
+    second: Code_Kingdom_Sprite_Sheet_v1.5_135
+  - first:
+      213: -9214166952399060819
+    second: Code_Kingdom_Sprite_Sheet_v1.5_136
+  - first:
+      213: 1599578065845207331
+    second: Code_Kingdom_Sprite_Sheet_v1.5_137
+  - first:
+      213: -4660654777648884277
+    second: Code_Kingdom_Sprite_Sheet_v1.5_138
+  - first:
+      213: -6827195947381167182
+    second: Code_Kingdom_Sprite_Sheet_v1.5_139
+  - first:
+      213: -6631711525512068116
+    second: Code_Kingdom_Sprite_Sheet_v1.5_140
+  - first:
+      213: 3278179365483688161
+    second: Code_Kingdom_Sprite_Sheet_v1.5_141
+  - first:
+      213: -2189385265392337439
+    second: Code_Kingdom_Sprite_Sheet_v1.5_142
+  - first:
+      213: -2770270708396332816
+    second: Code_Kingdom_Sprite_Sheet_v1.5_143
+  - first:
+      213: -6998784799037232240
+    second: Code_Kingdom_Sprite_Sheet_v1.5_144
+  - first:
+      213: 5872306705504388429
+    second: Code_Kingdom_Sprite_Sheet_v1.5_145
+  - first:
+      213: -6807931323678827761
+    second: Code_Kingdom_Sprite_Sheet_v1.5_146
+  - first:
+      213: -113906687096090551
+    second: Code_Kingdom_Sprite_Sheet_v1.5_147
+  - first:
+      213: -4292169971898830250
+    second: Code_Kingdom_Sprite_Sheet_v1.5_148
+  - first:
+      213: -1045685055635912195
+    second: Code_Kingdom_Sprite_Sheet_v1.5_149
+  - first:
+      213: -7363084705527016944
+    second: Code_Kingdom_Sprite_Sheet_v1.5_150
+  - first:
+      213: -7443701802771002793
+    second: Code_Kingdom_Sprite_Sheet_v1.5_151
+  - first:
+      213: -6755339460997124427
+    second: Code_Kingdom_Sprite_Sheet_v1.5_152
+  - first:
+      213: 3330722502388496678
+    second: Code_Kingdom_Sprite_Sheet_v1.5_153
+  - first:
+      213: -4459200874531411498
+    second: Code_Kingdom_Sprite_Sheet_v1.5_154
+  - first:
+      213: 995027597644003503
+    second: Code_Kingdom_Sprite_Sheet_v1.5_155
+  - first:
+      213: 7203272876956248449
+    second: Code_Kingdom_Sprite_Sheet_v1.5_156
+  - first:
+      213: -279064762393448858
+    second: Code_Kingdom_Sprite_Sheet_v1.5_157
+  - first:
+      213: 5223709938009075084
+    second: Code_Kingdom_Sprite_Sheet_v1.5_158
+  - first:
+      213: -3797303740803043995
+    second: Code_Kingdom_Sprite_Sheet_v1.5_159
+  - first:
+      213: -3213481746687740256
+    second: Code_Kingdom_Sprite_Sheet_v1.5_160
+  - first:
+      213: 5776111780773880785
+    second: Code_Kingdom_Sprite_Sheet_v1.5_161
+  - first:
+      213: -7509974293519444278
+    second: Code_Kingdom_Sprite_Sheet_v1.5_162
+  - first:
+      213: 3700135072011837493
+    second: Code_Kingdom_Sprite_Sheet_v1.5_163
+  - first:
+      213: 2740129448234828831
+    second: Code_Kingdom_Sprite_Sheet_v1.5_164
+  - first:
+      213: -7729213020759495985
+    second: Code_Kingdom_Sprite_Sheet_v1.5_165
+  - first:
+      213: -8859408521975907859
+    second: Code_Kingdom_Sprite_Sheet_v1.5_166
+  - first:
+      213: 7923834430507567743
+    second: Code_Kingdom_Sprite_Sheet_v1.5_167
+  - first:
+      213: 4632064921713053863
+    second: Code_Kingdom_Sprite_Sheet_v1.5_168
+  - first:
+      213: -8336163785635438405
+    second: Code_Kingdom_Sprite_Sheet_v1.5_169
+  - first:
+      213: 3247971536833390283
+    second: Code_Kingdom_Sprite_Sheet_v1.5_170
+  - first:
+      213: -9067965828111711174
+    second: Code_Kingdom_Sprite_Sheet_v1.5_171
+  - first:
+      213: 5005791596024915971
+    second: Code_Kingdom_Sprite_Sheet_v1.5_172
+  - first:
+      213: 6858481128380152767
+    second: Code_Kingdom_Sprite_Sheet_v1.5_173
+  - first:
+      213: -5131429298020429853
+    second: Code_Kingdom_Sprite_Sheet_v1.5_174
+  - first:
+      213: -5278823960298467916
+    second: Code_Kingdom_Sprite_Sheet_v1.5_175
+  - first:
+      213: -8266457820861221164
+    second: Code_Kingdom_Sprite_Sheet_v1.5_176
+  - first:
+      213: 9000535442302245958
+    second: Code_Kingdom_Sprite_Sheet_v1.5_177
+  - first:
+      213: -6703159745773823330
+    second: Code_Kingdom_Sprite_Sheet_v1.5_178
+  - first:
+      213: -5020938713833077939
+    second: Code_Kingdom_Sprite_Sheet_v1.5_179
+  - first:
+      213: 3819596522100400924
+    second: Code_Kingdom_Sprite_Sheet_v1.5_180
+  - first:
+      213: 3737850566127430964
+    second: Code_Kingdom_Sprite_Sheet_v1.5_181
+  - first:
+      213: -1009601430968416098
+    second: Code_Kingdom_Sprite_Sheet_v1.5_182
+  - first:
+      213: -3843140010279300132
+    second: Code_Kingdom_Sprite_Sheet_v1.5_183
+  - first:
+      213: 4971068089579631126
+    second: Code_Kingdom_Sprite_Sheet_v1.5_184
+  - first:
+      213: 4849396550154781059
+    second: Code_Kingdom_Sprite_Sheet_v1.5_185
+  - first:
+      213: 3154605979636301836
+    second: Code_Kingdom_Sprite_Sheet_v1.5_186
+  - first:
+      213: 4445242629814467586
+    second: Code_Kingdom_Sprite_Sheet_v1.5_187
+  - first:
+      213: -1557092561688615492
+    second: Code_Kingdom_Sprite_Sheet_v1.5_188
+  - first:
+      213: 6643107653953980248
+    second: Code_Kingdom_Sprite_Sheet_v1.5_189
+  - first:
+      213: -8265697736933576106
+    second: Code_Kingdom_Sprite_Sheet_v1.5_190
+  - first:
+      213: -1893427606337570036
+    second: Code_Kingdom_Sprite_Sheet_v1.5_191
+  - first:
+      213: 2163113938806182750
+    second: Code_Kingdom_Sprite_Sheet_v1.5_192
+  - first:
+      213: 6669394187059250413
+    second: Code_Kingdom_Sprite_Sheet_v1.5_193
+  - first:
+      213: 4071366714843274761
+    second: Code_Kingdom_Sprite_Sheet_v1.5_194
+  - first:
+      213: 8424824621635284477
+    second: Code_Kingdom_Sprite_Sheet_v1.5_195
+  - first:
+      213: 4007270668809292456
+    second: Code_Kingdom_Sprite_Sheet_v1.5_196
+  - first:
+      213: 5463063455757361592
+    second: Code_Kingdom_Sprite_Sheet_v1.5_197
+  - first:
+      213: 8692202107212316646
+    second: Code_Kingdom_Sprite_Sheet_v1.5_198
+  - first:
+      213: -6792863794383152175
+    second: Code_Kingdom_Sprite_Sheet_v1.5_199
+  - first:
+      213: 611093382427423646
+    second: Code_Kingdom_Sprite_Sheet_v1.5_200
+  - first:
+      213: -3454206967393441670
+    second: Code_Kingdom_Sprite_Sheet_v1.5_201
+  - first:
+      213: 711220683264963600
+    second: Code_Kingdom_Sprite_Sheet_v1.5_202
+  - first:
+      213: 827386373958990243
+    second: Code_Kingdom_Sprite_Sheet_v1.5_203
+  - first:
+      213: 2220747566755331432
+    second: Code_Kingdom_Sprite_Sheet_v1.5_204
+  - first:
+      213: -3314321245387669519
+    second: Code_Kingdom_Sprite_Sheet_v1.5_205
+  - first:
+      213: -5142721441018896874
+    second: Code_Kingdom_Sprite_Sheet_v1.5_206
+  - first:
+      213: -2919788763234525673
+    second: Code_Kingdom_Sprite_Sheet_v1.5_207
+  - first:
+      213: 2730127718261364436
+    second: Code_Kingdom_Sprite_Sheet_v1.5_208
+  - first:
+      213: -6422207508218868584
+    second: Code_Kingdom_Sprite_Sheet_v1.5_209
+  - first:
+      213: 6902363311100284898
+    second: Code_Kingdom_Sprite_Sheet_v1.5_210
+  - first:
+      213: 3695272830719591585
+    second: Code_Kingdom_Sprite_Sheet_v1.5_211
+  - first:
+      213: -6118197631734383051
+    second: Code_Kingdom_Sprite_Sheet_v1.5_212
+  - first:
+      213: -6825416589531423586
+    second: Code_Kingdom_Sprite_Sheet_v1.5_213
+  - first:
+      213: 4084158435757340472
+    second: Code_Kingdom_Sprite_Sheet_v1.5_214
+  - first:
+      213: -2329362783037441157
+    second: Code_Kingdom_Sprite_Sheet_v1.5_215
+  - first:
+      213: 6510299635243924382
+    second: Code_Kingdom_Sprite_Sheet_v1.5_216
+  - first:
+      213: 4777909801686659470
+    second: Code_Kingdom_Sprite_Sheet_v1.5_217
+  - first:
+      213: -3143189097280293093
+    second: Code_Kingdom_Sprite_Sheet_v1.5_218
+  - first:
+      213: 673681730140372450
+    second: Code_Kingdom_Sprite_Sheet_v1.5_219
+  - first:
+      213: 5381694087137613610
+    second: Code_Kingdom_Sprite_Sheet_v1.5_220
+  - first:
+      213: 2394616758783995762
+    second: Code_Kingdom_Sprite_Sheet_v1.5_221
+  - first:
+      213: -1543145385790911833
+    second: Code_Kingdom_Sprite_Sheet_v1.5_222
+  - first:
+      213: 317241577269658266
+    second: Code_Kingdom_Sprite_Sheet_v1.5_223
+  - first:
+      213: 6116624110300095124
+    second: Code_Kingdom_Sprite_Sheet_v1.5_224
+  - first:
+      213: 8974283363166860271
+    second: Code_Kingdom_Sprite_Sheet_v1.5_225
+  - first:
+      213: 8074989382361373323
+    second: Code_Kingdom_Sprite_Sheet_v1.5_226
+  - first:
+      213: -4466889322010534259
+    second: Code_Kingdom_Sprite_Sheet_v1.5_227
+  - first:
+      213: 349861540554174053
+    second: Code_Kingdom_Sprite_Sheet_v1.5_228
+  - first:
+      213: 7516593094257543949
+    second: Code_Kingdom_Sprite_Sheet_v1.5_229
+  - first:
+      213: 7020693220024846856
+    second: Code_Kingdom_Sprite_Sheet_v1.5_230
+  - first:
+      213: 2565645521251831266
+    second: Code_Kingdom_Sprite_Sheet_v1.5_231
+  - first:
+      213: -3993372769716427467
+    second: Code_Kingdom_Sprite_Sheet_v1.5_232
+  - first:
+      213: 4050521957686886440
+    second: Code_Kingdom_Sprite_Sheet_v1.5_233
+  - first:
+      213: -5290315064096304010
+    second: Code_Kingdom_Sprite_Sheet_v1.5_234
+  - first:
+      213: 4967735259635501804
+    second: Code_Kingdom_Sprite_Sheet_v1.5_235
+  - first:
+      213: 8345952740067302236
+    second: Code_Kingdom_Sprite_Sheet_v1.5_236
+  - first:
+      213: -3685870135148564237
+    second: Code_Kingdom_Sprite_Sheet_v1.5_237
+  - first:
+      213: 1618481500437535092
+    second: Code_Kingdom_Sprite_Sheet_v1.5_238
+  - first:
+      213: 5854706572626778388
+    second: Code_Kingdom_Sprite_Sheet_v1.5_239
+  - first:
+      213: -5988925419738709084
+    second: Code_Kingdom_Sprite_Sheet_v1.5_240
+  - first:
+      213: 7606556245972289544
+    second: Code_Kingdom_Sprite_Sheet_v1.5_241
+  - first:
+      213: -7125570648544789521
+    second: Code_Kingdom_Sprite_Sheet_v1.5_242
+  - first:
+      213: -2893345100633220180
+    second: Code_Kingdom_Sprite_Sheet_v1.5_243
+  - first:
+      213: -9112140477275784337
+    second: Code_Kingdom_Sprite_Sheet_v1.5_244
+  - first:
+      213: -1323255010306626335
+    second: Code_Kingdom_Sprite_Sheet_v1.5_245
+  - first:
+      213: 8255780146305806955
+    second: Code_Kingdom_Sprite_Sheet_v1.5_246
+  - first:
+      213: 7155981060924486521
+    second: Code_Kingdom_Sprite_Sheet_v1.5_247
+  - first:
+      213: 6997449921444326627
+    second: Code_Kingdom_Sprite_Sheet_v1.5_248
+  - first:
+      213: 7223282084734640199
+    second: Code_Kingdom_Sprite_Sheet_v1.5_249
+  - first:
+      213: -2480371302279851819
+    second: Code_Kingdom_Sprite_Sheet_v1.5_250
+  - first:
+      213: 8752549116183236347
+    second: Code_Kingdom_Sprite_Sheet_v1.5_251
+  - first:
+      213: -2298610029152263120
+    second: Code_Kingdom_Sprite_Sheet_v1.5_252
+  - first:
+      213: 2390577224930078158
+    second: Code_Kingdom_Sprite_Sheet_v1.5_253
+  - first:
+      213: 3841912300855968913
+    second: Code_Kingdom_Sprite_Sheet_v1.5_254
+  - first:
+      213: -950297551177937750
+    second: Code_Kingdom_Sprite_Sheet_v1.5_255
+  - first:
+      213: -7021499649683992951
+    second: Code_Kingdom_Sprite_Sheet_v1.5_256
+  - first:
+      213: -8975712141680852882
+    second: Code_Kingdom_Sprite_Sheet_v1.5_257
+  - first:
+      213: -7461809481189313212
+    second: Code_Kingdom_Sprite_Sheet_v1.5_258
+  - first:
+      213: -3699787691507024793
+    second: Code_Kingdom_Sprite_Sheet_v1.5_259
+  - first:
+      213: -2666612745683556123
+    second: Code_Kingdom_Sprite_Sheet_v1.5_260
+  - first:
+      213: -2206172849925613167
+    second: Code_Kingdom_Sprite_Sheet_v1.5_261
+  - first:
+      213: -4615575254832265462
+    second: Code_Kingdom_Sprite_Sheet_v1.5_262
+  - first:
+      213: 6428395243380355215
+    second: Code_Kingdom_Sprite_Sheet_v1.5_263
+  - first:
+      213: -3827379156051182733
+    second: Code_Kingdom_Sprite_Sheet_v1.5_264
+  - first:
+      213: -8831099702389331014
+    second: Code_Kingdom_Sprite_Sheet_v1.5_265
+  - first:
+      213: -4613649631888194305
+    second: Code_Kingdom_Sprite_Sheet_v1.5_266
+  - first:
+      213: -8443528568020584684
+    second: Code_Kingdom_Sprite_Sheet_v1.5_267
+  - first:
+      213: 6072045733570616373
+    second: Code_Kingdom_Sprite_Sheet_v1.5_268
+  - first:
+      213: 4756455501052718106
+    second: Code_Kingdom_Sprite_Sheet_v1.5_269
+  - first:
+      213: 3442359341300680116
+    second: Code_Kingdom_Sprite_Sheet_v1.5_270
+  - first:
+      213: -8431094465422325061
+    second: Code_Kingdom_Sprite_Sheet_v1.5_271
+  - first:
+      213: -806250329771835461
+    second: Code_Kingdom_Sprite_Sheet_v1.5_272
+  - first:
+      213: -7297581987135643303
+    second: Code_Kingdom_Sprite_Sheet_v1.5_273
+  - first:
+      213: 2439090085928508570
+    second: Code_Kingdom_Sprite_Sheet_v1.5_274
+  - first:
+      213: -5714576259411694798
+    second: Code_Kingdom_Sprite_Sheet_v1.5_275
+  - first:
+      213: 6529490845327061848
+    second: Code_Kingdom_Sprite_Sheet_v1.5_276
+  - first:
+      213: 2889235680528761210
+    second: Code_Kingdom_Sprite_Sheet_v1.5_277
+  - first:
+      213: 7338645523016313541
+    second: Code_Kingdom_Sprite_Sheet_v1.5_278
+  - first:
+      213: -7767472985747249143
+    second: Code_Kingdom_Sprite_Sheet_v1.5_279
+  - first:
+      213: -4449616673306239453
+    second: Code_Kingdom_Sprite_Sheet_v1.5_280
+  - first:
+      213: 4229670556551218970
+    second: Code_Kingdom_Sprite_Sheet_v1.5_281
+  - first:
+      213: -4218478820597352699
+    second: Code_Kingdom_Sprite_Sheet_v1.5_282
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1980
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfc180962ea7bf0800000000000000
+      internalID: -325699082295378760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1980
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855a67c35d9574d0800000000000000
+      internalID: -3137428582240201341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1980
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344259744eff507b0800000000000000
+      internalID: -5258515633966603197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1980
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6003e8fa6b274dad0800000000000000
+      internalID: -2678389749423656954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1980
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b4b55e2eef41ad0800000000000000
+      internalID: -2732278823443018882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1980
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc86d9222b059850800000000000000
+      internalID: 6383020288226266305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1980
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a93dceb1c4557a0800000000000000
+      internalID: -6389116813534062017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1828
+        width: 358
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e3b34417bd2ee90800000000000000
+      internalID: -6997789591457808821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1810
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155336e43d9f9ec60800000000000000
+      internalID: 7848078511618340177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1840
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b825341c7f329150800000000000000
+      internalID: 5877830265819441331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1840
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c5002ce52cf600800000000000000
+      internalID: 503318954438410955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1840
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad6620c44cd35780800000000000000
+      internalID: -8695364267682665041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1828
+        width: 166
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b90b0e288d52dd0800000000000000
+      internalID: -2511363160562164906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1703
+        width: 75
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1030f4ab7dce400800000000000000
+      internalID: 354895665844912612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1711
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f58f0fb434999c60800000000000000
+      internalID: 7825448781797623281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1711
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fed59c1744dbce0800000000000000
+      internalID: -1387877854659874956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1711
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0d713a2e1377e0800000000000000
+      internalID: -1769037062058734760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1711
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bce5d816dbe64ba0800000000000000
+      internalID: -6104932940081926983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1711
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e105aa95fcf197ab0800000000000000
+      internalID: -5009938135049940962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1711
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981fb6b8029a7d050800000000000000
+      internalID: 5825310600270180745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1711
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755311935c49efec0800000000000000
+      internalID: -3531221483024992937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1707
+        width: 29
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5778da4e5b300eb0800000000000000
+      internalID: -4755735930334578849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1707
+        width: 29
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b086f8f38e6baec40800000000000000
+      internalID: 5542443400047847435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1718
+        width: 15
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12eaeb75ab4ca480800000000000000
+      internalID: -8886644790588153316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1711
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9bc5002b5398e70800000000000000
+      internalID: 9117877959214807543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_25
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1711
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01339eb59eb9db0a0800000000000000
+      internalID: -6864158830471073008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_26
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1711
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857ab8d493ed2f930800000000000000
+      internalID: 4175644142221371224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_27
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1711
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5790d33c011bce220800000000000000
+      internalID: 2516580977346414965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1711
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf73639e7649e350800000000000000
+      internalID: 6046441484174196670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_29
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1711
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5768173b03e8d0800000000000000
+      internalID: -2818396610543264345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_30
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1711
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f68c65f217971940800000000000000
+      internalID: 5266844396915820272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1562
+        width: 358
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7983445eafc651c0800000000000000
+      internalID: -4515193228747372161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_32
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1544
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dfb325d53b3d850800000000000000
+      internalID: 6400656708816600421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1575
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b528eb4695cb80800000000000000
+      internalID: -8375122679264070945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_34
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1575
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b61bbc2a788740800000000000000
+      internalID: 5154504106061510690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_35
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1575
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e7cbc45956f3930800000000000000
+      internalID: 4125127475606617672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1562
+        width: 166
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe004c9df5e74900800000000000000
+      internalID: 668755947098738429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1438
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17db6bf5539c3ef0800000000000000
+      internalID: -127064691973564644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1444
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5ad9ae85defdd0800000000000000
+      internalID: -2450286338531239144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1444
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31cf05047beb6da0800000000000000
+      internalID: -5950403599106326209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1444
+        width: 22
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9eda8c392783850800000000000000
+      internalID: 6356956853086054833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_41
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1444
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e02dc33c203b0e0800000000000000
+      internalID: -2255455950820209046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1445
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01346b26a6341c60800000000000000
+      internalID: 7787909742950887692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1444
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7692e4a95f5cd920800000000000000
+      internalID: 3016390689054430844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_44
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1444
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcf7768409300880800000000000000
+      internalID: -8646848592952689454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_45
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1441
+        width: 29
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eebf7aff99c3710800000000000000
+      internalID: 1674382484788997640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_46
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1441
+        width: 29
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc25c2b544322b90800000000000000
+      internalID: -7268189374665904976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_47
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1452
+        width: 15
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1a00f9f1de81c0800000000000000
+      internalID: -4499428106292290116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1444
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dbfb565ed52e190800000000000000
+      internalID: -7934676353637434098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1445
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d4f4eddb66b7cd0800000000000000
+      internalID: -2559338997565403836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_50
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1445
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba156431868eb46d0800000000000000
+      internalID: -3005052792642055765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_51
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1445
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e47874db0769b3e0800000000000000
+      internalID: -2037484055901473559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_52
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1444
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2fe33b36d0684e0800000000000000
+      internalID: -1979880264322583840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_53
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1445
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecffa6a2793002800800000000000000
+      internalID: 585471899344764878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_54
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1444
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89aaba4a07197360800000000000000
+      internalID: 7167785614907713931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_55
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1404
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897d92b2508967600800000000000000
+      internalID: 465726759445845912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1404
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3291b029f77260800000000000000
+      internalID: 7095413656758926859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_57
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1404
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1bf5580e4b76230800000000000000
+      internalID: 3632070500900909525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_58
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1404
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61f96d65d16dc4b0800000000000000
+      internalID: -5418567207365250710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1404
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4165711233a8150800000000000000
+      internalID: 5875564881076688119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1404
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f85a31ff4b57e20800000000000000
+      internalID: 3347780905659109208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1404
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b05e8828b41b80800000000000000
+      internalID: -8424906518577499873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_62
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1404
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7968fc05158642d0800000000000000
+      internalID: -3294799751916525185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1404
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb74befd0002ed0800000000000000
+      internalID: -2440950036309755028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1404
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da73b5b6ea03265f0800000000000000
+      internalID: -764995461015980115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1319
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dc87775f3dd0f10800000000000000
+      internalID: 2237677641097858435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_66
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1270
+        width: 318
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1312df53e700d4b70800000000000000
+      internalID: 8884758181943517489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_67
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1366
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444b3667706b48570800000000000000
+      internalID: 8468093342530647108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_68
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb446854fc77db180800000000000000
+      internalID: -9097983940110170949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_69
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9f63718f79221f0800000000000000
+      internalID: -1071126669563594303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_70
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1367
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a373fdc8b4971d0800000000000000
+      internalID: -3352565379188180460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_71
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1367
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a648114c2d70e0dc0800000000000000
+      internalID: -3670988044446366614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_72
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d763c115392ab6d20800000000000000
+      internalID: 3272888307819492989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_73
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca3a119b28453240800000000000000
+      internalID: 4770798732224117455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_74
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1367
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4445f3f6ceef43a80800000000000000
+      internalID: -8487879106254384060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_75
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a2c0bea266dda0800000000000000
+      internalID: -5920436157702561112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_76
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1367
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ae2e727c7f5e80800000000000000
+      internalID: -8187688766351170417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_77
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1367
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7102f0937d7298dd0800000000000000
+      internalID: -2483409914189373417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_78
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a164de2fce431840800000000000000
+      internalID: 5193581447039181225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_79
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1367
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5bf5d18eed46f10800000000000000
+      internalID: 2262178001353422269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_80
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b4dbaf0265b65c0800000000000000
+      internalID: -4221185526084056204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_81
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1367
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3d1254de6ce4a10800000000000000
+      internalID: 1895671215538951103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_82
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1314
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebe36fe44a84f7d0800000000000000
+      internalID: -2885529432558933021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_83
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1323
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f8811f131b7200800000000000000
+      internalID: 178757634370369522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_84
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1323
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fe2ab1d88fb2c90800000000000000
+      internalID: -7193382694856495217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_85
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1323
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f129b815ea5b54160800000000000000
+      internalID: 7009208155369083423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1221
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5726bec6c3ca4d0800000000000000
+      internalID: -3122054003171363370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_87
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1246
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e4cc0d718c830a0800000000000000
+      internalID: -6901546424332431748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_88
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1246
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5868bfae5501d7010800000000000000
+      internalID: 1188123837896296069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_89
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1246
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a658d998ce920a0800000000000000
+      internalID: -6905728477798503836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_90
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1246
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89800ba8d251765f0800000000000000
+      internalID: -763618326471505768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_91
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1246
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4846735df353d0a0800000000000000
+      internalID: -6858045460063041457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1246
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783eddf05fce6c60800000000000000
+      internalID: 7813410350297921652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_93
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1244
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceb54d9e817ec320800000000000000
+      internalID: 2580124493867761357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_94
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1246
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987fa8440e3db4c70800000000000000
+      internalID: 8956485244132456329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_95
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1246
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e23bbf1f1daf48b0800000000000000
+      internalID: -5165719898382716188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_96
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1246
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83e8758e6cda530800000000000000
+      internalID: 3867966356184774889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_97
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1246
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0827fcd5963e6eb0800000000000000
+      internalID: -4724778941779859442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_98
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1246
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6364c7646cfcbd0800000000000000
+      internalID: -2607647653189241107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1199
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2013b9fa2d7f6e0800000000000000
+      internalID: -1803741474073804061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1199
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beba791f84896320800000000000000
+      internalID: 2551716414024761015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_101
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1199
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f2f3ed745a2c30800000000000000
+      internalID: 4335370490969519821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_102
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1199
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ed616c6124fe40800000000000000
+      internalID: 5689208978650556552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_103
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1199
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a9ca9b72fc0f1c0800000000000000
+      internalID: -4471846660453131749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_104
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1162
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb9bc3e554243fd0800000000000000
+      internalID: -2363223953150075923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1114
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2965b811b3a29c210800000000000000
+      internalID: 1353659596187326098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_106
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1132
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6571b52330ffecac0800000000000000
+      internalID: -3832845843650898090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_107
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1132
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eec261cecc14f740800000000000000
+      internalID: 5184800745343602404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_108
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1132
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2c28675ce202ab0800000000000000
+      internalID: -5034972957768498460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_109
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1130
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca0a1c2492ce8f40800000000000000
+      internalID: 5732733317340072651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_110
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1132
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296fdf6ab43912110800000000000000
+      internalID: 1234429726009718418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1132
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ed3ac47395fa90800000000000000
+      internalID: -7280751092755995514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_112
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9eefce76ef94910800000000000000
+      internalID: 1822267246559291840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1132
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3103fc8c8607e59b0800000000000000
+      internalID: -5089506933534150637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_114
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1132
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a73e2cee047e1d20800000000000000
+      internalID: 3251163588448892836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_115
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1132
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929745d7072ab020800000000000000
+      internalID: 2358240269478367897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_116
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d4be1f9a54ef4a0800000000000000
+      internalID: -6557727411194344099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_117
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1132
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7fae4dbdbd339c0800000000000000
+      internalID: -3948570711057303586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_118
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1078
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab3a94cb585d770800000000000000
+      internalID: 8634954904288606727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1078
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba46af7f1e0c820800000000000000
+      internalID: 2936595412219636596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1078
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d0a1392fce14720800000000000000
+      internalID: 2828802567559580937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_121
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1078
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbeb9a52c292d190800000000000000
+      internalID: -7939121829659284541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_122
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1078
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d468391b31924460800000000000000
+      internalID: 7224496435267921110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_123
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1078
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494772ccd0f299c0800000000000000
+      internalID: -3921807494540211902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_124
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1078
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82e364de10387c0800000000000000
+      internalID: -4070407519615440727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_125
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1078
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd378f1837940fc90800000000000000
+      internalID: -7138124648931626017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_126
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1078
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a08a38d667cd00800000000000000
+      internalID: 992875321738962061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_127
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 970
+        width: 318
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7396bceb6fd58d10800000000000000
+      internalID: 2127352053628310394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_128
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 901
+        width: 323
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba67828e991b89740800000000000000
+      internalID: 5159068647735981739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_129
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 876
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b0272677ac54040800000000000000
+      internalID: 4631330405921983389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 876
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed19398987ccd10800000000000000
+      internalID: 2147223719055056637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_131
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89a2f0bdaa56c310800000000000000
+      internalID: 1424926034153875850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_132
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 876
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9eef50abf739aa0800000000000000
+      internalID: -6155435828744099350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_133
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 876
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b4047bd7deff7d0800000000000000
+      internalID: -2882324112292689119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_134
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c08d5033ae6b20800000000000000
+      internalID: 3129618219191552232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_135
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 876
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ed64b9cbd26940800000000000000
+      internalID: 5288030571848392830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_136
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04c1db9f3b02080800000000000000
+      internalID: -9214166952399060819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_137
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321c535a6c7d23610800000000000000
+      internalID: 1599578065845207331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_138
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 876
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5d2854c27025fb0800000000000000
+      internalID: -4660654777648884277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 876
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbeb58357de041a0800000000000000
+      internalID: -6827195947381167182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_140
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 876
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce34dfcf08d67f3a0800000000000000
+      internalID: -6631711525512068116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0bbada3ce6e7d20800000000000000
+      internalID: 3278179365483688161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_142
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 876
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edb0d373bdbd91e0800000000000000
+      internalID: -2189385265392337439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_143
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 876
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8ed5ed7750e89d0800000000000000
+      internalID: -2770270708396332816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_144
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 876
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b6bf17e425fde90800000000000000
+      internalID: -6998784799037232240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_145
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45cbb9f5df9e7150800000000000000
+      internalID: 5872306705504388429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_146
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5ed4f78e5581a0800000000000000
+      internalID: -6807931323678827761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_147
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 876
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940981ab8725b6ef0800000000000000
+      internalID: -113906687096090551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_148
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 876
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523f55c6262f64c0800000000000000
+      internalID: -4292169971898830250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_149
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df903ef6bfafc71f0800000000000000
+      internalID: -1045685055635912195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_150
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01253fbb87111d990800000000000000
+      internalID: -7363084705527016944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 876
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a46e716a8a2b890800000000000000
+      internalID: -7443701802771002793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_152
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 876
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be66123d863042a0800000000000000
+      internalID: -6755339460997124427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_153
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6293440187a193e20800000000000000
+      internalID: 3330722502388496678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_154
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9a1733e6cbd12c0800000000000000
+      internalID: -4459200874531411498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_155
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 876
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8f743045c0fcd00800000000000000
+      internalID: 995027597644003503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_156
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ee2b548a27f360800000000000000
+      internalID: 7203272876956248449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_157
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea530c310902cf0800000000000000
+      internalID: -279064762393448858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_158
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 876
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d65b023885e7840800000000000000
+      internalID: 5223709938009075084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_159
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 876
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2c21ed544d4bc0800000000000000
+      internalID: -3797303740803043995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_160
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6b97c806b6763d0800000000000000
+      internalID: -3213481746687740256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_161
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3e9fbbf0fd82050800000000000000
+      internalID: 5776111780773880785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_162
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 876
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6557a6b2637c790800000000000000
+      internalID: -7509974293519444278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_163
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 876
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ea3c6e35895330800000000000000
+      internalID: 3700135072011837493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_164
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 876
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cf902735e60620800000000000000
+      internalID: 2740129448234828831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_165
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca6e4075b15cb490800000000000000
+      internalID: -7729213020759495985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_166
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 876
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9be8f63ee0d0580800000000000000
+      internalID: -8859408521975907859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_167
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 876
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac969ae6d17fd60800000000000000
+      internalID: 7923834430507567743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_168
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 845
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0114b2186684040800000000000000
+      internalID: 4632064921713053863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_169
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 806
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb069bf243fff4c80800000000000000
+      internalID: -8336163785635438405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_170
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 804
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6a88d77ec131d20800000000000000
+      internalID: 3247971536833390283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_171
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 817
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34450c9f1d182280800000000000000
+      internalID: -9067965828111711174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_172
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 817
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30863bc4fe4287540800000000000000
+      internalID: 5005791596024915971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_173
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 826
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb1db9f383e2f50800000000000000
+      internalID: 6858481128380152767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_174
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 826
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc57dad3089c8b0800000000000000
+      internalID: -5131429298020429853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_175
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 826
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdc6969399ddb6b0800000000000000
+      internalID: -5278823960298467916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_176
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 826
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d631d4d864a74d80800000000000000
+      internalID: -8266457820861221164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_177
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 826
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c1db24c4358ec70800000000000000
+      internalID: 9000535442302245958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 826
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1470e9b799f2a0800000000000000
+      internalID: -6703159745773823330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_179
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 826
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4309f287da025ab0800000000000000
+      internalID: -5020938713833077939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 826
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13ac1dbccee10530800000000000000
+      internalID: 3819596522100400924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 797
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da48139438fd330800000000000000
+      internalID: 3737850566127430964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_182
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 789
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c66ef8dc2df1f0800000000000000
+      internalID: -1009601430968416098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_183
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31631c58c6aaac0800000000000000
+      internalID: -3843140010279300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_184
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 787
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127ca1f618ccf440800000000000000
+      internalID: 4971068089579631126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_185
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 789
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3810bfa18748c4340800000000000000
+      internalID: 4849396550154781059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_186
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 789
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c008b86bc6967cb20800000000000000
+      internalID: 3154605979636301836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_187
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cb382be9ca0bd30800000000000000
+      internalID: 4445242629814467586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_188
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5a522a098146ae0800000000000000
+      internalID: -1557092561688615492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_189
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 789
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8570b9ee63f013c50800000000000000
+      internalID: 6643107653953980248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_190
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f259a3b75a4d80800000000000000
+      internalID: -8265697736933576106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_191
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 787
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb454bf9139b5e0800000000000000
+      internalID: -1893427606337570036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_192
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 789
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e531d3baaace40e10800000000000000
+      internalID: 2163113938806182750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_193
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4c8ba5da27e8c50800000000000000
+      internalID: 6669394187059250413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_194
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e1594c476608830800000000000000
+      internalID: 4071366714843274761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_195
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 789
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd29835b5dfae470800000000000000
+      internalID: 8424824621635284477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_196
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa483d117fac9730800000000000000
+      internalID: 4007270668809292456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_197
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e5d9b443b0db40800000000000000
+      internalID: 5463063455757361592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_198
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 789
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efba4463c7e0a870800000000000000
+      internalID: 8692202107212316646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_199
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 789
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db1e208e56eab1a0800000000000000
+      internalID: -6792863794383152175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_200
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93bd20913a0b7800800000000000000
+      internalID: 611093382427423646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_201
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78a5d770113010d0800000000000000
+      internalID: -3454206967393441670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_202
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 789
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0143be67173ced900800000000000000
+      internalID: 711220683264963600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_203
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 789
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f2dff5877b7b00800000000000000
+      internalID: 827386373958990243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_204
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db34c552ea1de10800000000000000
+      internalID: 2220747566755331432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_205
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 787
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff3329236a2102d0800000000000000
+      internalID: -3314321245387669519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_206
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9841c81261a8b0800000000000000
+      internalID: -5142721441018896874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_207
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e9a3ce693da77d0800000000000000
+      internalID: -2919788763234525673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_208
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 789
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d69a66e1bc53e520800000000000000
+      internalID: 2730127718261364436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_209
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 789
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c84ce2c4cbfd6a0800000000000000
+      internalID: -6422207508218868584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_210
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 789
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef42d47cde1acf50800000000000000
+      internalID: 6902363311100284898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_211
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 789
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a48137af0f384330800000000000000
+      internalID: 3695272830719591585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_212
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 781
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ef5d66babc71ba0800000000000000
+      internalID: -6118197631734383051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_213
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 781
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cdbe046cf3741a0800000000000000
+      internalID: -6825416589531423586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_214
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 781
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8373bb16578dda830800000000000000
+      internalID: 4084158435757340472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_215
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 781
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bb90ce3e07cafd0800000000000000
+      internalID: -2329362783037441157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_216
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 781
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb114760b395a50800000000000000
+      internalID: 6510299635243924382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_217
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 781
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81f36276ab8e4240800000000000000
+      internalID: 4777909801686659470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_218
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 781
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b173aba5b262164d0800000000000000
+      internalID: -3143189097280293093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_219
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 781
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edffa8d6f5695900800000000000000
+      internalID: 673681730140372450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_220
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 712
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2758a1424e9faa40800000000000000
+      internalID: 5381694087137613610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_221
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 752
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f648041436b3120800000000000000
+      internalID: 2394616758783995762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_222
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 721
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa46239275a59ae0800000000000000
+      internalID: -1543145385790911833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_223
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 717
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a928421a881176400800000000000000
+      internalID: 317241577269658266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_224
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 733
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e607983d92e450800000000000000
+      internalID: 6116624110300095124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_225
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 726
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe33247cb2f0b8c70800000000000000
+      internalID: 8974283363166860271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_226
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 726
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a53b46f00201070800000000000000
+      internalID: 8074989382361373323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_227
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 724
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e939604db6202c0800000000000000
+      internalID: -4466889322010534259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_228
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 724
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e6d4da735fad400800000000000000
+      internalID: 349861540554174053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_229
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 726
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b0068389d405860800000000000000
+      internalID: 7516593094257543949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_230
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 726
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a039059438e6160800000000000000
+      internalID: 7020693220024846856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_231
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 726
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed89c912010b9320800000000000000
+      internalID: 2565645521251831266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_232
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 726
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a55daf90b498c0800000000000000
+      internalID: -3993372769716427467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_233
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 726
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c8da8248563830800000000000000
+      internalID: 4050521957686886440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_234
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 695
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67454ae7a760596b0800000000000000
+      internalID: -5290315064096304010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_235
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 681
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceac1c006e0f0f440800000000000000
+      internalID: 4967735259635501804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_236
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 681
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd8ef5cc7c2d370800000000000000
+      internalID: 8345952740067302236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_237
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 681
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0bf3204a829dcc0800000000000000
+      internalID: -3685870135148564237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_238
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 681
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479de1d7950067610800000000000000
+      internalID: 1618481500437535092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_239
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 681
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195095bb98104150800000000000000
+      internalID: 5854706572626778388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_240
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 681
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3ca2abf0013eca0800000000000000
+      internalID: -5988925419738709084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_241
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 681
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808053dba9aef8960800000000000000
+      internalID: 7606556245972289544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_242
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 681
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febb98f7f33ec1d90800000000000000
+      internalID: -7125570648544789521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_243
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 681
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd328e5f5c8d7d0800000000000000
+      internalID: -2893345100633220180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_244
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 681
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bb48c938c2b8180800000000000000
+      internalID: -9112140477275784337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_245
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 681
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecea6b349ad2ade0800000000000000
+      internalID: -1323255010306626335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_246
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 668
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62b7445d4c629270800000000000000
+      internalID: 8255780146305806955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_247
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 668
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973b3d36cd62f4360800000000000000
+      internalID: 7155981060924486521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_248
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 666
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec264521afeb1160800000000000000
+      internalID: 6997449921444326627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_249
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 666
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402d0519c04e3460800000000000000
+      internalID: 7223282084734640199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_250
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 668
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d059803173f39dd0800000000000000
+      internalID: -2480371302279851819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_251
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 668
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfec2455c0d477970800000000000000
+      internalID: 8752549116183236347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_252
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 668
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034aa376b52b910e0800000000000000
+      internalID: -2298610029152263120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_253
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 668
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecda81cf1590d2120800000000000000
+      internalID: 2390577224930078158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_254
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 650
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19449bed1e6315530800000000000000
+      internalID: 3841912300855968913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_255
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 650
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8d1f796ddfc2f0800000000000000
+      internalID: -950297551177937750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_256
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 650
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e4e06254f9e8e90800000000000000
+      internalID: -7021499649683992951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_257
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 638
+        width: 119
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c3fccc5ddf6380800000000000000
+      internalID: -8975712141680852882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_258
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 612
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b11cafc3527890800000000000000
+      internalID: -7461809481189313212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_259
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 590
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c7c5762b6b7acc0800000000000000
+      internalID: -3699787691507024793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_260
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 612
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a00c06d94efad0800000000000000
+      internalID: -2666612745683556123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_261
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 612
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19992175b791261e0800000000000000
+      internalID: -2206172849925613167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_262
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 612
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07c3a592ce22ffb0800000000000000
+      internalID: -4615575254832265462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_263
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 612
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f803f7d2a6f363950800000000000000
+      internalID: 6428395243380355215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_264
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 612
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb5d69fea62eac0800000000000000
+      internalID: -3827379156051182733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_265
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 612
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abba60f1c91a17580800000000000000
+      internalID: -8831099702389331014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_266
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 612
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4413d9a1609ffb0800000000000000
+      internalID: -4613649631888194305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_267
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 612
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417354cc08f82da80800000000000000
+      internalID: -8443528568020584684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_268
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 612
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c17617c6d344450800000000000000
+      internalID: 6072045733570616373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_269
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 612
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c2332d313520240800000000000000
+      internalID: 4756455501052718106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_270
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 580
+        width: 43
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5897f1597b5cf20800000000000000
+      internalID: 3442359341300680116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_271
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 558
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba8db8e04cbefa80800000000000000
+      internalID: -8431094465422325061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_272
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 558
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf78e5c89f9fc4f0800000000000000
+      internalID: -806250329771835461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_273
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 558
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ad71d8d7c9ba90800000000000000
+      internalID: -7297581987135643303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_274
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 558
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c12f2a28369d120800000000000000
+      internalID: 2439090085928508570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_275
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 556
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ba2ef4b2fb1b0b0800000000000000
+      internalID: -5714576259411694798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_276
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 558
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85372ef34596d9a50800000000000000
+      internalID: 6529490845327061848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_277
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 558
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a710d4a2b80a81820800000000000000
+      internalID: 2889235680528761210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_278
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 558
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cae5eba83b18d560800000000000000
+      internalID: 7338645523016313541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_279
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 558
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908a71a2974643490800000000000000
+      internalID: -7767472985747249143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_280
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e1de0f539cf32c0800000000000000
+      internalID: -4449616673306239453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_281
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 558
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a170a2026fec2ba30800000000000000
+      internalID: 4229670556551218970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Code_Kingdom_Sprite_Sheet_v1.5_282
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 486
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50739c5fcd3f475c0800000000000000
+      internalID: -4218478820597352699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
