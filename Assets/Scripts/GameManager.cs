@@ -183,6 +183,7 @@ public class GameManager : MonoBehaviour
 
     public void gotoEndScene()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(5);
     }
     public void retrylevel()
