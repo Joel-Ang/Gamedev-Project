@@ -213,6 +213,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 559035165}
+        m_MethodName: playSelect
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &427192041
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -345,110 +356,13 @@ GameObject:
   - component: {fileID: 559035166}
   - component: {fileID: 559035165}
   - component: {fileID: 559035167}
-  - component: {fileID: 559035164}
   m_Layer: 0
   m_Name: AudioManager
-  m_TagString: AudioManager
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!82 &559035164
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 559035163}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 0
-  m_Volume: 0.3
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!114 &559035165
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -461,23 +375,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 875a2b5fdda8519449ae74c913f428ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bgmAudioSource: {fileID: 559035167}
-  sfxAudioSource: {fileID: 559035164}
-  titleBGM: {fileID: 8300000, guid: 2b76f4dd8845a484a90c3368326e29b8, type: 3}
-  prologueBGM: {fileID: 8300000, guid: d8d0908e042c4f249a876fa9d317759e, type: 3}
-  mapBGM: {fileID: 8300000, guid: bb59143f4a526c94681565edefa5602e, type: 3}
-  battleBGM: {fileID: 8300000, guid: 7348d26b43d8abb4a9911ea3a0a4cece, type: 3}
+  bgm: {fileID: 559035167}
   selectSFX: {fileID: 8300000, guid: c63072db0ebf6a045b8e103e849e627b, type: 3}
-  correctAnsSFX: {fileID: 8300000, guid: 541bbbf648813e942b3adee134066c1e, type: 3}
-  wrongAnsSFX: {fileID: 8300000, guid: 3abf5fbae41b0b5419f58f0108ed712b, type: 3}
-  playerDamagedSFX: {fileID: 8300000, guid: a841a580a67538343a9e047579f87154, type: 3}
-  enemyDamagedSFX: {fileID: 8300000, guid: ab6f65b35c10f924d8149751d296a1a3, type: 3}
-  winSFX: {fileID: 8300000, guid: 9aafd2115fb8d5a41920bcec6d6c8b85, type: 3}
-  loseSFX: {fileID: 8300000, guid: 507ae4c71fb9c724b9f10e8d6f401b75, type: 3}
-  missSFX: {fileID: 8300000, guid: dd5efaff621a0144eb64e0174f36cb9a, type: 3}
-  enemyDeathSFX: {fileID: 8300000, guid: c77cfd9a0e9922f43b6fb45c629c8f66, type: 3}
+  correctAnsSFX: {fileID: 0}
+  wrongAnsSFX: {fileID: 0}
+  playerDamagedSFX: {fileID: 0}
+  enemyDamagedSFX: {fileID: 0}
+  winSFX: {fileID: 0}
+  loseSFX: {fileID: 0}
+  missSFX: {fileID: 0}
+  enemyDeathSFX: {fileID: 0}
   playerDeathSFX: {fileID: 0}
-  textTypingSFX: {fileID: 8300000, guid: 782daaae939c27442b6aad04a8d98b71, type: 3}
 --- !u!4 &559035166
 Transform:
   m_ObjectHideFlags: 0
@@ -502,7 +410,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 2b76f4dd8845a484a90c3368326e29b8, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.3
   m_Pitch: 1
@@ -925,6 +833,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 965683543}
         m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 559035165}
+        m_MethodName: playSelect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
