@@ -1,2 +1,4 @@
 # Gamedev-Project
-game dev project
+-------------------------------------------
+CM3030_Game Dev Final Project Source Code
+-------------------------------------------
