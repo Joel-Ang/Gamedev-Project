@@ -19731,7 +19731,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -20305,6 +20305,8 @@ MonoBehaviour:
   stage1Button: {fileID: 975428985}
   stage2Button: {fileID: 377005516}
   stage3Button: {fileID: 1533403005}
+  playerIconPrefab: {fileID: 3640292789081448587, guid: 81474935ab99ccd4180c3c82a326fd82,
+    type: 3}
 --- !u!4 &882253725
 Transform:
   m_ObjectHideFlags: 0
@@ -22806,7 +22808,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1880787391
 RectTransform:
   m_ObjectHideFlags: 0
@@ -23015,7 +23017,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2056843228
 RectTransform:
   m_ObjectHideFlags: 0
