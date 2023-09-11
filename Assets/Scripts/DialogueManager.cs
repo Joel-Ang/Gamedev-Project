@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using UnityEngine.Playables;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -14,18 +13,13 @@ public class DialogueManager : MonoBehaviour
     public TMP_Text nameText;
     public TMP_Text dialogueText;
     public Image speakerImage;
-    public PlayableDirector timelinePlayable;
-    //[SerializeField] GameObject[] playAnimations;
+    //[SerializeField] GameObject[] canTalk;
 
     Queue<Dialogues.Character> allSpeakers;
     Queue<string> allDialogues;
 
     Dialogues.Character currentSpeaker;
-    bool isStarting = false; //check if first line
-    bool hideDialogue = false;
-    bool isTalking = false; //check for dialogue pause
-    string stopBeforeDialogue = ""; //dialogue to stop before
-    bool waitForAnim; //make true if animation needs to finish before next line starts
+    bool isTalking = false;
 
     private void Awake()
     {
@@ -42,21 +36,31 @@ public class DialogueManager : MonoBehaviour
         typewriterScript.txt = dialogueText;
         allSpeakers = new Queue<Dialogues.Character>();
         allDialogues = new Queue<string>();
+
+        //getDialogues();
+        //StartDialogue();
     }
 
     // Update is called once per frame
     void Update()
     {
+        //if (Input.GetKeyDown(KeyCode.Return) && isTalking == false)
+        //{
+        //    StartDialogue();
+        //}
         switch (currentSpeaker)
         {
             case Dialogues.Character.King:
                 speakerImage.sprite = Resources.Load<Sprite>("Dialogue_King");
-                nameText.text = currentSpeaker.ToString();
-                break;
 
+                nameText.text = currentSpeaker.ToString();
+
+                break;
             case Dialogues.Character.MC:
                 speakerImage.sprite = Resources.Load<Sprite>("Dialogue_MC");
+
                 nameText.text = currentSpeaker.ToString();
+
                 break;
 
             case Dialogues.Character.Sorcerer:
@@ -97,76 +101,38 @@ public class DialogueManager : MonoBehaviour
         StartCoroutine(DisplayDialogue());
     }
 
-    public void StopDialogue(string before)
+    public void EndDialogue()
     {
-        //timelinePlayable.Pause();
         isTalking = false;
-        stopBeforeDialogue = before;
-        hideDialogue = false;
-    }
-    public void StopAndCloseDialogue(string before)
-    {
-        //timelinePlayable.Pause();
-        isTalking = false;
-        stopBeforeDialogue = before;
-        hideDialogue = true;
-    }
-
-    public void CheckAnimation(bool waiting)
-    {
-        waitForAnim = waiting;
-        if (waitForAnim == false)
-        {
-            timelinePlayable.Pause();
-        }
     }
 
     IEnumerator DisplayDialogue()
     {
         dialogueBoxObj.SetActive(true);
-        isStarting = true;
 
-        while (allDialogues.Count > 0)
+        for (int i = 0; i < allDialogues.Count;)
         {
-            //go to next line (if end of line and spacebar is pressed OR if starting line)
-            if ((typewriterScript.isFinishedTyping && Input.GetKeyDown(KeyCode.Space)) || isStarting)
+            currentSpeaker = allSpeakers.Dequeue();
+            
+            if (allDialogues.Peek() == "")
             {
-                if (isStarting)
-                {
-                    isStarting = false;
-                }
-                
-                //replace if dialogue is empty
-                if (allDialogues.Peek() == "")
-                {
-                    currentSpeaker = allSpeakers.Dequeue();
-                    yield return StartCoroutine(typewriterScript.TypeText("..."));
-                    allDialogues.Dequeue();
-                }
-                //if next line is a pause
-                else if (allDialogues.Peek() == stopBeforeDialogue && !isTalking)
-                {
-                    timelinePlayable.Play();
-                    isTalking = true;
-                    if (hideDialogue)
-                    {
-                        dialogueBoxObj.SetActive(false);
-                    }
-                    yield break;
-                }
-                //type text if no animations to wait for
-                else if (!waitForAnim)
-                {
-                    currentSpeaker = allSpeakers.Dequeue();
-                    yield return StartCoroutine(typewriterScript.TypeText(allDialogues.Dequeue()));
-                    //Debug.Log("nth");
-                }
+                yield return StartCoroutine(typewriterScript.TypeText("I have nothing to say :((("));
+                allDialogues.Dequeue();
             }
-            yield return null;
-        }
+            else
+            {
+                yield return StartCoroutine(typewriterScript.TypeText(allDialogues.Dequeue()));
+                //Debug.Log("nth");
+            }
 
-        yield return new WaitForSeconds(1f);
-        Debug.Log("story end");
-        timelinePlayable.Play();
+            if (isTalking == false)
+            {
+                yield return new WaitForSeconds(0.5f);
+                dialogueBoxObj.SetActive(false);
+                yield break;
+            }
+        }
+        
+        dialogueBoxObj.SetActive(false);
     }
 }
