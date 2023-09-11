@@ -14,6 +14,7 @@ public class LevelManager : MonoBehaviour
     public Button stage1Button;
     public Button stage2Button;
     public Button stage3Button;
+    public GameObject playerIconPrefab;
 
     public static int stage;
     public static int enemyCount; // = { 3, 4, 5, 6, 7, 8 };
@@ -21,6 +22,7 @@ public class LevelManager : MonoBehaviour
     public static string battleBg; // = { "Castle", "Castle Gate", "Village", "Forest" };
     public static int quesIndex; // = { "[0-5]", "[6-10]", "[11-15]", "[16-20]", "[21-25]" };
 
+    //global variables to store stage progress
     public static bool tutorialComplete = false;
     public static bool stage1Complete = false;
     public static bool stage2Complete = false;
@@ -38,38 +40,59 @@ public class LevelManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //child 0: active
+        //child 1: done
+        //set level states
         if (tutorialComplete)
         {
-            stage0Button.transform.Find("ActiveState").gameObject.SetActive(false);
-            stage0Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage0Button.transform.GetChild(0).gameObject.SetActive(false);
+            stage0Button.transform.GetChild(1).gameObject.SetActive(true);
             stage1Button.interactable = true;
 
-            stage1Button.transform.Find("ActiveState").gameObject.SetActive(true);
+            stage1Button.transform.GetChild(0).gameObject.SetActive(true);
             stage1Button.interactable = true;
         }
         if (stage1Complete)
         {
-            stage1Button.transform.Find("ActiveState").gameObject.SetActive(false);
-            stage1Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage1Button.transform.GetChild(0).gameObject.SetActive(false);
+            stage1Button.transform.GetChild(1).gameObject.SetActive(true);
             stage1Button.interactable = true;
 
-            stage2Button.transform.Find("ActiveState").gameObject.SetActive(true);
+            stage2Button.transform.GetChild(0).gameObject.SetActive(true);
             stage2Button.interactable = true;
         }
         if (stage2Complete)
         {
-            stage2Button.transform.Find("ActiveState").gameObject.SetActive(false);
-            stage2Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage2Button.transform.GetChild(0).gameObject.SetActive(false);
+            stage2Button.transform.GetChild(1).gameObject.SetActive(true);
             stage2Button.interactable = true;
 
-            stage3Button.transform.Find("ActiveState").gameObject.SetActive(true);
+            stage3Button.transform.GetChild(0).gameObject.SetActive(true);
             stage3Button.interactable = true;
         }
         if (stage3Complete)
         {
-            stage3Button.transform.Find("ActiveState").gameObject.SetActive(true);
-            stage3Button.transform.Find("DoneState").gameObject.SetActive(true);
+            stage3Button.transform.GetChild(0).gameObject.SetActive(false);
+            stage3Button.transform.GetChild(1).gameObject.SetActive(true);
             stage3Button.interactable = true;
+        }
+
+        //set player icon
+        if (stage0Button.transform.GetChild(0).gameObject.activeInHierarchy)
+        {
+            DisplayPlayerIcon(stage0Button);
+        }
+        else if (stage1Button.transform.GetChild(0).gameObject.activeInHierarchy)
+        {
+            DisplayPlayerIcon(stage1Button);
+        }
+        else if (stage2Button.transform.GetChild(0).gameObject.activeInHierarchy)
+        {
+            DisplayPlayerIcon(stage2Button);
+        }
+        else if (stage3Button.transform.GetChild(0).gameObject.activeInHierarchy)
+        {
+            DisplayPlayerIcon(stage3Button);
         }
     }
 
@@ -77,6 +100,14 @@ public class LevelManager : MonoBehaviour
     void Update()
     {
         
+    }
+
+    void DisplayPlayerIcon(Button button)
+    {
+        Transform iconPos = button.transform;
+        GameObject playerIcon = Instantiate(playerIconPrefab, new Vector3(iconPos.position.x - 0.05f, iconPos.position.y + 1.15f, iconPos.position.z), transform.rotation);
+        playerIcon.transform.localScale = new Vector3(iconPos.localScale.x, iconPos.localScale.y, iconPos.localScale.z);
+        playerIcon.transform.SetParent(button.transform.parent, true);
     }
 
     void SetLevelInfo(int stageNumber, string levelBg, string[] type, int qIndex, string topic, float accuracy, string totaltime)

@@ -38,10 +38,12 @@ public class GameManager : MonoBehaviour
     public GameObject enemyMissPrefab;
     public GameObject enemyEffects;
     public GameObject questionUI;
+    public GameObject answerIcon;
     public GameObject winUI;
     public TMP_Text accuracyScoreText;
     public TMP_Text timeScoreText;
     public GameObject loseUI;
+    public GameObject runUI;
     public GameObject healthManagerObj;
     HealthManager healthManager;
     public GameObject continueBtn;
@@ -278,9 +280,9 @@ public class GameManager : MonoBehaviour
                 EnemyTurn();
                 break;
 
-            case BattleState.Run:
-                BattleRun();
-                break;
+            //case BattleState.Run:
+            //    BattleRun();
+            //    break;
 
             case BattleState.Win:
                 BattleWin();
@@ -371,22 +373,41 @@ public class GameManager : MonoBehaviour
 
     public void selectAnswer(int chosenAns)
     {
+        StartCoroutine(AnswerOutcome(chosenAns));
+    }
+
+    IEnumerator AnswerOutcome(int answer)
+    {
+        answerIcon.SetActive(true);
+
+        //check chosen answer         
+        bool isAnswer = questionMenu.checkAnswer(answer);
+
+        if (isAnswer) //correct answer
+        {
+            answerIcon.GetComponent<Animator>().SetTrigger("isCorrect");
+            yield return new WaitForSecondsRealtime(0.6f);
+            AudioManager.instance.playCorrectAns();
+        }
+        else //wrong answer
+        {
+            answerIcon.GetComponent<Animator>().SetTrigger("isWrong");
+            yield return new WaitForSecondsRealtime(0.6f);
+            AudioManager.instance.playWrongAns();
+        }
+
+        yield return new WaitForSecondsRealtime(0.4f);
+        answerIcon.SetActive(false);
         questionUI.SetActive(false);
 
         totalTurns++;
-        //check chosen answer         
-        bool checkAns = questionMenu.checkAnswer(chosenAns);
 
-
-        if (questionMenu.checkAnswer(chosenAns)) //correct answer
+        if (isAnswer) //correct answer
         {
             correctTurns++;
-            //play correct ans and enemy damaged SFX
-            AudioManager.instance.playCorrectAns();
-            AudioManager.instance.playEnemyDamaged();
             healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
-            //set next question
-            questionMenu.nextQuestion();
+            AudioManager.instance.playEnemyDamaged(); //play enemy damaged SFX
+            questionMenu.nextQuestion(); //set next question
         }
         else //wrong answer
         {
@@ -395,11 +416,10 @@ public class GameManager : MonoBehaviour
             GameObject missEffect = Instantiate(enemyMissPrefab, new Vector3(enemyPos.position.x, enemyPos.position.y + 1f, enemyPos.position.z), transform.rotation);
             missEffect.transform.parent = enemyEffects.transform;
 
-            //play wrong ans and miss SFX 
-            AudioManager.instance.playWrongAns();
+            //play miss SFX 
             AudioManager.instance.playMiss();
-            
-            UpdateBattleState(currentBattleState += 1);
+
+            NextBattleState();
         }
     }
 
@@ -465,10 +485,18 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void BattleRun()
+    public void ToggleRunUI()
     {
-        Debug.Log("do you want to escape?");
-        backtomap();
+        if (runUI.activeInHierarchy)
+        {
+            runUI.SetActive(false);
+            Time.timeScale = 1f;
+        }
+        else
+        {
+            runUI.SetActive(true);
+            Time.timeScale = 0f;
+        }
     }
 
     void BattleWin()

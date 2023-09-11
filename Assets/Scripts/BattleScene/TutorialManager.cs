@@ -70,7 +70,7 @@ public class TutorialManager : MonoBehaviour
             if (tutorial3.activeInHierarchy)
             {
                 tutorial3.SetActive(false);
-                StartCoroutine(StartTutorial(tutorial4, 1));
+                StartCoroutine(StartTutorial(tutorial4, 2));
             }
             if (tutorial4.activeInHierarchy)
             {
