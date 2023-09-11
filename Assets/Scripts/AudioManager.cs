@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -25,7 +26,9 @@ public class AudioManager : MonoBehaviour
     public AudioClip enemyDeathSFX;
     public AudioClip playerDeathSFX;
     public AudioClip textTypingSFX;
-    Button[] buttons;
+    public Button[] buttons;
+    float bgmVolume = 0.3f;
+    float sfxVolume = 1f;
     // Start is called before the first frame update
 
     void Start()
@@ -57,43 +60,43 @@ public class AudioManager : MonoBehaviour
     }
     public void playSelect()
     {
-        sfxAudioSource.PlayOneShot(selectSFX, 1f);
+        sfxAudioSource.PlayOneShot(selectSFX, sfxVolume);
     }
     public void playCorrectAns()
     {
-        sfxAudioSource.PlayOneShot(correctAnsSFX, 1f);
+        sfxAudioSource.PlayOneShot(correctAnsSFX, sfxVolume);
     }
     public void playWrongAns()
     {
-        sfxAudioSource.PlayOneShot(wrongAnsSFX, 1f);
+        sfxAudioSource.PlayOneShot(wrongAnsSFX, sfxVolume);
     }
     public void playPlayerDamaged()
     {
-        sfxAudioSource.PlayOneShot(playerDamagedSFX, 1f);
+        sfxAudioSource.PlayOneShot(playerDamagedSFX, sfxVolume);
     }
     public void playEnemyDamaged()
     {
-        sfxAudioSource.PlayOneShot(enemyDamagedSFX, 1f);
+        sfxAudioSource.PlayOneShot(enemyDamagedSFX, sfxVolume);
     }
     public void playWin()
     {
-        sfxAudioSource.PlayOneShot(winSFX, 1f);
+        sfxAudioSource.PlayOneShot(winSFX, sfxVolume);
     }
     public void playLose()
     {
-        sfxAudioSource.PlayOneShot(loseSFX, 1f);
+        sfxAudioSource.PlayOneShot(loseSFX, sfxVolume);
     }
     public void playMiss()
     {
-        sfxAudioSource.PlayOneShot(missSFX, 3f);
+        sfxAudioSource.PlayOneShot(missSFX, sfxVolume);
     }
     public void playEnemyDeath()
     {
-        sfxAudioSource.PlayOneShot(enemyDeathSFX, 1f);
+        sfxAudioSource.PlayOneShot(enemyDeathSFX, sfxVolume);
     }
     public void playTextTyping()
     {
-        sfxAudioSource.PlayOneShot(textTypingSFX, 1f);
+        sfxAudioSource.PlayOneShot(textTypingSFX, sfxVolume);
     }
     public void stopBGM()
     {
@@ -104,7 +107,7 @@ public class AudioManager : MonoBehaviour
     {
         stopBGM();
         bgmAudioSource.clip = titleBGM;
-        bgmAudioSource.volume = 0.3f;
+        bgmAudioSource.volume = bgmVolume;
         bgmAudioSource.pitch = 1.0f;
         bgmAudioSource.loop = true;
         bgmAudioSource.Play();
@@ -113,8 +116,7 @@ public class AudioManager : MonoBehaviour
     {
         stopBGM();
         bgmAudioSource.clip = prologueBGM;
-        bgmAudioSource.volume = 0.3f;
-        sfxAudioSource.pitch = 1.4f;
+        bgmAudioSource.volume = bgmVolume;
         bgmAudioSource.pitch = 0.45f;
         bgmAudioSource.loop = false;
         bgmAudioSource.Play();
@@ -123,8 +125,7 @@ public class AudioManager : MonoBehaviour
     {
         stopBGM();
         bgmAudioSource.clip = mapBGM;
-        bgmAudioSource.volume = 0.3f;
-        sfxAudioSource.pitch = 1.0f;
+        bgmAudioSource.volume = bgmVolume;
         bgmAudioSource.pitch = 1.0f;
         bgmAudioSource.loop = true;
         bgmAudioSource.Play();
@@ -133,7 +134,7 @@ public class AudioManager : MonoBehaviour
     {
         stopBGM();
         bgmAudioSource.clip = battleBGM;
-        bgmAudioSource.volume = 0.3f;
+        bgmAudioSource.volume = bgmVolume;
         bgmAudioSource.pitch = 1.0f;
         bgmAudioSource.loop = true;
         bgmAudioSource.Play();
@@ -143,6 +144,14 @@ public class AudioManager : MonoBehaviour
         buttons = Resources.FindObjectsOfTypeAll<Button>();
         foreach (var button in buttons)
         {
+            //To stop more onclick listeners from being added to the setting buttons
+            if (button.name == "SettingOpenButton" ||
+                button.name == "SettingCloseButton") 
+            {
+                Debug.Log("Skipped " + button.name);
+                continue; 
+            }
+            button.onClick.RemoveListener(playSelect);
             button.onClick.AddListener(() => playSelect());
         }
         string sceneName = scene.name;
@@ -159,5 +168,15 @@ public class AudioManager : MonoBehaviour
         {
             playBattleBGM();
         }
+    }
+    public void bgmVolumeChange(float vol)
+    {
+        bgmVolume = vol;
+        bgmAudioSource.volume = bgmVolume;
+    }
+    public void sfxVolumeChange(float vol)
+    {
+        sfxVolume = vol;
+        sfxAudioSource.volume = sfxVolume;
     }
 }
