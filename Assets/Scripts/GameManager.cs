@@ -42,6 +42,7 @@ public class GameManager : MonoBehaviour
     public TMP_Text accuracyScoreText;
     public TMP_Text timeScoreText;
     public GameObject loseUI;
+    public GameObject runUI;
     public GameObject healthManagerObj;
     HealthManager healthManager;
     public GameObject continueBtn;
@@ -278,9 +279,9 @@ public class GameManager : MonoBehaviour
                 EnemyTurn();
                 break;
 
-            case BattleState.Run:
-                BattleRun();
-                break;
+            //case BattleState.Run:
+            //    BattleRun();
+            //    break;
 
             case BattleState.Win:
                 BattleWin();
@@ -465,10 +466,18 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void BattleRun()
+    public void ToggleRunUI()
     {
-        Debug.Log("do you want to escape?");
-        backtomap();
+        if (runUI.activeInHierarchy)
+        {
+            runUI.SetActive(false);
+            Time.timeScale = 1f;
+        }
+        else
+        {
+            runUI.SetActive(true);
+            Time.timeScale = 0f;
+        }
     }
 
     void BattleWin()
