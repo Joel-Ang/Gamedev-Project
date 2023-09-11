@@ -374,6 +374,9 @@ public class GameManager : MonoBehaviour
         questionUI.SetActive(false);
 
         totalTurns++;
+        //check chosen answer         
+        bool checkAns = questionMenu.checkAnswer(chosenAns);
+
 
         if (questionMenu.checkAnswer(chosenAns)) //correct answer
         {
