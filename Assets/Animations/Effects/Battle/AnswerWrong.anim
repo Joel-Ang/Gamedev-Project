@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WrongAnswer
+  m_Name: AnswerWrong
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -63,25 +63,8 @@ AnimationClip:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-    genericBindings:
-    - serializedVersion: 2
-      path: 0
-      attribute: 4
-      script: {fileID: 0}
-      typeID: 4
-      customType: 4
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 0
-      attribute: 2015549526
-      script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-      typeID: 114
-      customType: 0
-      isPPtrCurve: 1
-    pptrCurveMapping:
-    - {fileID: -381988379332913519, guid: f705a4855d0b74945b87276e617add3e, type: 3}
-    - {fileID: -2685878023589303591, guid: f705a4855d0b74945b87276e617add3e, type: 3}
-    - {fileID: -2685878023589303591, guid: f705a4855d0b74945b87276e617add3e, type: 3}
+    genericBindings: []
+    pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
