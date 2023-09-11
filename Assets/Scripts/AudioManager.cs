@@ -117,7 +117,6 @@ public class AudioManager : MonoBehaviour
         stopBGM();
         bgmAudioSource.clip = prologueBGM;
         bgmAudioSource.volume = bgmVolume;
-        sfxAudioSource.pitch = 1.4f;
         bgmAudioSource.pitch = 0.45f;
         bgmAudioSource.loop = false;
         bgmAudioSource.Play();
@@ -127,7 +126,6 @@ public class AudioManager : MonoBehaviour
         stopBGM();
         bgmAudioSource.clip = mapBGM;
         bgmAudioSource.volume = bgmVolume;
-        sfxAudioSource.pitch = 1.0f;
         bgmAudioSource.pitch = 1.0f;
         bgmAudioSource.loop = true;
         bgmAudioSource.Play();
@@ -143,10 +141,16 @@ public class AudioManager : MonoBehaviour
     }
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        Array.Clear(buttons,0,buttons.Length);
         buttons = Resources.FindObjectsOfTypeAll<Button>();
         foreach (var button in buttons)
         {
+            //To stop more onclick listeners from being added to the setting buttons
+            if (button.name == "SettingOpenButton" ||
+                button.name == "SettingCloseButton") 
+            {
+                Debug.Log("Skipped " + button.name);
+                continue; 
+            }
             button.onClick.RemoveListener(playSelect);
             button.onClick.AddListener(() => playSelect());
         }
