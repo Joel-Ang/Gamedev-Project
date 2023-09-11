@@ -44,6 +44,8 @@ public class GameManager : MonoBehaviour
     public GameObject loseUI;
     public GameObject healthManagerObj;
     HealthManager healthManager;
+    public GameObject continueBtn;
+    public GameObject EndScene;
 
     public List<GameObject> allPlayers;
     public List<GameObject> allEnemies;
@@ -54,8 +56,6 @@ public class GameManager : MonoBehaviour
     float totalTurns = 0;
     float correctTurns = 0;
     float timeTaken = 0f;
-
-    AudioManager audiomanager;
 
     QuestionMenu questionMenu;
     public TextAsset jsonFile;
@@ -179,6 +179,11 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(2);
     }
 
+    public void gotoEndScene()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(5);
+    }
     public void retrylevel()
     {
         SceneManager.LoadScene(3);
@@ -198,11 +203,10 @@ public class GameManager : MonoBehaviour
 
         UpdateBattleState(BattleState.MCTurn); //to be run when loading level
 
-        audiomanager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
         questionMenu = GameObject.FindGameObjectWithTag("QuestionManager").GetComponent<QuestionMenu>();
         
         //set which question the stage is starts with
-        questionMenu.setCurrentTurn(0);
+        questionMenu.setCurrentTurn(LevelManager.quesIndex);
     }
 
     // Update is called once per frame
@@ -349,7 +353,7 @@ public class GameManager : MonoBehaviour
             if (hit && allEnemies.Contains(hit.transform.gameObject)) //if click is on an existing enemy
             {
                 //play select sound
-                audiomanager.playSelect();
+                AudioManager.instance.playSelect();
                 //destroy indicators
                 foreach (Transform i in enemyEffects.transform)
                 {
@@ -371,14 +375,15 @@ public class GameManager : MonoBehaviour
 
         totalTurns++;
         //check chosen answer         
-        bool checkAns = questionMenu.selectAnswer(chosenAns);
+        bool checkAns = questionMenu.checkAnswer(chosenAns);
 
-        if (checkAns) //correct answer
+
+        if (questionMenu.checkAnswer(chosenAns)) //correct answer
         {
             correctTurns++;
             //play correct ans and enemy damaged SFX
-            audiomanager.playCorrectAns();
-            audiomanager.playEnemyDamaged();
+            AudioManager.instance.playCorrectAns();
+            AudioManager.instance.playEnemyDamaged();
             healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
             //set next question
             questionMenu.nextQuestion();
@@ -391,8 +396,8 @@ public class GameManager : MonoBehaviour
             missEffect.transform.parent = enemyEffects.transform;
 
             //play wrong ans and miss SFX 
-            audiomanager.playWrongAns();
-            audiomanager.playMiss();
+            AudioManager.instance.playWrongAns();
+            AudioManager.instance.playMiss();
             
             UpdateBattleState(currentBattleState += 1);
         }
@@ -413,7 +418,7 @@ public class GameManager : MonoBehaviour
         currentPlayer = allPlayers[targetPlayerIndex];
 
         //play player damaged SFX
-        audiomanager.playPlayerDamaged();
+        AudioManager.instance.playPlayerDamaged();
 
         //deal damage to respective player
         if (currentPlayer == mcPlayer)
@@ -445,16 +450,16 @@ public class GameManager : MonoBehaviour
         if (allPlayers.Count == 0)
         {
             //play losing SFX and pause BGM
-            audiomanager.stopBGM();
-            audiomanager.playLose();
+            AudioManager.instance.stopBGM();
+            AudioManager.instance.playLose();
             UpdateBattleState(BattleState.Lose);
             Time.timeScale = 0f;
         }
         else if (allEnemies.Count == 0)
         {
             //play winning SFX and pause BGM
-            audiomanager.stopBGM();
-            audiomanager.playWin();
+            AudioManager.instance.stopBGM();
+            AudioManager.instance.playWin();
             UpdateBattleState(BattleState.Win);
             Time.timeScale = 0f;
         }
@@ -488,6 +493,8 @@ public class GameManager : MonoBehaviour
         {
             LevelManager.stage3Complete = true;
             calculateScore();
+            continueBtn.SetActive(false);
+            EndScene.SetActive(true);
         }
     }
 

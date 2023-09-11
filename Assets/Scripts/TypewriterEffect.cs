@@ -9,13 +9,11 @@ public class TypewriterEffect : MonoBehaviour
     public bool isFinishedTyping = true;
     bool skip = false;
     [SerializeField] float typingSpeed = 0.05f;
-
-    AudioSource aud;
+    
     // Start is called before the first frame update
     void Start()
     {
         txt = GetComponent<TMP_Text>();
-        aud = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -34,7 +32,7 @@ public class TypewriterEffect : MonoBehaviour
 
         foreach (char c in content)
         {
-            aud.Play();
+            AudioManager.instance.playTextTyping();
             if (skip)
             {
                 txt.text = content;
