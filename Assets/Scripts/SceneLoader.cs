@@ -30,14 +30,18 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
-
-    public void CongratsScene()
+    public void TutorialStage()
     {
-        SceneManager.LoadScene(6);
+        SceneManager.LoadScene(4);
     }
 
     public void EndScene()
     {
         SceneManager.LoadScene(5);
+    }
+
+    public void CongratsScene()
+    {
+        SceneManager.LoadScene(6);
     }
 }
