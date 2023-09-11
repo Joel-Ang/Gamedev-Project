@@ -7,6 +7,7 @@ public class TitleMenu : MonoBehaviour
 {
     public void StartGame()
     {
+        Debug.Log("Start Button Click");
         SceneManager.LoadScene(1);
     }
 
