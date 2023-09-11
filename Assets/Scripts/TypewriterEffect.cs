@@ -6,24 +6,34 @@ using TMPro;
 public class TypewriterEffect : MonoBehaviour
 {
     public TMP_Text txt;
+    public bool isFinishedTyping = true;
+    bool skip = false;
     [SerializeField] float typingSpeed = 0.05f;
-    [SerializeField] bool allowSkip = false;
     
     // Start is called before the first frame update
     void Start()
     {
         txt = GetComponent<TMP_Text>();
-        //StartCoroutine(TypeText(txt.text));
+    }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            skip = true;
+        }
     }
 
     public IEnumerator TypeText(string content)
     {
+        skip = false; //to only allow skip after typing starts
+        isFinishedTyping = false;
         txt.text = "";
 
         foreach (char c in content)
         {
             AudioManager.instance.playTextTyping();
-            if (allowSkip == true && Input.GetKeyDown(KeyCode.Space))
+            if (skip)
             {
                 txt.text = content;
                 break;
@@ -35,6 +45,7 @@ public class TypewriterEffect : MonoBehaviour
             }
         }
 
-        yield return new WaitForSeconds(1f);
+        skip = false;
+        isFinishedTyping = true;
     }
 }
