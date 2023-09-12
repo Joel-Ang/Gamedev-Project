@@ -26,7 +26,10 @@ public class AudioManager : MonoBehaviour
     public AudioClip enemyDeathSFX;
     public AudioClip playerDeathSFX;
     public AudioClip textTypingSFX;
-    public Button[] buttons;
+    public AudioClip endSceneBGM;
+    public AudioClip congratsSFX;
+
+    Button[] buttons;
     float bgmVolume = 0.3f;
     float sfxVolume = 1f;
     // Start is called before the first frame update
@@ -98,6 +101,11 @@ public class AudioManager : MonoBehaviour
     {
         sfxAudioSource.PlayOneShot(textTypingSFX, sfxVolume);
     }
+    public void playCongrats()
+    {
+        stopBGM();
+        sfxAudioSource.PlayOneShot(congratsSFX, sfxVolume);
+    }
     public void stopBGM()
     {
         sfxAudioSource.Stop();
@@ -139,6 +147,15 @@ public class AudioManager : MonoBehaviour
         bgmAudioSource.loop = true;
         bgmAudioSource.Play();
     }
+    public void playEndSceneBGM()
+    {
+        stopBGM();
+        bgmAudioSource.clip = endSceneBGM;
+        bgmAudioSource.volume = bgmVolume;
+        bgmAudioSource.pitch = 1.0f;
+        bgmAudioSource.loop = true;
+        bgmAudioSource.Play();
+    }
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
         buttons = Resources.FindObjectsOfTypeAll<Button>();
@@ -167,6 +184,14 @@ public class AudioManager : MonoBehaviour
         if (sceneName == "Battle" || sceneName == "Tutorial")
         {
             playBattleBGM();
+        }
+        if (sceneName == "EndScene")
+        {
+            playEndSceneBGM();
+        }
+        if (sceneName == "Congrats")
+        {
+            playCongrats();
         }
     }
     public void bgmVolumeChange(float vol)
