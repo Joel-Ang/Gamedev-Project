@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.Playables;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -14,12 +15,17 @@ public class DialogueManager : MonoBehaviour
     public TMP_Text dialogueText;
     public Image speakerImage;
     //[SerializeField] GameObject[] canTalk;
+    public PlayableDirector timelinePlayable;
 
     Queue<Dialogues.Character> allSpeakers;
     Queue<string> allDialogues;
 
     Dialogues.Character currentSpeaker;
-    bool isTalking = false;
+    bool isStarting = false; //check if first line
+    bool hideDialogue = false;
+    bool isTalking = false; //check for dialogue pause
+    string stopBeforeDialogue = ""; //dialogue to stop before
+    bool waitForAnim; //make true if animation needs to finish before next line starts
 
     private void Awake()
     {
@@ -36,31 +42,36 @@ public class DialogueManager : MonoBehaviour
         typewriterScript.txt = dialogueText;
         allSpeakers = new Queue<Dialogues.Character>();
         allDialogues = new Queue<string>();
-
-        //getDialogues();
-        //StartDialogue();
     }
 
     // Update is called once per frame
     void Update()
     {
-        //if (Input.GetKeyDown(KeyCode.Return) && isTalking == false)
-        //{
-        //    StartDialogue();
-        //}
         switch (currentSpeaker)
         {
             case Dialogues.Character.King:
                 speakerImage.sprite = Resources.Load<Sprite>("Dialogue_King");
-
                 nameText.text = currentSpeaker.ToString();
-
                 break;
+
             case Dialogues.Character.MC:
                 speakerImage.sprite = Resources.Load<Sprite>("Dialogue_MC");
-
                 nameText.text = currentSpeaker.ToString();
+                break;
 
+            case Dialogues.Character.Sorcerer:
+                speakerImage.sprite = Resources.Load<Sprite>("Dialogue_Sorcerer");
+                nameText.text = currentSpeaker.ToString();
+                break;
+
+            case Dialogues.Character.Boss:
+                speakerImage.sprite = Resources.Load<Sprite>("Dialogue_Boss");
+                nameText.text = currentSpeaker.ToString();
+                break;
+
+            case Dialogues.Character.Senpai:
+                speakerImage.sprite = Resources.Load<Sprite>("Dialogue_Senpai");
+                nameText.text = currentSpeaker.ToString();
                 break;
         }
     }
@@ -80,38 +91,81 @@ public class DialogueManager : MonoBehaviour
         StartCoroutine(DisplayDialogue());
     }
 
-    public void EndDialogue()
+    public void StopDialogue(string before)
     {
+        //timelinePlayable.Pause();
         isTalking = false;
+        stopBeforeDialogue = before;
+        hideDialogue = false;
+    }
+    public void StopAndCloseDialogue(string before)
+    {
+        //timelinePlayable.Pause();
+        isTalking = false;
+        stopBeforeDialogue = before;
+        hideDialogue = true;
+    }
+
+    public void CheckAnimation(bool waiting)
+    {
+        waitForAnim = waiting;
+        if (waitForAnim == false)
+        {
+            timelinePlayable.Pause();
+        }
     }
 
     IEnumerator DisplayDialogue()
     {
         dialogueBoxObj.SetActive(true);
+        isStarting = true;
 
-        for (int i = 0; i < allDialogues.Count;)
+        while (allDialogues.Count > 0)
         {
-            currentSpeaker = allSpeakers.Dequeue();
-            
-            if (allDialogues.Peek() == "")
+            //go to next line (if end of line and spacebar is pressed OR if starting line)
+            if ((typewriterScript.isFinishedTyping && Input.GetKeyDown(KeyCode.Space)) || isStarting)
             {
-                yield return StartCoroutine(typewriterScript.TypeText("I have nothing to say :((("));
-                allDialogues.Dequeue();
-            }
-            else
-            {
-                yield return StartCoroutine(typewriterScript.TypeText(allDialogues.Dequeue()));
-                //Debug.Log("nth");
-            }
+                if (isStarting)
+                {
+                    isStarting = false;
+                }
 
-            if (isTalking == false)
-            {
-                yield return new WaitForSeconds(0.5f);
-                dialogueBoxObj.SetActive(false);
-                yield break;
+                //replace if dialogue is empty
+                if (allDialogues.Peek() == "")
+                {
+                    currentSpeaker = allSpeakers.Dequeue();
+                    yield return StartCoroutine(typewriterScript.TypeText("..."));
+                    allDialogues.Dequeue();
+                }
+                //if next line is a pause
+                else if (allDialogues.Peek() == stopBeforeDialogue && !isTalking)
+                {
+                    timelinePlayable.Play();
+                    isTalking = true;
+                    if (hideDialogue)
+                    {
+                        dialogueBoxObj.SetActive(false);
+                    }
+                    yield break;
+                }
+                //type text if no animations to wait for
+                else if (!waitForAnim)
+                {
+                    currentSpeaker = allSpeakers.Dequeue();
+                    yield return StartCoroutine(typewriterScript.TypeText(allDialogues.Dequeue()));
+                    //Debug.Log("nth");
+                }
             }
+            yield return null;
         }
-        
-        dialogueBoxObj.SetActive(false);
+
+        yield return new WaitForSeconds(1f);
+        //Debug.Log("story end");
+        timelinePlayable.Play();
+    }
+
+    public void DisplayNextSceneButton(GameObject buttonObj)
+    {
+        buttonObj.SetActive(true);
     }
 }

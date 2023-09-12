@@ -11,6 +11,7 @@ TagManager:
   - Player4
   - AudioManager
   - QuestionManager
+  - SettingManager
   layers:
   - Default
   - TransparentFX

@@ -16,6 +16,10 @@ public class SceneLoader : MonoBehaviour
     {
         
     }
+    public void TitleScene()
+    {
+        SceneManager.LoadScene(0);
+    }
 
     public void MapScene()
     {
@@ -25,5 +29,19 @@ public class SceneLoader : MonoBehaviour
     public void Stage1()
     {
         SceneManager.LoadScene(3);
+    }
+    public void TutorialStage()
+    {
+        SceneManager.LoadScene(4);
+    }
+
+    public void EndScene()
+    {
+        SceneManager.LoadScene(5);
+    }
+
+    public void CongratsScene()
+    {
+        SceneManager.LoadScene(6);
     }
 }
