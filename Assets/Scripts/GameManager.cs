@@ -39,6 +39,7 @@ public class GameManager : MonoBehaviour
     public GameObject enemyEffects;
     public GameObject questionUI;
     public GameObject answerIcon;
+    public Button[] allOptions;
     public GameObject winUI;
     public TMP_Text accuracyScoreText;
     public TMP_Text timeScoreText;
@@ -58,6 +59,7 @@ public class GameManager : MonoBehaviour
     float totalTurns = 0;
     float correctTurns = 0;
     float timeTaken = 0f;
+    bool answered = false;
 
     QuestionMenu questionMenu;
     public TextAsset jsonFile;
@@ -178,6 +180,7 @@ public class GameManager : MonoBehaviour
     //testing, to be cleaned later
     public void backtomap()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(2);
     }
 
@@ -188,6 +191,7 @@ public class GameManager : MonoBehaviour
     }
     public void retrylevel()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(3);
     }
 
@@ -373,7 +377,18 @@ public class GameManager : MonoBehaviour
 
     public void selectAnswer(int chosenAns)
     {
-        StartCoroutine(AnswerOutcome(chosenAns));
+        //disable buttons after answering
+        foreach (Button options in allOptions)
+        {
+            options.interactable = false;
+        }
+
+        answered = true;
+
+        if (answered)
+        {
+            StartCoroutine(AnswerOutcome(chosenAns));
+        }
     }
 
     IEnumerator AnswerOutcome(int answer)
@@ -420,6 +435,14 @@ public class GameManager : MonoBehaviour
             AudioManager.instance.playMiss();
 
             NextBattleState();
+        }
+
+        answered = false;
+
+        //enable buttons for next question
+        foreach (Button options in allOptions)
+        {
+            options.interactable = true;
         }
     }
 
