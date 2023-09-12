@@ -183,7 +183,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8884758181943517489, guid: 0f17545870005f74b81c93bba8d07079,
+  m_Sprite: {fileID: 8884758181943517489, guid: f039822f1238c4d47bd89469357c74c9,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -1368,7 +1368,8 @@ MonoBehaviour:
   enemyDeathSFX: {fileID: 8300000, guid: c77cfd9a0e9922f43b6fb45c629c8f66, type: 3}
   playerDeathSFX: {fileID: 0}
   textTypingSFX: {fileID: 8300000, guid: 782daaae939c27442b6aad04a8d98b71, type: 3}
-  buttons: []
+  endSceneBGM: {fileID: 8300000, guid: f3d58280eae480343a732d8b23d48e9c, type: 3}
+  congratsSFX: {fileID: 8300000, guid: c4c53442292d611469e5a3a6d0940245, type: 3}
 --- !u!4 &559035166
 Transform:
   m_ObjectHideFlags: 0
@@ -2645,7 +2646,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -5290315064096304010, guid: 0f17545870005f74b81c93bba8d07079,
+  m_Sprite: {fileID: -5290315064096304010, guid: f039822f1238c4d47bd89469357c74c9,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
