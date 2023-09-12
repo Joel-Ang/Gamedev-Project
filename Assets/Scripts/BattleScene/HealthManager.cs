@@ -20,7 +20,6 @@ public class HealthManager : MonoBehaviour
 
     //public GameObject healthPrefab;
 
-    AudioManager audiomanager;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,7 +28,6 @@ public class HealthManager : MonoBehaviour
         mageHealth = new HealthSystem(GameManager.instance.magePlayer, 5);
         priestHealth = new HealthSystem(GameManager.instance.priestPlayer, 5);
         
-        audiomanager = GameObject.FindGameObjectWithTag("AudioManager").GetComponent<AudioManager>();
 
     }
 
@@ -119,7 +117,7 @@ public class HealthManager : MonoBehaviour
             }
             else if (healthToCheck.Character.tag == "Enemy")
             {
-                audiomanager.playEnemyDeath();
+                AudioManager.instance.playEnemyDeath();
                 GameManager.instance.allEnemies.Remove(healthToCheck.Character);
                 enemiesHealth.Remove(healthToCheck);
             }
