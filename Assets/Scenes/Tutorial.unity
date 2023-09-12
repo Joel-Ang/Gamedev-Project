@@ -3550,6 +3550,11 @@ MonoBehaviour:
   enemyEffects: {fileID: 1501640640}
   questionUI: {fileID: 208602586}
   answerIcon: {fileID: 1501021845}
+  allOptions:
+  - {fileID: 153411330}
+  - {fileID: 855697905}
+  - {fileID: 1785341196}
+  - {fileID: 1211631981}
   winUI: {fileID: 269682895}
   accuracyScoreText: {fileID: 372340262}
   timeScoreText: {fileID: 445802936}
