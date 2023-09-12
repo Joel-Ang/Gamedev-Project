@@ -32,7 +32,7 @@ public class TypewriterEffect : MonoBehaviour
 
         foreach (char c in content)
         {
-            //AudioManager.instance.playTextTyping();
+            AudioManager.instance.playTextTyping();
             if (skip)
             {
                 txt.text = content;
