@@ -425,12 +425,12 @@ public class GameManager : MonoBehaviour
 
         totalTurns++;
 
+        questionMenu.nextQuestion(); //set next question
         if (isAnswer) //correct answer
         {
             correctTurns++;
             healthManager.ReceiveDamage(healthManager.enemiesHealth[enemyIndex]);
             AudioManager.instance.playEnemyDamaged(); //play enemy damaged SFX
-            questionMenu.nextQuestion(); //set next question
         }
         else //wrong answer
         {
