@@ -401,7 +401,7 @@ public class GameManager : MonoBehaviour
 
     IEnumerator AnswerOutcome(int answer)
     {
-        answerIcon.SetActive(true);
+        //answerIcon.SetActive(true);
 
         //check chosen answer         
         bool isAnswer = questionMenu.checkAnswer(answer);
@@ -420,7 +420,7 @@ public class GameManager : MonoBehaviour
         }
 
         yield return new WaitForSecondsRealtime(0.4f);
-        answerIcon.SetActive(false);
+        //answerIcon.SetActive(false);
         questionUI.SetActive(false);
 
         totalTurns++;
