@@ -164,7 +164,7 @@
                 "Boolean",
                 "Character"
             ],
-            "ans": "1"
+            "ans": "3"
         },
         {
             "qn": " Which module must be imported to work with regular expressions in Python?",
