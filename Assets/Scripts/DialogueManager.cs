@@ -7,7 +7,7 @@ using UnityEngine.Playables;
 
 public class DialogueManager : MonoBehaviour
 {
-    public static DialogueManager instance;
+    //public static DialogueManager instance;
     
     TypewriterEffect typewriterScript;
     public GameObject dialogueBoxObj;
@@ -29,10 +29,10 @@ public class DialogueManager : MonoBehaviour
 
     private void Awake()
     {
-        if (instance == null)
-        {
-            instance = this;
-        }
+        //if (instance == null)
+        //{
+        //    instance = this;
+        //}
     }
 
     // Start is called before the first frame update
@@ -113,6 +113,11 @@ public class DialogueManager : MonoBehaviour
         {
             timelinePlayable.Pause();
         }
+    }
+
+    public void PlayTimeline()
+    {
+        timelinePlayable.Play();
     }
 
     IEnumerator DisplayDialogue()
