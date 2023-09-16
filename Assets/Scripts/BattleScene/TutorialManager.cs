@@ -17,14 +17,14 @@ public class TutorialManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GameManager.instance.AttackButton.onClick.AddListener(ContinueTutorial); //to end tutorial 1
+        GameManager.instance.attackButton.onClick.AddListener(ContinueTutorial); //to end tutorial 1
         foreach (Transform option in optionButtons)
         {
             option.GetComponent<Button>().onClick.AddListener(ContinueTutorial); //to end tutorial 3 (part 2/2)
         }
 
         inTutorial = true;
-        GameManager.instance.AttackButton.interactable = false;
+        GameManager.instance.attackButton.interactable = false;
         StartCoroutine(StartTutorial(tutorial1, 1.5f)); //start first tutorial
     }
 
@@ -88,7 +88,7 @@ public class TutorialManager : MonoBehaviour
         tutorial.SetActive(true);
         if (tutorial == tutorial1)
         {
-            GameManager.instance.AttackButton.interactable = true;
+            GameManager.instance.attackButton.interactable = true;
         }
     }
 }

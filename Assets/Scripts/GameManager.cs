@@ -18,7 +18,6 @@ public class GameManager : MonoBehaviour
         MageTurn,
         PriestTurn,
         EnemyTurn,
-        Run,
         Win,
         Lose
     }
@@ -29,8 +28,14 @@ public class GameManager : MonoBehaviour
     public GameObject priestPlayer;
     public GameObject playerTurn;
 
+    public Image turnIcon;
+    public Sprite mcIcon;
+    public Sprite knightIcon;
+    public Sprite mageIcon;
+    public Sprite priestIcon;
+
     public SpriteRenderer bg;
-    public Button AttackButton;
+    public Button attackButton;
     public GameObject enemyWeakPrefab;
     public GameObject enemyStrongPrefab;
     public GameObject enemyBossPrefab;
@@ -62,11 +67,15 @@ public class GameManager : MonoBehaviour
     bool answered = false;
 
     QuestionMenu questionMenu;
-    public TextAsset jsonFile;
+    //public TextAsset jsonFile;
 
     void Awake()
     {
-        if (instance == null)
+        if (instance != null && instance != this)
+        {
+            Destroy(this.gameObject);
+        }
+        else
         {
             instance = this;
         }
@@ -202,12 +211,11 @@ public class GameManager : MonoBehaviour
 
         allPlayers = new List<GameObject> { mcPlayer, knightPlayer, magePlayer, priestPlayer };
         allEnemies = new List<GameObject>(GameObject.FindGameObjectsWithTag("Enemy"));
-        //Debug.Log("number of players: " + allPlayers.Count);
 
         healthManager = healthManagerObj.GetComponent<HealthManager>();
         healthManager.GetEnemyHealth();
 
-        UpdateBattleState(BattleState.MCTurn); //to be run when loading level
+        UpdateBattleState(BattleState.MCTurn); //MC turn first
 
         questionMenu = GameObject.FindGameObjectWithTag("QuestionManager").GetComponent<QuestionMenu>();
         
@@ -284,10 +292,6 @@ public class GameManager : MonoBehaviour
                 EnemyTurn();
                 break;
 
-            //case BattleState.Run:
-            //    BattleRun();
-            //    break;
-
             case BattleState.Win:
                 BattleWin();
                 break;
@@ -306,29 +310,33 @@ public class GameManager : MonoBehaviour
     void MCTurn()
     {
         currentPlayer = mcPlayer;
+        turnIcon.sprite = mcIcon;
         playerTurn.transform.position = new Vector2(mcPlayer.transform.position.x, mcPlayer.transform.position.y - 1f);
-        AttackButton.interactable = true;
+        attackButton.interactable = true;
     }
 
     void KnightTurn()
     {
         currentPlayer = knightPlayer;
+        turnIcon.sprite = knightIcon;
         playerTurn.transform.position = new Vector2(knightPlayer.transform.position.x, knightPlayer.transform.position.y - 0.85f);
-        AttackButton.interactable = true;
+        attackButton.interactable = true;
     }
 
     void MageTurn()
     {
         currentPlayer = magePlayer;
+        turnIcon.sprite = mageIcon;
         playerTurn.transform.position = new Vector2(magePlayer.transform.position.x, magePlayer.transform.position.y - 0.9f);
-        AttackButton.interactable = true;
+        attackButton.interactable = true;
     }
 
     void PriestTurn()
     {
         currentPlayer = priestPlayer;
+        turnIcon.sprite = priestIcon;
         playerTurn.transform.position = new Vector2(priestPlayer.transform.position.x, priestPlayer.transform.position.y - 0.7f);
-        AttackButton.interactable = true;
+        attackButton.interactable = true;
     }
 
     //when attack button is pressed (players will have to first choose an enemy)
@@ -369,7 +377,7 @@ public class GameManager : MonoBehaviour
                 choosingEnemy = false;
                 enemyIndex = allEnemies.IndexOf(hit.transform.gameObject);
 
-                AttackButton.interactable = false;
+                attackButton.interactable = false;
                 currentPlayer.GetComponent<Animator>().SetTrigger("isAttacking");
             }
         }
@@ -393,7 +401,7 @@ public class GameManager : MonoBehaviour
 
     IEnumerator AnswerOutcome(int answer)
     {
-        answerIcon.SetActive(true);
+        //answerIcon.SetActive(true);
 
         //check chosen answer         
         bool isAnswer = questionMenu.checkAnswer(answer);
@@ -412,7 +420,7 @@ public class GameManager : MonoBehaviour
         }
 
         yield return new WaitForSecondsRealtime(0.4f);
-        answerIcon.SetActive(false);
+        //answerIcon.SetActive(false);
         questionUI.SetActive(false);
 
         totalTurns++;
@@ -449,7 +457,7 @@ public class GameManager : MonoBehaviour
     void EnemyTurn()
     {
         playerTurn.SetActive(false);
-        AttackButton.interactable = false;
+        attackButton.interactable = false;
 
         allEnemies[0].GetComponent<Animator>().SetTrigger("isAttacking");
     }
@@ -467,22 +475,22 @@ public class GameManager : MonoBehaviour
         if (currentPlayer == mcPlayer)
         {
             healthManager.ReceiveDamage(healthManager.mcHealth);
-            Debug.Log("MC HP: " + healthManager.mcHealth.Health);
+            //Debug.Log("MC HP: " + healthManager.mcHealth.Health);
         }
         else if (currentPlayer == knightPlayer)
         {
             healthManager.ReceiveDamage(healthManager.knightHealth);
-            Debug.Log("Knight HP: " + healthManager.knightHealth.Health);
+            //Debug.Log("Knight HP: " + healthManager.knightHealth.Health);
         }
         else if (currentPlayer == magePlayer)
         {
             healthManager.ReceiveDamage(healthManager.mageHealth);
-            Debug.Log("Mage HP: " + healthManager.mageHealth.Health);
+            //Debug.Log("Mage HP: " + healthManager.mageHealth.Health);
         }
         else if (currentPlayer == priestPlayer)
         {
             healthManager.ReceiveDamage(healthManager.priestHealth);
-            Debug.Log("Priest HP: " + healthManager.priestHealth.Health);
+            //Debug.Log("Priest HP: " + healthManager.priestHealth.Health);
         }
     }
 

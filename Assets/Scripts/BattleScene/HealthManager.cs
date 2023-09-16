@@ -23,10 +23,10 @@ public class HealthManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        mcHealth = new HealthSystem(GameManager.instance.mcPlayer, 5);
-        knightHealth = new HealthSystem(GameManager.instance.knightPlayer, 5);
-        mageHealth = new HealthSystem(GameManager.instance.magePlayer, 5);
-        priestHealth = new HealthSystem(GameManager.instance.priestPlayer, 5);
+        mcHealth = new HealthSystem(GameManager.instance.mcPlayer, 4);
+        knightHealth = new HealthSystem(GameManager.instance.knightPlayer, 4);
+        mageHealth = new HealthSystem(GameManager.instance.magePlayer, 4);
+        priestHealth = new HealthSystem(GameManager.instance.priestPlayer, 4);
         
 
     }

@@ -24,6 +24,12 @@ public class BattleAnimBehaviour : StateMachineBehaviour
             GameManager.instance.StartCoroutine(DestroyAfterAnimation(stateInfo, animator.transform.parent.gameObject));
             Debug.Log(animator.transform.parent.gameObject);
         }
+
+        //change character turn icon to enemies
+        if (stateInfo.IsName("Attack") && animator.gameObject.tag == "Enemy")
+        {
+            GameManager.instance.turnIcon.sprite = animator.gameObject.GetComponentInChildren<SpriteRenderer>().sprite;
+        }
     }
 
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
