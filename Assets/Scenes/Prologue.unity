@@ -1046,8 +1046,7 @@ MonoBehaviour:
   - character: 1
     content: "Well alright\u2026"
   - character: 0
-    content: Yippee! Quickly now, into the next room, there are people anxious to
-      meet you.
+    content: Yippee! The guard will come and guide you. I wish you all the best!
 --- !u!1 &1145619391
 GameObject:
   m_ObjectHideFlags: 0

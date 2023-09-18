@@ -3481,9 +3481,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Code Kingdom: Revision Warriors\n\nDeveloped by\n\nTeam 18\n\nProject
-    Manager\n\nOwen\n\nLead Developer\n\nTrixy\n\nDeveloper\n\nKimberly, Owen\n\nGame
-    Artist\n\nOwen, Kimberly\n\nLevel Designer\n\nJoel\n\nSound Artist\n\n Joel"
+  m_text: "Code Kingdom: Revision Warriors\n\nDeveloped by\n\nTeam 19\n\nSprint Master\n\nOwen\n\nLead
+    Developer\n\nTrixy\n\nDeveloper\n\nKimberly, Owen, Joel\n\nGame Artist\n\nOwen,
+    Kimberly\n\nLevel Designer\n\nJoel\n\nSound Artist\n\n Joel"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 08eb5fafd51db7a43b497c2548b9fce2, type: 2}
   m_sharedMaterial: {fileID: 6222037635082254482, guid: 08eb5fafd51db7a43b497c2548b9fce2,
